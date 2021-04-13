@@ -128,7 +128,7 @@ Route::get('/faq', function () {
 });
 
 Route::get('/ipg', function () {
-    return view('IPG');
+    return view('ipg');
 });
 
 Route::get('/payment', function () {
