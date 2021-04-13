@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  lara-aia:
+    build: .
+    volumes:
+      - ./
+    ports:
+      - 8003:80
+

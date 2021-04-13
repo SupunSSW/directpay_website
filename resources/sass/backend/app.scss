@@ -1,0 +1,21 @@
+/*!
+ * CoreUI - Open Source Dashboard UI Kit
+ * @version v2.0.4
+ * @link https://coreui.io
+ * Copyright (c) 2018 creativeLabs Łukasz Holeczek
+ * Licensed under MIT (https://coreui.io/license)
+ */
+
+// If you want to override variables do it here
+@import "variables";
+
+// Import styles
+@import "~@coreui/coreui/scss/coreui";
+
+// If you want to add something do it here
+@import "custom";
+@import "datatables.min.css";
+@import "~bootstrap-datepicker/dist/css/bootstrap-datepicker3.min.css";
+@import "~intl-tel-input/build/css/intlTelInput.min.css";
+@import "~air-datepicker/dist/css/datepicker.min.css";
+@import "~bootstrap-select/dist/css/bootstrap-select.min.css";

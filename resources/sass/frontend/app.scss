@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Bootstrap
+@import '../../../node_modules/bootstrap/scss/bootstrap';
+
+@import '~bs-stepper/dist/css/bs-stepper.min.css';
+@import "~sweetalert2/dist/sweetalert2.min.css";
+@import "~font-awesome/scss/font-awesome";
+
+// Global
+@import 'global';
+
+// Pages
+@import 'pages/dashboard';
+
+// Bootstrap Overrides
+@import 'custom';
+
+// Plugins
