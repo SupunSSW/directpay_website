@@ -27,7 +27,7 @@
 </head>
 
 <!-- [ auth-signin ] start -->
-
+<body>
 <div class="auth-wrapper">
     <div class="auth-content">
         <div class="card">

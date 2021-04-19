@@ -21,22 +21,22 @@
 		<link href="css/responsive.css" rel="stylesheet">
 	</head>
 	<body>
-		
+
 			<!--Start Header -->
-	
+
 		<!-- top bar end -->
 <header class="nav-bg-w main-header navfix fixed-top menu-white">
 			<div class="container-fluid m-pad">
-				
+
 				<div class="menu-header">
 					<div class="dsk-logo"><a class="nav-brand" href="consumer">
 						<img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-						<img src="images/logo.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+						<img src="images/logo.png" alt="Logo" class="mega-darks-logo" width="180px">
 					</a></div>
 					<div class="custom-nav" role="navigation">
 						<ul class="nav-list">
 							<li class="sbmenu"><a href="consumer" class="menu-links">Home</a>
-						
+
 						</li>
 						<li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
 						<div class="nx-dropdown">
@@ -48,12 +48,12 @@
 												<li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-												
+
 											</ul>
 										</div>
 										<div class="sub-menu-column">
 											<ul>
-												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></font></a></li>
+												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -103,7 +103,7 @@
 <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></font></a></li>
+<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -131,7 +131,7 @@
 <div class="modal-content">
 <div class="modal-header">
 	<div class="common-heading">
-		<h4 class="mt0 mb0">Write a Message</h4>		
+		<h4 class="mt0 mb0">Write a Message</h4>
 	</div>
 <button type="button" class="closes" data-dismiss="modal">&times;</button></div>
 <!-- Modal body -->
@@ -167,9 +167,9 @@
             <div class="col-lg-12 v-center">
               <div class="bread-inner">
                 <div class="bread-menu">
-              
+
                 </div>
-               
+
               </div>
             </div>
           </div>
@@ -202,33 +202,33 @@
             <div class="image-set"><img src="images/blog/blog-post-1.jpg" alt="blog images" class="img-fluid" /></div>
             <div class="blog-content mt30">
               <p>
-                Seedstars World, the largest start-up competition for emerging markets and fast-growing start-up scenes, brought its Sri Lanka round to a successful close during Seedstars Colombo. The event took place on 25 October at Hatch, where 11 selected start-ups presented their companies in front of a jury panel of experts. 
+                Seedstars World, the largest start-up competition for emerging markets and fast-growing start-up scenes, brought its Sri Lanka round to a successful close during Seedstars Colombo. The event took place on 25 October at Hatch, where 11 selected start-ups presented their companies in front of a jury panel of experts.
               </p>
-            
+
               <p>
-               DirectPay won the Sri Lanka round of Seedstars World, organised by SLASSCOM. They will participate at the Seedstars Asia Summit 2018, to be held in Bangkok for the second time, and at Seedstars Global Summit in Switzerland, where they will have the chance to win up to $ 1 million in equity investments and other prizes. 
+               DirectPay won the Sri Lanka round of Seedstars World, organised by SLASSCOM. They will participate at the Seedstars Asia Summit 2018, to be held in Bangkok for the second time, and at Seedstars Global Summit in Switzerland, where they will have the chance to win up to $ 1 million in equity investments and other prizes.
               </p>
               <br>
               <p>
-               The local winner, DirectPay, a mobile payment platform that allows digital payments convenient for the user by making a payment with only a ‘Click! Scan! and Pay!’ was named ‘Seedstars Best Start-up in Sri Lanka’ for its innovative sustainable solution. 
+               The local winner, DirectPay, a mobile payment platform that allows digital payments convenient for the user by making a payment with only a ‘Click! Scan! and Pay!’ was named ‘Seedstars Best Start-up in Sri Lanka’ for its innovative sustainable solution.
 
               </p>
-              
-           
+
+
 
 			  <div class="row">
 									<div class="col-lg-8 col-md-8 mt30 mb30">
 										<div class="blog-post-tag">
 											<span>Read Dailymirror</span>
 											<a href="http://www.ft.lk/it-telecom-tech/DirectPay-wins-Seedstars-Colombo-2018/50-665775">Visit Dailymirror Article</a>
-										
+
 										</div>
 									</div>
-							
+
 			</div>
 			<div class="row">
 
-									
+
 									<div class="col-lg-6 col-md-6 mt30 mb30">
 										<div class="post-navigation text-left ">
 											<span><a href="blog5">Prev Post</a></span>
@@ -244,7 +244,7 @@
 								</div>
 
             </div>
-      
+
 
           </div>
           <!--End Blog Details-->
@@ -316,7 +316,7 @@
 
               <!--End Tags-->
               <!--Start block for offer/ads-->
-            
+
               <!--End block for offer/ads-->
             </div>
           </div>

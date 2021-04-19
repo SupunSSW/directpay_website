@@ -21,22 +21,22 @@
 		<link href="css/responsive.css" rel="stylesheet">
 	</head>
 	<body>
-		
+
 			<!--Start Header -->
-	
+
 		<!-- top bar end -->
 <header class="nav-bg-w main-header navfix fixed-top menu-white">
 			<div class="container-fluid m-pad">
-				
+
 				<div class="menu-header">
 					<div class="dsk-logo"><a class="nav-brand" href="consumer">
 						<img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-						<img src="images/logo.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+						<img src="images/logo.png" alt="Logo" class="mega-darks-logo" width="180px">
 					</a></div>
 					<div class="custom-nav" role="navigation">
 						<ul class="nav-list">
 							<li class="sbmenu"><a href="consumer" class="menu-links">Home</a>
-						
+
 						</li>
 						<li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
 						<div class="nx-dropdown">
@@ -48,12 +48,12 @@
 												<li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-												
+
 											</ul>
 										</div>
 										<div class="sub-menu-column">
 											<ul>
-												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></font></a></li>
+												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -103,7 +103,7 @@
 <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User APP</a></li>
 												<li><a href="web">Web</a></li>
-<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></font></a></li>
+<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant APP</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -131,7 +131,7 @@
 <div class="modal-content">
 <div class="modal-header">
 	<div class="common-heading">
-		<h4 class="mt0 mb0">Write a Message</h4>		
+		<h4 class="mt0 mb0">Write a Message</h4>
 	</div>
 <button type="button" class="closes" data-dismiss="modal">&times;</button></div>
 <!-- Modal body -->
@@ -167,9 +167,9 @@
             <div class="col-lg-12 v-center">
               <div class="bread-inner">
                 <div class="bread-menu">
-              
+
                 </div>
-               
+
               </div>
             </div>
           </div>
@@ -204,9 +204,9 @@
               <p>
                The 18th Asia Pacific ICT Alliance (APITCA) awards 2018, which was held in Guangzhou, China from 10 to 14 October, named DirectPay as the overall winner in the Consumer – Wealth and Retail Category and Park and Pay with a Merit Award in the Start Up of the Year – Business and Community Category.
 
-            
+
               <p>
-               The APICTA Awards is the largest IT competition in the Asia Pacific Region organised in order to bring awareness on ICT amongst the community and assist in bridging the digital divide. The award brings recognition to innovative products and solutions from ICT talents originating from the Asia Pacific region. 
+               The APICTA Awards is the largest IT competition in the Asia Pacific Region organised in order to bring awareness on ICT amongst the community and assist in bridging the digital divide. The award brings recognition to innovative products and solutions from ICT talents originating from the Asia Pacific region.
               </p>
               <br>
               <p>
@@ -214,18 +214,18 @@
 
 
               </p>
-              
-           
+
+
 
 			  <div class="row">
 									<div class="col-lg-8 col-md-8 mt30 mb30">
 										<div class="blog-post-tag">
 											<span>Read Dailymirror</span>
 											<a href="http://www.ft.lk/it-telecom-tech/Fintech-startups-make-Sri-Lanka-proud-by-winning-Gold-and-Merit-awards-at-APICTA/50-665186">Visit Dailymirror Article</a>
-										
+
 										</div>
 									</div>
-							
+
 			</div>
 			<div class="row">
 
@@ -244,7 +244,7 @@
 								</div>
 
             </div>
-      
+
 
           </div>
           <!--End Blog Details-->
@@ -316,7 +316,7 @@
 
               <!--End Tags-->
               <!--Start block for offer/ads-->
-            
+
               <!--End block for offer/ads-->
             </div>
           </div>

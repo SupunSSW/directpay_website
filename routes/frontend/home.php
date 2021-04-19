@@ -136,11 +136,11 @@ Route::get('/payment', function () {
 });
 
 Route::get('/pos', function () {
-    return view('POS');
+    return view('pos');
 });
 
 Route::get('/privacy', function () {
-    return view('Privacy');
+    return view('privacy');
 });
 
 Route::get('/terms', function () {
@@ -152,15 +152,15 @@ Route::get('/test', function () {
 });
 
 Route::get('/vpos', function () {
-    return view('VPOS');
+    return view('vpos');
 });
 
 Route::get('/web', function () {
-    return view('Web');
+    return view('web');
 });
 
 Route::get('/whitelable', function () {
-    return view('Whitelable');
+    return view('whitelable');
 });
 
 Route::get('/mtest', function () {

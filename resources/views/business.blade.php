@@ -27,7 +27,7 @@
     <meta property="og:title" content="Page 1">
     <meta property="og:type" content="website">
     <meta property="og:description" content="DirectPay is your digital partner that simplifies the checkout process across your purchases online in Sri Lanka.">
-    <meta name="theme-color" content="#478ac9">
+    <meta name="theme-color" content="fff">
     <link rel="canonical" href="index.html">
     <meta property="og:url" content="index.html">
     <style type="text/css">

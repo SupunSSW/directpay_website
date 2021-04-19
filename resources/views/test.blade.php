@@ -31,7 +31,7 @@
 				<div class="menu-header">
 					<div class="dsk-logo"><a class="nav-brand" href="consumer.php">
 						<img src="images/white-logo-b.png" alt="Logo" class="mega-white-logo"/>
-						<img src="images/logo-b.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+						<img src="images/logo-b.png" alt="Logo" class="mega-darks-logo" width="180px">
 					</a></div>
 					<div class="custom-nav" role="navigation">
 						<ul class="nav-list">
@@ -53,7 +53,7 @@
 										</div>
 										<div class="sub-menu-column">
 											<ul>
-												<li><a href="merchant.php"><font color="#ff822e" size="3.5px">Business</font></font></a></li>
+												<li><a href="merchant.php"><font color="#ff822e" size="3.5px">Business</font></a></li>
 												<li><a href="ipg.php">IPG</a></li>
 												<li><a href="merchant.php">Merchant App</a> </li>
 												<li><a href="pos.php">POS</a> </li>
@@ -103,7 +103,7 @@
 <li><a href="consumer.php"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer.php">User App</a></li>
 												<li><a href="web.php">Web</a></li>
-<li><a href="merchant.php"><font color="#012480" size="3.5px">Business</font></font></a></li>
+<li><a href="merchant.php"><font color="#012480" size="3.5px">Business</font></a></li>
 												<li><a href="ipg.php">IPG</a></li>
 												<li><a href="merchant.php">Merchant App</a> </li>
 												<li><a href="pos.php">POS</a> </li>
@@ -123,7 +123,7 @@
 </nav>
 </div>
 </header>
-<body>
+
 
 <?php
 function isMobile() {

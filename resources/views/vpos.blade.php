@@ -21,22 +21,22 @@
 		<link href="css/responsive.css" rel="stylesheet">
 	</head>
 	<body>
-		
+
 			<!--Start Header -->
 
 		<!-- top bar end -->
 <header class="nav-bg-w main-header navfix fixed-top menu-white">
 			<div class="container-fluid m-pad">
-				
+
 				<div class="menu-header">
 					<div class="dsk-logo"><a class="nav-brand" href="business">
 						<img src="images/white-logo-b.png" alt="Logo" class="mega-white-logo"/>
-						<img src="images/logo-b.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+						<img src="images/logo-b.png" alt="Logo" class="mega-darks-logo" width="180px">
 					</a></div>
 					<div class="custom-nav" role="navigation">
 						<ul class="nav-list">
 							<li class="sbmenu"><a href="consumer" class="menu-links">Home</a>
-						
+
 						</li>
 						<li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
 						<div class="nx-dropdown">
@@ -48,12 +48,12 @@
 												<li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-												
+
 											</ul>
 										</div>
 										<div class="sub-menu-column">
 											<ul>
-												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></font></a></li>
+												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -103,7 +103,7 @@
 <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></font></a></li>
+<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -131,7 +131,7 @@
 <div class="modal-content">
 <div class="modal-header">
 	<div class="common-heading">
-		<h4 class="mt0 mb0">Write a Message</h4>		
+		<h4 class="mt0 mb0">Write a Message</h4>
 	</div>
 <button type="button" class="closes" data-dismiss="modal">&times;</button></div>
 <!-- Modal body -->
@@ -165,7 +165,7 @@
 <div class="modal-content">
 <div class="modal-header">
 	<div class="common-heading">
-		<h4 class="mt0 mb0">Write a Message</h4>		
+		<h4 class="mt0 mb0">Write a Message</h4>
 	</div>
 <button type="button" class="closes" data-dismiss="modal">&times;</button></div>
 <!-- Modal body -->
@@ -213,7 +213,7 @@
 <div class="col-lg-10">
 <div class="common-heading">
 <h2 class="mb30">DirectPay Virtual Point of Sales (VPOS)</h2>
-<p><font color="#333" size="3px">A mobile-based android POS solution that accepts remote card payments from a 
+<p><font color="#333" size="3px">A mobile-based android POS solution that accepts remote card payments from a
 mobile device by simply sending out Payment Link to the customer via an e-mail, SMS, WhatsApp, or any other similar methods.</font></p>
 <br><br><br>
 </div>
@@ -236,12 +236,12 @@ mobile device by simply sending out Payment Link to the customer via an e-mail, 
 </div>
 <div class="col-lg-6">
 <div class="common-heading-2 text-l">
-<center><h6><br>Transaction History | <font color="#ff822e">Mobile Based Payment Link</font> | Notifications | <font color="#ff822e">Easy Registration</font> | 
+<center><h6><br>Transaction History | <font color="#ff822e">Mobile Based Payment Link</font> | Notifications | <font color="#ff822e">Easy Registration</font> |
 Cash, Card Reconciliation | <font color="#ff822e">Transaction Reversals</font> | Latest Transaction Dashboard </h6></center><br/>
 <center>
 
 <br><br>
-<a href="https://play.google.com/store/apps/details?id=com.directpay.vpos" class="btn-outline lnk wow fadeInUp" data-wow-delay=".6s"><i class="fab fa-google-play"></i></i>&nbspGet it on Google Play
+<a href="https://play.google.com/store/apps/details?id=com.directpay.vpos" class="btn-outline lnk wow fadeInUp" data-wow-delay=".6s"><i class="fab fa-google-play"></i>&nbspGet it on Google Play
  <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
 
 
@@ -272,21 +272,21 @@ Cash, Card Reconciliation | <font color="#ff822e">Transaction Reversals</font> |
 					<div class="container">
 						<div class="row justify-content-center">
 							<div class="col-lg-8">
-								
+
 							</div>
 						</div>
 						<div class="row justify-content-center">
 						<div class="common-heading">
-							<h3 class="mb30"><font color="#333">Compare <font color="#012480">Plans</font> and Choose the <font color="#ff822e">Best</font> Solution for You</font></h3>	
+							<h3 class="mb30"><font color="#333">Compare <font color="#012480">Plans</font> and Choose the <font color="#ff822e">Best</font> Solution for You</font></h3>
 							</div>
 							<div class="col-lg-4 col-md-6">
 								<div class="pricing-table best-plan mt60">
 									<div class="inner-table">
 										<img src="images/icons/plan-1.svg" alt="personal"/>
 										<span class="title">STARTER</span>
-										
+
 										<h2> 3.5%</h2><p class="duration">Payment processing fee<br><font size="2px">(Including bank fees, card network fees & processor fees)</font></p>
-										
+
 										<div class="details">
 											<ul>
 												<li>- <font size="2px"></font></li><hr>
@@ -300,7 +300,7 @@ Cash, Card Reconciliation | <font color="#ff822e">Transaction Reversals</font> |
 											</ul>
 										</div>
 									</div>
-									
+
 								</div>
 							</div>
 							<div class="col-lg-4 col-md-6">
@@ -308,7 +308,7 @@ Cash, Card Reconciliation | <font color="#ff822e">Transaction Reversals</font> |
 									<div class="inner-table">
 										<img src="images/icons/plan-2.svg" alt="Advance"/>
 										<span class="title">PRO</span>
-										
+
 										<h2> 2.9%</h2>
 										<p class="duration">Payment processing fee<br><font size="2px">(Including bank fees, card network fees & processor fees)</font></p>
 										<div class="details">
@@ -324,7 +324,7 @@ Cash, Card Reconciliation | <font color="#ff822e">Transaction Reversals</font> |
 											</ul>
 										</div>
 									</div>
-									
+
 								</div>
 							</div>
 
@@ -333,7 +333,7 @@ Cash, Card Reconciliation | <font color="#ff822e">Transaction Reversals</font> |
 									<div class="inner-table">
 										<img src="images/icons/plan-3.svg" alt="Ultimate"/>
 										<span class="title">PRIVILEGE</span>
-										
+
 										<h2> 2.6%</h2>
 										<p class="duration">Payment processing fee<br><font size="2px">(Including bank fees, card network fees & processor fees)</font></p>
 										<div class="details">
@@ -349,7 +349,7 @@ Cash, Card Reconciliation | <font color="#ff822e">Transaction Reversals</font> |
 											</ul>
 										</div>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>

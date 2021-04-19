@@ -27,19 +27,19 @@ $result= "";
 	</head>
 	<body>
 		<!--Start Header -->
-	
+
 <header class="nav-bg-w main-header navfix fixed-top menu-white">
 			<div class="container-fluid m-pad">
-				
+
 				<div class="menu-header">
 					<div class="dsk-logo"><a class="nav-brand" href="consumer">
 						<img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-						<img src="images/logo.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+						<img src="images/logo.png" alt="Logo" class="mega-darks-logo" width="180px">
 					</a></div>
 					<div class="custom-nav" role="navigation">
 						<ul class="nav-list">
 							<li class="sbmenu"><a href="consumer" class="menu-links">Home</a>
-						
+
 						</li>
 						<li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
 						<div class="nx-dropdown">
@@ -51,12 +51,12 @@ $result= "";
 												<li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-												
+
 											</ul>
 										</div>
 										<div class="sub-menu-column">
 											<ul>
-												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></font></a></li>
+												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -106,7 +106,7 @@ $result= "";
 <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></font></a></li>
+<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -133,7 +133,7 @@ $result= "";
 <div class="modal-content">
 <div class="modal-header">
 	<div class="common-heading">
-		<h4 class="mt0 mb0">Write a Message</h4>		
+		<h4 class="mt0 mb0">Write a Message</h4>
 	</div>
 <button type="button" class="closes" data-dismiss="modal">&times;</button></div>
 <!-- Modal body -->
@@ -194,9 +194,9 @@ $result= "";
 		<center>
 	<span>You selected</span>
 
-	
 
-	
+
+
 	<h2 class="mt0 mb0"><?php echo $provider = $_GET['provider'];?></h2>
 
 
@@ -204,7 +204,7 @@ $result= "";
 		</center>
 	</div>
 
-	
+
 
 			<div class="form-block">
 			<form id="billing-data" method="POST" action="https://testpay.directpay.lk/" data-toggle="validator" >
@@ -278,7 +278,7 @@ $result= "";
 <div class="container">
 <div class="row">
 	<div class="col-lg-12">
-		
+
 			<a class="navbar-brand img-ctr" href="index"><p><font color="#000">Powered by</font></p><img src="images/logo.png" alt="Logo" width="100" /></a><br/>
 		<div class="footer-">
 			<p>Copyright © 2021 DirectPay . All rights reserved.</p>
