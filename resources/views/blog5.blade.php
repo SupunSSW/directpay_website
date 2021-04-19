@@ -21,22 +21,22 @@
 		<link href="css/responsive.css" rel="stylesheet">
 	</head>
 	<body>
-		
+
 			<!--Start Header -->
-		
+
 		<!-- top bar end -->
 <header class="nav-bg-w main-header navfix fixed-top menu-white">
 			<div class="container-fluid m-pad">
-				
+
 				<div class="menu-header">
 					<div class="dsk-logo"><a class="nav-brand" href="index">
 						<img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-						<img src="images/logo.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+						<img src="images/logo.png" alt="Logo" class="mega-darks-logo" width="180px">
 					</a></div>
 					<div class="custom-nav" role="navigation">
 						<ul class="nav-list">
 							<li class="sbmenu"><a href="index" class="menu-links">Home</a>
-						
+
 						</li>
 						<li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
 						<div class="nx-dropdown">
@@ -48,12 +48,12 @@
 												<li><a href="index"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="index">User App</a></li>
 												<li><a href="web">Web</a></li>
-												
+
 											</ul>
 										</div>
 										<div class="sub-menu-column">
 											<ul>
-												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></font></a></li>
+												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -103,7 +103,7 @@
 <li><a href="index"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="index">User App</a></li>
 												<li><a href="web">Web</a></li>
-<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></font></a></li>
+<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -131,7 +131,7 @@
 <div class="modal-content">
 <div class="modal-header">
 	<div class="common-heading">
-		<h4 class="mt0 mb0">Write a Message</h4>		
+		<h4 class="mt0 mb0">Write a Message</h4>
 	</div>
 <button type="button" class="closes" data-dismiss="modal">&times;</button></div>
 <!-- Modal body -->
@@ -167,9 +167,9 @@
             <div class="col-lg-12 v-center">
               <div class="bread-inner">
                 <div class="bread-menu">
-              
+
                 </div>
-               
+
               </div>
             </div>
           </div>
@@ -205,7 +205,7 @@
               the past couple of years, Sri Lanka has seen an immense growth in its startup ecosystem, producing a number of startups that have gained a competitive edge in the global market.
 
 
-            
+
               <p>
                Amongst these top players was DirectPay, a part of PayMedia, specialised in embedded and unique software solutions for the finance industry, who was recently recognised as the runner up for its innovative solution ‘DirectPay’ at the Hemas Slingshot Startup Battle at Disrupt Asia 2017.
 
@@ -216,18 +216,18 @@
 
 
               </p>
-              
-           
+
+
 
 			  <div class="row">
 									<div class="col-lg-8 col-md-8 mt30 mb30">
 										<div class="blog-post-tag">
 											<span>Read Dailymirror</span>
 											<a href="http://www.ft.lk/it-telecom-tech/paymedia-wins-big-at-disrupt-asia-2017/50-633114">Visit Dailymirror Article</a>
-										
+
 										</div>
 									</div>
-								
+
 			</div>
 			<div class="row">
 
@@ -246,7 +246,7 @@
 								</div>
 
             </div>
-      
+
 
           </div>
           <!--End Blog Details-->
@@ -318,7 +318,7 @@
 
               <!--End Tags-->
               <!--Start block for offer/ads-->
-            
+
               <!--End block for offer/ads-->
             </div>
           </div>

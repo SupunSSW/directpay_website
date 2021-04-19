@@ -21,22 +21,22 @@
 		<link href="css/responsive.css" rel="stylesheet">
 	</head>
 	<body>
-		
+
 			<!--Start Header -->
-	
+
 		<!-- top bar end -->
 <header class="nav-bg-w main-header navfix fixed-top menu-white">
 			<div class="container-fluid m-pad">
-				
+
 				<div class="menu-header">
 					<div class="dsk-logo"><a class="nav-brand" href="consumer">
 						<img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-						<img src="images/logo.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+						<img src="images/logo.png" alt="Logo" class="mega-darks-logo" width="180px">
 					</a></div>
 					<div class="custom-nav" role="navigation">
 						<ul class="nav-list">
 							<li class="sbmenu"><a href="consumer" class="menu-links">Home</a>
-						
+
 						</li>
 						<li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
 						<div class="nx-dropdown">
@@ -48,12 +48,12 @@
 												<li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-												
+
 											</ul>
 										</div>
 										<div class="sub-menu-column">
 											<ul>
-												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></font></a></li>
+												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -103,7 +103,7 @@
 <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></font></a></li>
+<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -131,7 +131,7 @@
 <div class="modal-content">
 <div class="modal-header">
 	<div class="common-heading">
-		<h4 class="mt0 mb0">Write a Message</h4>		
+		<h4 class="mt0 mb0">Write a Message</h4>
 	</div>
 <button type="button" class="closes" data-dismiss="modal">&times;</button></div>
 <!-- Modal body -->
@@ -167,9 +167,9 @@
             <div class="col-lg-12 v-center">
               <div class="bread-inner">
                 <div class="bread-menu">
-              
+
                 </div>
-               
+
               </div>
             </div>
           </div>
@@ -202,30 +202,30 @@
             <div class="image-set"><img src="images/blog/blog-post-3.jpg" alt="blog images" class="img-fluid" /></div>
             <div class="blog-content mt30">
               <p>
-                Cards and mobile wallets have largely failed to challenge the dominance of cash in retail transactions. Now, a unique concept using the simple smartphone is set to usher in a profound transformation. The less cash era has dawned in Sri Lanka with the participation of a few progressive fintech companies, and life will never be the same again 
+                Cards and mobile wallets have largely failed to challenge the dominance of cash in retail transactions. Now, a unique concept using the simple smartphone is set to usher in a profound transformation. The less cash era has dawned in Sri Lanka with the participation of a few progressive fintech companies, and life will never be the same again
               </p>
             <br>
               <p>
-               The retail space in Sri Lanka will soon be transformed by a revolutionary new concept – JustPay. It is expected to drive the shift from a largely cash-based society to a less cash one. The unique system revolves around the ubiquitous smartphone, leveraging its versatility to usher in a host of benefits across the board – for consumers, merchants, banks, fintech companies and the economy as a whole. 
+               The retail space in Sri Lanka will soon be transformed by a revolutionary new concept – JustPay. It is expected to drive the shift from a largely cash-based society to a less cash one. The unique system revolves around the ubiquitous smartphone, leveraging its versatility to usher in a host of benefits across the board – for consumers, merchants, banks, fintech companies and the economy as a whole.
               </p>
               <br>
-           
-              
-           
+
+
+
 
 			  <div class="row">
 									<div class="col-lg-8 col-md-8 mt30 mb30">
 										<div class="blog-post-tag">
 											<span>Read Echelon</span>
 											<a href="https://www.echelon.lk/the-fintech-revolution-begins-in-sri-lanka/">Visit Echelon Article</a>
-										
+
 										</div>
 									</div>
-								
+
 			</div>
 			<div class="row">
 
-									
+
 									<div class="col-lg-6 col-md-6 mt30 mb30">
 										<div class="post-navigation text-left ">
 											<span><a href="blog">Prev Post</a></span>
@@ -241,7 +241,7 @@
 								</div>
 
             </div>
-      
+
 
           </div>
           <!--End Blog Details-->
@@ -313,7 +313,7 @@
 
               <!--End Tags-->
               <!--Start block for offer/ads-->
-            
+
               <!--End block for offer/ads-->
             </div>
           </div>

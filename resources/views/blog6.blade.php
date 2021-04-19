@@ -33,7 +33,7 @@
         <div class="menu-header">
             <div class="dsk-logo"><a class="nav-brand" href="consumer">
                     <img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-                    <img src="images/logo.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+                    <img src="images/logo.png" alt="Logo" class="mega-darks-logo" width="180px">
                 </a></div>
             <div class="custom-nav" role="navigation">
                 <ul class="nav-list">
@@ -57,7 +57,7 @@
                                         <div class="sub-menu-column">
                                             <ul>
                                                 <li><a href="merchant"><font color="#ff822e"
-                                                                             size="3.5px">Business</font></font></a>
+                                                                             size="3.5px">Business</font></a>
                                                 </li>
                                                 <li><a href="ipg">IPG</a></li>
                                                 <li><a href="merchant">Merchant App</a></li>
@@ -109,7 +109,7 @@
                         <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
                         <li><a href="consumer">User App</a></li>
                         <li><a href="web">Web</a></li>
-                        <li><a href="merchant"><font color="#012480" size="3.5px">Business</font></font></a></li>
+                        <li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
                         <li><a href="ipg">IPG</a></li>
                         <li><a href="merchant">Merchant App</a></li>
                         <li><a href="pos">POS</a></li>

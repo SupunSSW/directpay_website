@@ -143,7 +143,7 @@
 </div>
 </header>
 
-
+<section>
 <!--End Header -->
 <?php
 function isMobile() {
@@ -294,7 +294,7 @@ else {
 <h4 class="mb20">All your transactions in just 3 taps.</h4>
 <h2>Click. Scan. Pay!</h2>
 <br><br>
-<a href="https://play.google.com/store/apps/details?id=com.directpay.userapp" class="btn-outline lnk wow fadeInUp" data-wow-delay=".6s"><i class="fab fa-google-play"></i></i>&nbspGet it on Google Play
+<a href="https://play.google.com/store/apps/details?id=com.directpay.userapp" class="btn-outline lnk wow fadeInUp" data-wow-delay=".6s"><i class="fab fa-google-play"></i>&nbspGet it on Google Play
  <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
 <br><br>
 <a href="https://apps.apple.com/us/app/directpay/id1437707340" class="btn-outline lnk wow fadeInUp" data-wow-delay=".6s"><i class="fab fa-app-store"></i>&nbspAvailable on App Store <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
@@ -431,7 +431,7 @@ before diving head on in to it.
 </div><br/><br/>
 
 </div>
-</div>
+</div></div>
 </section>
 <!--End photo gallery-->
 <!--Start Blogs-->
