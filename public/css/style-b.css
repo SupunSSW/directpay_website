@@ -3036,7 +3036,7 @@ font-size: 14px }
 border-bottom: 0px solid #fff }
 .hc-offcanvas-nav.nav-levels-expand .nav-container li.level-open>.nav-item-wrapper>a:hover,
 .hc-offcanvas-nav.nav-levels-none .nav-container li.level-open>.nav-item-wrapper>a:hover {
-background: #101010 }
+background: #fff }
 .hc-offcanvas-nav.nav-levels-expand .nav-container li.level-open>.nav-item-wrapper>.nav-next span::before,
 .hc-offcanvas-nav.nav-levels-expand .nav-container li.level-open>.nav-item-wrapper>a>.nav-next span::before,
 .hc-offcanvas-nav.nav-levels-none .nav-container li.level-open>.nav-item-wrapper>.nav-next span::before,
