@@ -26,6 +26,7 @@
 		"url": "index",
 		"logo": "images/logo.png"
 }
+
     </script>
     <meta property="og:title" content="Home">
     <meta property="og:type" content="website">
