@@ -107,8 +107,8 @@ Route::get('/blog9', function () {
     return view('blog9');
 });
 
-Route::get('/blogs-grid', function () {
-    return view('blogs-grid');
+Route::get('/news', function () {
+    return view('news');
 });
 
 Route::get('/Career', function () {
@@ -214,3 +214,4 @@ Route::group(['prefix' => 'agent'], function () {
 Route::get('logout', '\App\Http\Controllers\Auth\LoginController@logout');
 
 Route::get('blog6', [\App\Http\Controllers\getData::class, 'index']);
+
