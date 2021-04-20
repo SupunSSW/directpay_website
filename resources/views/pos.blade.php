@@ -21,6 +21,11 @@
     <!-- template-style-->
     <link href="css/style-b.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
+    <style>
+        .ignore {
+            all: unset;
+        }
+    </style>
 </head>
 <body>
 
@@ -295,21 +300,29 @@
                             <ul>
                                 <li>- <font size="2px"></font></li>
                                 <hr>
-                                <li><font size="2px">Per transaction limit </font><br>LKR 25,000</li>
-                                <hr>
-                                <li><font size="2px">Maximum number of transactions per month </font><br>50</li>
-                                <hr>
-                                <li><font size="2px">Monthly Payment Limit</font><br>Below LKR 1 Million / month</li>
+                                <li><font size="2px">Per transaction limit </font><br>LKR 50,000</li>
+
                                 <hr>
                                 <li><font size="2px">SMS cost per transaction</font><br>LKR 2</li>
-                                <hr>
-                                <li>All Solutions<br><font size="2px">Links<br>Plugins<br>APIs<br>SDKs</font></li>
-                                <hr>
-                                <li><font size="2px">Payment Charging Methods</font><br>One-time Payments</li>
-                                <br>&nbsp
+
                                 <hr>
                                 <li><font size="2px">Customer Support</font><br>General Support</li>
                                 <br><br>
+                                <hr>
+                                <li><font size="2px">Device Charges</font><br>
+                                    <a href="https://www.sunmi.com/en/P2pro/">
+                                        <img src="images/devices/sunmi.png" class="ignore" width="100%"></a>
+                                    <br>Sunmi P2 Pro Smart POS<br><font size="2px">Monthly Device Cost<br> LKR
+                                        3700/=<br>36 month
+                                        contract period</font><br>
+                                    OR<br><font size="2px">Device Cost<br>65,000/= Outright Purchase</font><br></li>
+                                <hr>
+
+                                <li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
+                                        <img src="images/devices/sunyard.png" class="ignore" width="100%"></a>
+                                    <br>Sunyard i80 Smart POS<br><font size="2px">Monthly Device Cost<br> LKR 2700/=<br>36
+                                        month contract period</font><br>
+                                    OR<br><font size="2px">Device Cost<br>45,000/= Outright Purchase</font><br></li>
                                 <hr>
                             </ul>
                         </div>
@@ -328,24 +341,34 @@
                                 network fees & processor fees)</font></p>
                         <div class="details">
                             <ul>
-                                <li>LKR 500 <font size="2px">/per month</font></li>
+                                <li>LKR 3000 <font size="2px">/per month</font></li>
                                 <hr>
-                                <li><font size="2px">Per transaction limit </font><br>LKR 50,000</li>
-                                <hr>
-                                <li><font size="2px">Maximum number of transactions per month </font><br>100</li>
-                                <hr>
-                                <li><font size="2px">Monthly Payment Limit</font><br>Below LKR 2 Million / month</li>
+                                <li><font size="2px">Per transaction limit </font><br>LKR 100,000</li>
+
+
                                 <hr>
                                 <li><font size="2px">SMS cost per transaction</font><br>LKR 2</li>
-                                <hr>
-                                <li>All Solutions<br><font size="2px">Links<br>Plugins<br>APIs<br>SDKs</font></li>
-                                <hr>
-                                <li><font size="2px">Payment Charging Methods</font><br>One-time Payments<br>Recurring
-                                    Payments<br><font size="2px">(Tokenization fee LKR 5 per card per month)</font></li>
+
+
                                 <hr>
                                 <li><font size="2px">Customer Support</font><br>General Support<br>Technical Support
                                 </li>
                                 <br>
+                                <hr>
+                                <li><font size="2px">Device Charges</font><br>
+                                    <a href="https://www.sunmi.com/en/P2pro/">
+                                        <img src="images/devices/sunmi.png" class="ignore" width="100%"></a>
+                                    <br>Sunmi P2 Pro Smart POS<br><font size="2px">Monthly Device Cost<br> LKR
+                                        3700/=<br>36 month
+                                        contract period</font><br>
+                                    OR<br><font size="2px">Device Cost<br>65,000/= Outright Purchase</font><br></li>
+                                <hr>
+
+                                <li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
+                                        <img src="images/devices/sunyard.png" class="ignore" width="100%"></a>
+                                    <br>Sunyard i80 Smart POS<br><font size="2px">Monthly Device Cost<br> LKR 2700/=<br>36
+                                        month contract period</font><br>
+                                    OR<br><font size="2px">Device Cost<br>45,000/= Outright Purchase</font><br></li>
                                 <hr>
                             </ul>
                         </div>
@@ -365,24 +388,34 @@
                                 network fees & processor fees)</font></p>
                         <div class="details">
                             <ul>
-                                <li>LKR 750 <font size="2px">/per month</font></li>
+                                <li>LKR 5000 <font size="2px">/per month</font></li>
                                 <hr>
-                                <li><font size="2px">Per transaction limit </font><br>LKR 100,000</li>
-                                <hr>
-                                <li><font size="2px">Maximum number of transactions per month </font><br>Unlimited</li>
-                                <hr>
-                                <li><font size="2px">Monthly Payment Limit</font><br>Unlimited</li>
+                                <li><font size="2px">Per transaction limit </font><br>LKR 500,000</li>
+
                                 <hr>
                                 <li><font size="2px">SMS cost per transaction</font><br>LKR 2</li>
-                                <hr>
-                                <li>All Solutions<br><font size="2px">Links<br>Plugins<br>APIs<br>SDKs</font></li>
-                                <hr>
-                                <li><font size="2px">Payment Charging Methods</font><br>One-time Payments<br>Recurring
-                                    Payments<br><font size="2px">(Tokenization fee LKR 5 per card per month)</font></li>
+
+
                                 <hr>
                                 <li><font size="2px">Customer Support</font><br>General Support<br>Technical Support<br>Key
                                     Account Manager
                                 </li>
+                                <hr>
+                                <li><font size="2px">Device Charges</font><br>
+                                    <a href="https://www.sunmi.com/en/P2pro/">
+                                        <img src="images/devices/sunmi.png" class="ignore" width="100%"></a>
+                                    <br>Sunmi P2 Pro Smart POS<br><font size="2px">Monthly Device Cost<br> LKR
+                                        3700/=<br>36 month
+                                        contract period</font><br>
+                                    OR<br><font size="2px">Device Cost<br>65,000/= Outright Purchase</font><br></li>
+                                <hr>
+
+                                <li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
+                                        <img src="images/devices/sunyard.png" class="ignore" width="100%"></a>
+                                    <br>Sunyard i80 Smart POS<br><font size="2px">Monthly Device Cost<br> LKR 2700/=<br>36
+                                        month
+                                        contract period</font><br>
+                                    OR<br><font size="2px">Device Cost<br>45,000/= Outright Purchase</font><br></li>
                                 <hr>
                             </ul>
                         </div>
