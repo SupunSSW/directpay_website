@@ -85,10 +85,10 @@
                             <p class="u-custom-font u-text u-text-2">Get your payments fast and securely with our
                                 business support platform !</p>
 
-
+                            <img src="images/img/scroll.gif" width="20%" class="u-hidden-lg u-hidden-md u-hidden-xl">
                         </div>
-                    </div>
 
+                    </div>
 
                     <div
                         class="u-align-center u-container-style u-layout-cell u-shape-rectangle u-size-30 u-layout-cell-1"
