@@ -594,6 +594,31 @@ Sri Lanka</span></p>
 <!--End Footer-->
 <!--scroll to top-->
 <a id="scrollUp" href="#top"></a>
+
+        <!-- Messenger Chat plugin Code -->
+        <div id="fb-root"></div>
+        <script>
+            window.fbAsyncInit = function() {
+                FB.init({
+                    xfbml            : true,
+                    version          : 'v10.0'
+                });
+            };
+
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = 'https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js';
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+
+        <!-- Your Chat plugin code -->
+        <div class="fb-customerchat"
+             attribution="biz_inbox"
+             page_id="108981904337750">
+        </div>
 <!-- js placed at the end of the document so the pages load faster -->
 <script src="js/vendor/modernizr-3.5.0.min.js"></script>
 <script src="js/jquery.min.js"></script>

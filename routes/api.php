@@ -20,3 +20,6 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::post('paymentResponse', [BillerController::class,'paymentResponse']);
+
+Route::get ("/","accVerification@index");
+
