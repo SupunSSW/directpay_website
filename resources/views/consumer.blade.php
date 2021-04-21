@@ -609,7 +609,7 @@ Sri Lanka</span></p>
                 var js, fjs = d.getElementsByTagName(s)[0];
                 if (d.getElementById(id)) return;
                 js = d.createElement(s); js.id = id;
-                js.src = 'https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js';
+                js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
                 fjs.parentNode.insertBefore(js, fjs);
             }(document, 'script', 'facebook-jssdk'));
         </script>
@@ -617,7 +617,7 @@ Sri Lanka</span></p>
         <!-- Your Chat plugin code -->
         <div class="fb-customerchat"
              attribution="biz_inbox"
-             page_id="108981904337750">
+             page_id="137549680135741">
         </div>
 <!-- js placed at the end of the document so the pages load faster -->
 <script src="js/vendor/modernizr-3.5.0.min.js"></script>
