@@ -27,6 +27,7 @@
 		"logo": "images/logo.png"
 }
 
+
     </script>
     <meta property="og:title" content="Home">
     <meta property="og:type" content="website">
@@ -114,6 +115,32 @@
     </div>
     <br/><br/>
 </section>
+
+<!-- Messenger Chat plugin Code -->
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            xfbml: true,
+            version: 'v10.0'
+        });
+    };
+
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!-- Your Chat plugin code -->
+<div class="fb-customerchat"
+     attribution="biz_inbox"
+     page_id="137549680135741">
+</div>
 
 
 <footer class="u-clearfix u-footer" id="sec-881f">
