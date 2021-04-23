@@ -171,6 +171,10 @@ Route::get('/business', function () {
     return view('business');
 });
 
+Route::get('/invoice', function () {
+
+    return view('invoice');
+
 
 Route::get('admin', function () {
 
@@ -190,9 +194,14 @@ Route::group(['prefix' => '', 'middleware' => 'auth'], function () {
     });
 
 
+
+    });
+
+
 });
 
 Route::post('create', [\App\Http\Controllers\uplink::class, 'rocket']);
+Route::post('create2', [\App\Http\Controllers\accVerification::class, 'verifyAcc'])->name('accountData.submit');
 
 Auth::routes();
 
