@@ -37,7 +37,7 @@
     <link rel="canonical" href="index">
     <meta property="og:url" content="index">
 </head>
-<body class="u-body u-stick-footer">
+<body class="u-body u-stick-footer CSS-selector">
 <header class="u-clearfix u-header u-header" id="sec-b11d">
     <div class="u-clearfix u-sheet u-sheet-1">
         <a href="tel:+94771230931" class="u-btn u-button-style u-none u-text-hover-custom-color-1 u-btn-1"><span
