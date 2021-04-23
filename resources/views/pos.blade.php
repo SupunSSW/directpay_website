@@ -286,6 +286,8 @@
                 <h3 class="mb30"><font color="#333">Compare <font color="#012480">Plans</font> and Choose the <font
                             color="#ff822e">Best</font> Solution for You</font></h3>
             </div>
+        </div>
+        <div class="row justify-content-center">
             <div class="col-lg-4 col-md-6">
                 <div class="pricing-table best-plan mt60">
                     <div class="inner-table">
