@@ -265,7 +265,7 @@
                     </div>
                     <div class="item-info">
                         <center><h4><a href="#">Kanishka Weeramunda</a></h4>
-                            <p>Director / Founder</p></center>
+                            <p>Founder/CEO</p></center>
                     </div>
                 </div>
             </div>
@@ -276,7 +276,7 @@
                     </div>
                     <div class="item-info">
                         <center><h4><a href="#">Dinesh Karunathilaka</a></h4>
-                            <p>Director / Founder</p></center>
+                            <p>Co-Founder</p></center>
                     </div>
                 </div>
             </div>
@@ -287,7 +287,7 @@
                     </div>
                     <div class="item-info">
                         <center><h4><a href="#">Sasindu Pathiranage</a></h4>
-                            <p>Director / Co-Founder</p></center>
+                            <p>Co-Founder/COO</p></center>
                     </div>
                 </div>
             </div>
