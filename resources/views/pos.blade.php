@@ -228,20 +228,22 @@
         </div>
     </div>
 </section>
-<section class="block-a1 pad-tb">
+
+<section class="about-sec bg-gradient5 pad-tb">
     <div class="container">
-        <div class="row justify-content-center">
+        <div class="row justify-content-center text-center">
+            <div class="col-lg-10">
+                <div class="common-heading">
+                    <h2 class="mb30">DirectPay Point of Sale Terminal</h2>
+                    <p><font color="#333" size="3px">A POS system that goes beyond a traditional electronic fund transfer
+                            POS by providing a digital basket of goods and services to merchants; making
+                            them a digitally enabled merchants.</font></p>
 
-            <div class="common-heading">
-                <h2 class="mb30">DirectPay Point of Sale Terminal</h2>
-                <p><font color="#333" size="3px">A POS system that goes beyond a traditional electronic fund transfer
-                        POS by providing a digital basket of goods and services to merchants; making
-                        them a digitally enabled merchants.</font></p>
-                <br>
+
+                </div>
+                <br><br><br>
+
             </div>
-
-            <!--whyus end-->
-            <br><br><br>
         </div>
     </div>
 </section>
