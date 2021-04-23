@@ -120,7 +120,7 @@ Route::get('/checkout', function () {
 });
 
 Route::get('/contact', function () {
-    return view('Contact');
+    return view('contact');
 });
 
 Route::get('/faq', function () {
