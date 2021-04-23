@@ -233,7 +233,7 @@
         <div class="row justify-content-center">
 
             <div class="common-heading">
-                <h2 class="mb30">DirectPay Point of Sale (POS)</h2>
+                <h2 class="mb30">DirectPay Point of Sale Terminal</h2>
                 <p><font color="#333" size="3px">A POS system that goes beyond a traditional electronic fund transfer
                         POS by providing a digital basket of goods and services to merchants; making
                         them a digitally enabled merchants.</font></p>
