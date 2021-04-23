@@ -280,7 +280,7 @@
 <div class="nn-card-set">
 <div class="s-card-icon"><img src="images/icons/development.svg" alt="service" class="img-fluid" /></div>
 <h4>Attach your NIC/DL and BR</h4>
-<p>Attach a copy of your NIC/Driving Licence or Passport and Business Registration along with the registration form or if you are filling our online application, upload them to our online portal.</p>
+<p>Attach a copy of your NIC/Driving License or Passport and Business Registration along with the registration form or if you are filling our online application, upload them to our online portal.</p>
 
 </div>
 </div>
