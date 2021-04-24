@@ -132,8 +132,8 @@
 
                         <td>
                             Invoice #: 123<br/>
-                            Created: January 1, 2015<br/>
-                            Due: February 1, 2015
+                            Created: April 23, 2020<br/>
+
                         </td>
                     </tr>
                 </table>
@@ -175,7 +175,7 @@
         </tr>
 
         <tr class="details">
-            <td><img src="images/icons/visa.png" width="9%" align="center"></td>
+            <td><img src="images/icons/visa.png" width="12%" align="center"></td>
 
             <td>xxxx-xxxx-xxxx-1257</td>
         </tr>
@@ -218,7 +218,7 @@
         </tr>
 
 
-        <br><br><br>
+        <br><br>
         <tr class="total">
 
             <td></td>
@@ -226,7 +226,11 @@
             <td>Amount : 1500.00</td>
         </tr>
     </table>
-<br><br><br>
+<br>
+    <h6>- This is computer generated invoice no signature required -</h6>
+    <p><font size="2px">Paid via</font><br><img src="images/logo-biller.png" width="20%"><br><font size="1.3px">Support - (+94) 77 123 0931 ~ 410/33, Bauddhaloka Mawatha, Colombo 07,
+                Sri Lanka</font></p><br>
+
 </div>
 </body>
 </html>

@@ -176,10 +176,13 @@ Route::get('/invoice', function () {
     return view('invoice');
 
 
+
 Route::get('admin', function () {
 
     return redirect('/login');
 });
+
+
 
 
 Route::group(['prefix' => '', 'middleware' => 'auth'], function () {
