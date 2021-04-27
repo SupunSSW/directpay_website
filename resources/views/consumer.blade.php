@@ -420,7 +420,7 @@ before diving head on in to it.
 <div class="col-lg-3 col-sm-6">
 <div class="statistics mb0">
 <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-<img src="images/icons/icon-6.png" alt="support" class="img-fluid" />
+<img src="images/icons/icon-5.png" alt="support" class="img-fluid" />
 </div>
 <div class="statnumb">
     <span class="counter">1</span><span>M+</span>
