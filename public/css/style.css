@@ -2615,9 +2615,9 @@ background: linear-gradient(to right,  #0040ea  0%,#012480  100%);
 box-shadow: 0 10px 15px 0px rgba(0, 0, 0, .2);}
 .bg-btn2{
 background: #f92c8b;
-background: -moz-linear-gradient(left, #f92c8b 0%, #b02cd6 100%);
-background: -webkit-linear-gradient(left, #f92c8b 0%,#b02cd6 100%);
-background: linear-gradient(to right, #f92c8b 0%,#b02cd6 100%);
+background: -moz-linear-gradient(left, #000cc8 0%, #3400c4 100%);
+background: -webkit-linear-gradient(left, #000cc8 0%,#3400c4 100%);
+background: linear-gradient(to right, #000cc8 0%,#3400c4 100%);
 -webkit-box-shadow: 0 10px 15px 0px rgba(175, 0, 202, .2);
 box-shadow: 0 10px 15px 0px rgba(175, 0, 202, .2);}
 .bg-btn3 {

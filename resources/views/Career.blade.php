@@ -298,9 +298,9 @@ Head of UX and Design - 3 Post
 <div class="col-md-12 form-group">
 <div class="custom-file">
 <input type="file" class="custom-file-input mb0" id="customFile" required="required">
-<label class="custom-file-label" for="customFile">Choose file</label>
+<label class="custom-file-label" for="customFile">Choose your CV</label>
 </div>
-<p><small>Please upload your CV Only pdf, docx and doc files.</small></p>
+<p><small>Please upload Only pdf, docx and doc files.</small></p>
 </div>
 </div>
 <div class="fieldsets mt20">

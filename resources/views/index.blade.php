@@ -3,7 +3,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="">
+    <meta name="directpay.lk" content="">
     <meta name="description"
           content="DirectPay is your digital partner that simplifies the checkout process across your purchases online in Sri Lanka.">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
@@ -29,6 +29,8 @@
 
 
     </script>
+
+
     <meta property="og:title" content="Home">
     <meta property="og:type" content="website">
     <meta property="og:description"

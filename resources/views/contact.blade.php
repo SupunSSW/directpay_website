@@ -270,7 +270,7 @@
                             <div class="col-md-6 form-group"><select id="form_need" name="need" required="required"
                                                                      data-error="Specify your need.">
                                     <option value="">Select Catogery</option>
-                                    <option value="Graphic Design">Genaral Support</option>
+                                    <option value="Graphic Design">General Support</option>
                                     <option value="Web Design">Technical Support</option>
                                     <option value="App Design">Careers</option>
                                     <option value="Other">Complains</option>
