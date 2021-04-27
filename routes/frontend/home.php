@@ -177,9 +177,9 @@ Route::get('/invoice', function () {
 
 
 
-Route::get('admin', function () {
+Route::get('/admin', function () {
 
-    return redirect('/login');
+    return redirect('login');
 });
 
 
