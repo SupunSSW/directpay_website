@@ -101,7 +101,7 @@
                                  data-animation-direction="" data-href="consumer">
                             <a href="consumer"><h2 class="u-custom-font u-text u-text-custom-color-1 u-text-3">
                                     Perso​nal</h2></a>
-                            <p class="u-custom-font u-text u-text-2">Explore the Directpay personal app services and
+                            <p class="u-custom-font u-text u-text-2">Explore the DirectPay personal app services and
                                 facilities !</p>
 
 
