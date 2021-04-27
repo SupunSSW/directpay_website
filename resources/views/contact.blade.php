@@ -183,7 +183,7 @@
                 <!-- Modal body -->
                 <div class="modal-body">
                     <div class="form-block fdgn2 mt10 mb10">
-                        <form action="#" method="post" name="feedback-form">
+                        <form action="#" method="post" name="feedback-form" >
                             <div class="fieldsets row">
                                 <div class="col-md-12"><input type="text" placeholder="Full Name" name="name"></div>
                                 <div class="col-md-12"><input type="email" placeholder="Email Address" name="email">
@@ -245,7 +245,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 v-center">
                 <div class="form-block">
-                    <form id="contact-form" method="post" action="php/contact" data-toggle="validator">
+                    <form id="contact-form" method="post" action="/email" data-toggle="validator">
+                        @csrf
                         <div class="messages"></div>
                         <div class="fieldsets row">
                             <div class="col-md-6 form-group"><input id="form_name" type="text" name="name"

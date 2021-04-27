@@ -49,8 +49,6 @@
 //});
 
 
-
-
 Route::get('/', function () {
     return view('index');
 });
@@ -176,33 +174,32 @@ Route::get('/invoice', function () {
     return view('invoice');
 
 
+    Route::get('/admin', function () {
 
-Route::get('/admin', function () {
+        return redirect('login');
+    });
 
-    return redirect('login');
+
+
+
+    Route::group(['prefix' => '', 'middleware' => 'auth'], function () {
+        Route::get('/dashboard', function () {
+            return view('dashboard');
+        });
+
+        Route::get('/create-article', function () {
+
+            return view('create-article');
+
+        });
+
+
+    });
+
+
 });
 
-
-
-
-Route::group(['prefix' => '', 'middleware' => 'auth'], function () {
-    Route::get('/dashboard', function () {
-        return view('dashboard');
-    });
-
-    Route::get('/create-article', function () {
-
-        return view('create-article');
-
-    });
-
-
-
-    });
-
-
-});
-
+Route::post('email', [\App\Http\Controllers\ContactController::class, 'sendmail']);
 Route::post('create', [\App\Http\Controllers\uplink::class, 'rocket']);
 Route::post('create2', [\App\Http\Controllers\accVerification::class, 'verifyAcc'])->name('accountData.submit');
 
@@ -226,4 +223,5 @@ Route::group(['prefix' => 'agent'], function () {
 Route::get('logout', '\App\Http\Controllers\Auth\LoginController@logout');
 
 Route::get('blog6', [\App\Http\Controllers\getData::class, 'index']);
+
 
