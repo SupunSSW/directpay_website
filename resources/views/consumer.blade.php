@@ -5,7 +5,7 @@
 		<title>DirectPay - Consumer</title>
 		<meta name="description" content="DirectPay is your digital partner that simplifies the checkout process across your purchases online in Sri Lanka.">
 		<meta name="keywords" content="Directpay">
-		<meta name="author" content="Paymedia">
+		<meta name="author" content="directpay.lk">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="theme-color" content="#fff">
@@ -173,7 +173,7 @@ else {
    echo'<div class="wow fadeInUp " data-wow-delay=".2s">
 		<h1 class="wow fadeInUp"><span><font color="#808080" size="14px">Pay Your</font></span></h1>
 		<h1><font color="#012480">Bills Online With DirectPay !</font></h1>
-		<p class="wow fadeInUp" ><font color="#000">Secured billing Portal</font><br><br></p>
+		<p class="wow fadeInUp" ><font color="#000">Secured Billing Portal</font><br><br></p>
 		</div>';
 }
 	else{
@@ -362,8 +362,11 @@ before diving head on in to it.
 <div class="container">
 <div class="row">
 <div class="col-lg-5 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.facebook.com/directpay.srilanka/posts/859784407912261"><img src="images/about/office-1.jpg" alt="companyname" class="img-fluid"></a></div> </div>
-<div class="col-lg-7 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.facebook.com/directpay.srilanka/posts/750552515502118"><img src="images/about/office-2.jpg" alt="companyname" class="img-fluid"></a></div> </div>
+
 <div class="col-lg-7 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.facebook.com/directpay.srilanka/posts/833210827236286"><img src="images/about/office-3.jpg" alt="companyname" class="img-fluid"></a></div> </div>
+
+ <div class="col-lg-7 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.facebook.com/directpay.srilanka/posts/750552515502118"><img src="images/about/office-2.jpg" alt="companyname" class="img-fluid"></a></div> </div>
+
 <div class="col-lg-5 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://fb.watch/57wpCSLbHh/"><img src="images/about/office-6.jpg" alt="companyname" class="img-fluid"></a></div> </div>
 </div>
 </div>
