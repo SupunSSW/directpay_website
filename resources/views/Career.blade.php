@@ -291,14 +291,6 @@ Head of UX and Design - 3 Post
 </div>
 <div class="fieldsets row">
 <div class="col-md-6 form-group"><input id="form_phone" type="text" name="phone"  placeholder="Enter your Phone No *" required="required" >	</div>
-<div class="col-md-6 form-group"><select id="form_need" name="need"  required="required">
-<option value="">Select Post</option>
-<option value="Graphic Design">Graphic Design</option>
-<option value="Web Design">Web Design</option>
-<option value="App Design">App Design</option>
-<option value="Other">Other</option>
-</select>
-</div>
 </div>
 <div class="fieldsets form-group"> <textarea id="form_message" name="message"  placeholder="Message *" rows="4" required="required"></textarea> </div>
 <div class="fieldsets- row">

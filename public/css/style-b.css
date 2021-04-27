@@ -639,13 +639,7 @@ border-radius: 8px;
 -webkit-box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071), 0 25px 40px -30px rgba(0, 0, 0, 0.2);
 box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071), 0 25px 40px -30px rgba(0, 0, 0, 0.2);}
 .service-img1{     background:#e9ddff;   }
-.service-img1:after{        background: url(../images/service/service-img-1.png); }
-.service-img2{    background:#ffdadb;}
-.service-img2:after{    background: url(../images/service/service-img-2.png);}
-.service-img3{  background:#d6edff; }
-.service-img3:after{    background: url(../images/service/service-img-3.png);}
-.service-img4{  background:#ffede1;   }
-.service-img4:after{    background: url(../images/service/service-img-4.png);}
+
 .wide-block:after{
 content:'';
 position: absolute;
