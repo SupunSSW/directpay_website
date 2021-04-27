@@ -361,9 +361,9 @@ before diving head on in to it.
 <div class="photosets- pb80 pt50">
 <div class="container">
 <div class="row">
-<div class="col-lg-5 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.instagram.com/p/CBkZjZYAVjs/"><img src="images/about/office-1.jpg" alt="companyname" class="img-fluid"></a></div> </div>
+<div class="col-lg-5 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.facebook.com/directpay.srilanka/posts/859784407912261"><img src="images/about/office-1.jpg" alt="companyname" class="img-fluid"></a></div> </div>
 <div class="col-lg-7 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.facebook.com/directpay.srilanka/posts/750552515502118"><img src="images/about/office-2.jpg" alt="companyname" class="img-fluid"></a></div> </div>
-<div class="col-lg-7 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.facebook.com/directpay.srilanka/posts/79157816225"><img src="images/about/office-3.jpg" alt="companyname" class="img-fluid"></a></div> </div>
+<div class="col-lg-7 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.facebook.com/directpay.srilanka/posts/833210827236286"><img src="images/about/office-3.jpg" alt="companyname" class="img-fluid"></a></div> </div>
 <div class="col-lg-5 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://fb.watch/57wpCSLbHh/"><img src="images/about/office-6.jpg" alt="companyname" class="img-fluid"></a></div> </div>
 </div>
 </div>
@@ -381,13 +381,13 @@ before diving head on in to it.
 <div class="common-heading ptag">
 <h1>DirectPay in Numbers</h1>
 </div>
-
+<br/>
 
 <div class="row small t-ctr">
 <div class="col-lg-3 col-sm-6">
 <div class="statistics">
 <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-<img src="images/icons/deal.svg" alt="happy" class="img-fluid" />
+<img src="images/icons/icon-3.png" alt="happy" class="img-fluid" />
 </div>
 <div class="statnumb">
 <span class="counter">25</span>
@@ -398,7 +398,7 @@ before diving head on in to it.
 <div class="col-lg-3 col-sm-6">
 <div class="statistics">
 <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-<img src="images/icons/computers.svg" alt="project" class="img-fluid" />
+<img src="images/icons/icon-1.png" alt="project" class="img-fluid" />
 </div>
 <div class="statnumb counter-number">
 <span class="counter">1000</span><span>+</span>
@@ -409,7 +409,7 @@ before diving head on in to it.
 <div class="col-lg-3 col-sm-6">
 <div class="statistics">
 <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-<img src="images/icons/worker.svg" alt="work" class="img-fluid" />
+<img src="images/icons/project.png" alt="work" class="img-fluid" />
 </div>
 <div class="statnumb">
 <span class="counter">85</span><span></span>
@@ -420,7 +420,7 @@ before diving head on in to it.
 <div class="col-lg-3 col-sm-6">
 <div class="statistics mb0">
 <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-<img src="images/icons/customer-service.svg" alt="support" class="img-fluid" />
+<img src="images/icons/icon-5.png" alt="support" class="img-fluid" />
 </div>
 <div class="statnumb">
     <span class="counter">1</span><span>M+</span>
