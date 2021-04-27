@@ -285,6 +285,7 @@ Head of UX and Design - 3 Post
 <div class="modal-body pt40 pb60">
 <div class="form-block fdgn2">
 <form id="contact-form" method="post" action="#">
+    <br/>
 <div class="fieldsets row">
 <div class="col-md-6 form-group"><input id="form_name" type="text" name="name"  placeholder="Enter your name *" required="required"> </div>
 <div class="col-md-6 form-group"><input id="form_email" type="email" name="email"  placeholder="Enter your email *" required="required" > </div>
@@ -292,14 +293,14 @@ Head of UX and Design - 3 Post
 <div class="fieldsets row">
 <div class="col-md-6 form-group"><input id="form_phone" type="text" name="phone"  placeholder="Enter your Phone No *" required="required" >	</div>
 </div>
-<div class="fieldsets form-group"> <textarea id="form_message" name="message"  placeholder="Message *" rows="4" required="required"></textarea> </div>
+<div class="fieldsets form-group"> <textarea id="form_message" name="message"  placeholder="How would you describe yourself?" rows="4" required="required" maxlength="500"></textarea> </div>
 <div class="fieldsets- row">
 <div class="col-md-12 form-group">
 <div class="custom-file">
-<input type="file" class="custom-file-input mb0" id="customFile">
+<input type="file" class="custom-file-input mb0" id="customFile" required="required">
 <label class="custom-file-label" for="customFile">Choose file</label>
 </div>
-<p><small>Please upload maximum 5 files Only pdf, docx and doc files.</small></p>
+<p><small>Please upload your CV Only pdf, docx and doc files.</small></p>
 </div>
 </div>
 <div class="fieldsets mt20">
