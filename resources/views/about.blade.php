@@ -82,7 +82,7 @@
                             </div>
                         </div>
                     </li>
-                    <li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+                    <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
                     <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
                     <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
                     <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -106,8 +106,8 @@
                 </li>
                 <li><a href="">Services and Solutions</a>
                     <ul>
-                        <li><a href="index"><font color="#012480" size="3.5px">Consumer</font></a></li>
-                        <li><a href="index">User App</a></li>
+                        <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
+                        <li><a href="consumer">User App</a></li>
                         <li><a href="web">Web</a></li>
                         <li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
                         <li><a href="ipg">IPG</a></li>
@@ -121,7 +121,7 @@
 
                     </ul>
                 </li>
-                <li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+                <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
                 <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
                 <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
                 <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -265,7 +265,7 @@
                     </div>
                     <div class="item-info">
                         <center><h4><a href="#">Kanishka Weeramunda</a></h4>
-                            <p>Director / Founder</p></center>
+                            <p>Founder/CEO</p></center>
                     </div>
                 </div>
             </div>
@@ -276,7 +276,7 @@
                     </div>
                     <div class="item-info">
                         <center><h4><a href="#">Dinesh Karunathilaka</a></h4>
-                            <p>Director / Founder</p></center>
+                            <p>Co-Founder</p></center>
                     </div>
                 </div>
             </div>
@@ -287,13 +287,13 @@
                     </div>
                     <div class="item-info">
                         <center><h4><a href="#">Sasindu Pathiranage</a></h4>
-                            <p>Director / Co-Founder</p></center>
+                            <p>Co-Founder/COO</p></center>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    </div>
+
 </section>
 <br><br><br>
 

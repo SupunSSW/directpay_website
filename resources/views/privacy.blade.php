@@ -21,22 +21,22 @@
 		<link href="css/responsive.css" rel="stylesheet">
 	</head>
 	<body>
-		
+
 			<!--Start Header -->
 
 		<!-- top bar end -->
 <header class="nav-bg-w main-header navfix fixed-top menu-white">
 			<div class="container-fluid m-pad">
-				
+
 				<div class="menu-header">
 					<div class="dsk-logo"><a class="nav-brand" href="index">
 						<img src="images/white-logo-b.png" alt="Logo" class="mega-white-logo"/>
-						<img src="images/logo-b.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+						<img src="images/logo-b.png" alt="Logo" class="mega-darks-logo" width="180px">
 					</a></div>
 					<div class="custom-nav" role="navigation">
 						<ul class="nav-list">
 							<li class="sbmenu"><a href="index" class="menu-links">Home</a>
-						
+
 						</li>
 						<li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
 						<div class="nx-dropdown">
@@ -48,12 +48,12 @@
 												<li><a href="index"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="index">User App</a></li>
 												<li><a href="web">Web</a></li>
-												
+
 											</ul>
 										</div>
 										<div class="sub-menu-column">
 											<ul>
-												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></font></a></li>
+												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -75,7 +75,7 @@
 							</div>
 						</div>
 					</li>
-					<li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+					<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
 					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
 					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
 					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -103,7 +103,7 @@
 <li><a href="index"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="index">User App</a></li>
 												<li><a href="web">Web</a></li>
-<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></font></a></li>
+<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -114,7 +114,7 @@
 
 </ul>
 </li>
-<li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
 					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
 					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
 					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -131,7 +131,7 @@
 <div class="modal-content">
 <div class="modal-header">
 	<div class="common-heading">
-		<h4 class="mt0 mb0">Write a Message</h4>		
+		<h4 class="mt0 mb0">Write a Message</h4>
 	</div>
 <button type="button" class="closes" data-dismiss="modal">&times;</button></div>
 <!-- Modal body -->
@@ -165,7 +165,7 @@
 <div class="modal-content">
 <div class="modal-header">
 	<div class="common-heading">
-		<h4 class="mt0 mb0">Write a Message</h4>		
+		<h4 class="mt0 mb0">Write a Message</h4>
 	</div>
 <button type="button" class="closes" data-dismiss="modal">&times;</button></div>
 <!-- Modal body -->
@@ -229,7 +229,7 @@
 <div class="row justify-content-center">
 <div class="col-lg-10">
 
-	    
+
 
 <p>The privacy policy will allow you to understand the types of personal information we collect, why we collect your personal information, and the measures we take to protect your personal information. Our privacy practices reflect the local legal framework and the Data Protection Act 2018 accordingly.</p><br/>
 
@@ -287,7 +287,7 @@
 <li>We reserve the right to amend our prevailing data protection and privacy policy at any time and will place any such amendments on this Website.</li>
 </ul><br/>
 </div>
-</div>		
+</div>
 </div>
 </section>
 

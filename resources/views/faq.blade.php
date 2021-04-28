@@ -23,16 +23,16 @@
 		<!--Start Header -->
 		<header class="nav-bg-w main-header navfix fixed-top menu-white">
 			<div class="container-fluid m-pad">
-				
+
 				<div class="menu-header">
 					<div class="dsk-logo"><a class="nav-brand" href="consumer">
 						<img src="images/white-logo-b.png" alt="Logo" class="mega-white-logo"/>
-						<img src="images/logo-b.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+						<img src="images/logo-b.png" alt="Logo" class="mega-darks-logo" width="180px">
 					</a></div>
 					<div class="custom-nav" role="navigation">
 						<ul class="nav-list">
 							<li class="sbmenu"><a href="consumer" class="menu-links">Home</a>
-						
+
 						</li>
 						<li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
 						<div class="nx-dropdown">
@@ -44,12 +44,12 @@
 												<li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-												
+
 											</ul>
 										</div>
 										<div class="sub-menu-column">
 											<ul>
-												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></font></a></li>
+												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -71,7 +71,7 @@
 							</div>
 						</div>
 					</li>
-					<li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+					<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
 					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
 					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
 					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -99,7 +99,7 @@
 <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></font></a></li>
+<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -110,7 +110,7 @@
 
 </ul>
 </li>
-<li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
 					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
 					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
 					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -288,7 +288,7 @@ Why DirectPay is reliable for Online Payments?
 </div>
 <div id="collapse-h" class="card-body collapse" aria-labelledby="faq8" data-parent="#accordion2">
 <p>• DirectPay is well-known financial technology company, where our focus is on the security, affordability and reliability for your customers to make seamless payments via DirectPay Internet Payment Gateway Service.<br><br>
-• DirectPay facilitates you to accept local & global online payment methods through a single platform. Hassle free as now your business doesn’t have to integrate their payment methods one by one nor manage in different portals at different rate. DirectPay offers simplified online payment methods, such as Checkout APIs, Payment Links, Mobile SDKs & Shopping-cart Plugins. 
+• DirectPay facilitates you to accept local & global online payment methods through a single platform. Hassle free as now your business doesn’t have to integrate their payment methods one by one nor manage in different portals at different rate. DirectPay offers simplified online payment methods, such as Checkout APIs, Payment Links, Mobile SDKs & Shopping-cart Plugins.
 </p>
 </div>
 </div>
@@ -384,7 +384,7 @@ Are there any payment limits for DirectPay Accounts?
 
 
 
-	
+
 <div class="pad-tb">
 <div class="container">
 <div class="row justify-content-center">
@@ -416,11 +416,11 @@ Are there any payment limits for DirectPay Accounts?
 </div>
 </div>
 
-	
 
 
 
-<div class="container">     
+
+<div class="container">
       <div class="row">
         <div class="col">
         	<br>
@@ -562,8 +562,8 @@ Head of UX and Design
 </div>
 </div>
 </div>
-</div>-->
 </div>
+</div>-->
 
 </section><br><br><br>
 

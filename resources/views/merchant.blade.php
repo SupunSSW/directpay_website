@@ -31,7 +31,7 @@
 				<div class="menu-header">
 					<div class="dsk-logo"><a class="nav-brand" href="business">
 						<img src="images/white-logo-b.png" alt="Logo" class="mega-white-logo"/>
-						<img src="images/logo-b.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+						<img src="images/logo-b.png" alt="Logo" class="mega-darks-logo" width="180px">
 					</a></div>
 					<div class="custom-nav" role="navigation">
 						<ul class="nav-list">
@@ -53,7 +53,7 @@
 										</div>
 										<div class="sub-menu-column">
 											<ul>
-												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></font></a></li>
+												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -75,7 +75,7 @@
 							</div>
 						</div>
 					</li>
-					<li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+					<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
 					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
 					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
 					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -103,7 +103,7 @@
 <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></font></a></li>
+<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -114,7 +114,7 @@
 
 </ul>
 </li>
-<li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
 					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
 					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
 					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -242,7 +242,7 @@
 
 <br><br>
 <a href="https://play.google.com/store/apps/details?id=com.directpay.merchant&hl=en" class=" lnk wow fadeInUp" data-wow-delay=".6s"><img src="images/google.png" width="30%">
- </span></a>
+</a>
 
 
 </center>
@@ -280,7 +280,7 @@
 <div class="nn-card-set">
 <div class="s-card-icon"><img src="images/icons/development.svg" alt="service" class="img-fluid" /></div>
 <h4>Attach your NIC/DL and BR</h4>
-<p>Attach a copy of your NIC/Driving Licence or Passport and Business Registration along with the registration form or if you are filling our online application, upload them to our online portal.</p>
+<p>Attach a copy of your NIC/Driving License or Passport and Business Registration along with the registration form or if you are filling our online application, upload them to our online portal.</p>
 
 </div>
 </div>

@@ -5,7 +5,7 @@
 		<title>DirectPay - Consumer</title>
 		<meta name="description" content="DirectPay is your digital partner that simplifies the checkout process across your purchases online in Sri Lanka.">
 		<meta name="keywords" content="Directpay">
-		<meta name="author" content="Paymedia">
+		<meta name="author" content="directpay.lk">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="theme-color" content="#fff">
@@ -94,7 +94,7 @@
 							</div>
 						</div>
 					</li>
-					<li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+					<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
 					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
 					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
 					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -133,7 +133,7 @@
 
 </ul>
 </li>
-<li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
 					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
 					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
 					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -143,7 +143,7 @@
 </div>
 </header>
 
-
+<section>
 <!--End Header -->
 <?php
 function isMobile() {
@@ -173,7 +173,7 @@ else {
    echo'<div class="wow fadeInUp " data-wow-delay=".2s">
 		<h1 class="wow fadeInUp"><span><font color="#808080" size="14px">Pay Your</font></span></h1>
 		<h1><font color="#012480">Bills Online With DirectPay !</font></h1>
-		<p class="wow fadeInUp" ><font color="#000">Secured billing Portal</font><br><br></p>
+		<p class="wow fadeInUp" ><font color="#000">Secured Billing Portal</font><br><br></p>
 		</div>';
 }
 	else{
@@ -294,7 +294,7 @@ else {
 <h4 class="mb20">All your transactions in just 3 taps.</h4>
 <h2>Click. Scan. Pay!</h2>
 <br><br>
-<a href="https://play.google.com/store/apps/details?id=com.directpay.userapp" class="btn-outline lnk wow fadeInUp" data-wow-delay=".6s"><i class="fab fa-google-play"></i></i>&nbspGet it on Google Play
+<a href="https://play.google.com/store/apps/details?id=com.directpay.userapp" class="btn-outline lnk wow fadeInUp" data-wow-delay=".6s"><i class="fab fa-google-play"></i>&nbspGet it on Google Play
  <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
 <br><br>
 <a href="https://apps.apple.com/us/app/directpay/id1437707340" class="btn-outline lnk wow fadeInUp" data-wow-delay=".6s"><i class="fab fa-app-store"></i>&nbspAvailable on App Store <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
@@ -361,10 +361,13 @@ before diving head on in to it.
 <div class="photosets- pb80 pt50">
 <div class="container">
 <div class="row">
-<div class="col-lg-5 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.instagram.com/p/CBkZjZYAVjs/"><img src="images/about/office-1.jpg" alt="companyname" class="img-fluid"></a></div> </div>
-<div class="col-lg-7 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.facebook.com/directpay.srilanka/posts/750552515502118"><img src="images/about/office-2.jpg" alt="companyname" class="img-fluid"></a></div> </div>
-<div class="col-lg-7 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.facebook.com/directpay.srilanka/posts/791578108066225"><img src="images/about/office-3.jpg" alt="companyname" class="img-fluid"></a></div> </div>
-<div class="col-lg-5 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.instagram.com/p/CJi9gGzh881/"><img src="images/about/office-4.jpg" alt="companyname" class="img-fluid"></a></div> </div>
+<div class="col-lg-5 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.facebook.com/directpay.srilanka/posts/859784407912261"><img src="images/about/office-1.jpg" alt="companyname" class="img-fluid"></a></div> </div>
+
+<div class="col-lg-7 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.facebook.com/directpay.srilanka/posts/833210827236286"><img src="images/about/office-3.jpg" alt="companyname" class="img-fluid"></a></div> </div>
+
+ <div class="col-lg-7 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://www.facebook.com/directpay.srilanka/posts/750552515502118"><img src="images/about/office-2.jpg" alt="companyname" class="img-fluid"></a></div> </div>
+
+<div class="col-lg-5 mt30 h-scl-"><div class="img-ca2set h-scl-base"><a href="https://fb.watch/57wpCSLbHh/"><img src="images/about/office-6.jpg" alt="companyname" class="img-fluid"></a></div> </div>
 </div>
 </div>
 </div>
@@ -381,13 +384,13 @@ before diving head on in to it.
 <div class="common-heading ptag">
 <h1>DirectPay in Numbers</h1>
 </div>
-
+<br/>
 
 <div class="row small t-ctr">
 <div class="col-lg-3 col-sm-6">
 <div class="statistics">
 <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-<img src="images/icons/deal.svg" alt="happy" class="img-fluid" />
+<img src="images/icons/icon-3.png" alt="happy" class="img-fluid" />
 </div>
 <div class="statnumb">
 <span class="counter">25</span>
@@ -398,7 +401,7 @@ before diving head on in to it.
 <div class="col-lg-3 col-sm-6">
 <div class="statistics">
 <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-<img src="images/icons/computers.svg" alt="project" class="img-fluid" />
+<img src="images/icons/icon-1.png" alt="project" class="img-fluid" />
 </div>
 <div class="statnumb counter-number">
 <span class="counter">1000</span><span>+</span>
@@ -409,7 +412,7 @@ before diving head on in to it.
 <div class="col-lg-3 col-sm-6">
 <div class="statistics">
 <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-<img src="images/icons/worker.svg" alt="work" class="img-fluid" />
+<img src="images/icons/project.png" alt="work" class="img-fluid" />
 </div>
 <div class="statnumb">
 <span class="counter">85</span><span></span>
@@ -420,7 +423,7 @@ before diving head on in to it.
 <div class="col-lg-3 col-sm-6">
 <div class="statistics mb0">
 <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-<img src="images/icons/customer-service.svg" alt="support" class="img-fluid" />
+<img src="images/icons/icon-5.png" alt="support" class="img-fluid" />
 </div>
 <div class="statnumb">
     <span class="counter">1</span><span>M+</span>
@@ -431,7 +434,7 @@ before diving head on in to it.
 </div><br/><br/>
 
 </div>
-</div>
+</div></div>
 </section>
 <!--End photo gallery-->
 <!--Start Blogs-->
@@ -594,6 +597,34 @@ Sri Lanka</span></p>
 <!--End Footer-->
 <!--scroll to top-->
 <a id="scrollUp" href="#top"></a>
+
+        <!-- Messenger Chat plugin Code -->
+        <div id="fb-root"></div>
+        <script>
+            window.fbAsyncInit = function() {
+                FB.init({
+                    xfbml            : true,
+                    version          : 'v10.0'
+                });
+            };
+
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+
+        <!-- Your Chat plugin code -->
+        <div class="fb-customerchat"
+             attribution="biz_inbox"
+             page_id="137549680135741">
+        </div>
+
+
+
 <!-- js placed at the end of the document so the pages load faster -->
 <script src="js/vendor/modernizr-3.5.0.min.js"></script>
 <script src="js/jquery.min.js"></script>

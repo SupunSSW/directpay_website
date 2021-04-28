@@ -29,7 +29,7 @@
 
 
 
-	</body>
+
 <!--End Header -->
 <!--Breadcrumb Area-->
 <!--Start Footer-->
@@ -41,7 +41,7 @@
 <div class="container">
 <div class="row">
 	<div class="col-lg-12">
-		
+
 			<a class="navbar-brand img-ctr" href="index"><p><font color="#000">Powered by</font></p><img src="images/logo.png" alt="Logo" width="100" /></a><br/>
 		<div class="footer-">
 			<p>Copyright © 2021 DirectPay . All rights reserved.</p>
@@ -74,4 +74,5 @@ $(this).siblings(".custom-file-label").addClass("selected")(fileName);
 });
 </script>
 </body>
+
 </html>

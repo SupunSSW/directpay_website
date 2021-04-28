@@ -27,7 +27,7 @@
     <meta property="og:title" content="Page 1">
     <meta property="og:type" content="website">
     <meta property="og:description" content="DirectPay is your digital partner that simplifies the checkout process across your purchases online in Sri Lanka.">
-    <meta name="theme-color" content="#478ac9">
+    <meta name="theme-color" content="fff">
     <link rel="canonical" href="index.html">
     <meta property="og:url" content="index.html">
     <style type="text/css">
@@ -131,13 +131,13 @@ customers and vendors without disclosing their financial details.</h5>
         <h5 class="u-align-center-xs u-custom-font u-text u-text-1">Copyright © 2020 <a href="http://www.DirectPay.lk" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-1 u-btn-1">DirectPay </a>. All rights reserved.
         </h5>
         <h5 class="u-align-center u-custom-font u-text u-text-2">
-          <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-grey-90 u-text-hover-custom-color-2 u-btn-2" href="privacy.html">Privacy policy</a>
+            <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hidden-xs u-hover-none u-none u-text-grey-90 u-text-hover-custom-color-2 u-btn-2" href="privacy">Privacy policy</a>
         </h5>
         <h5 class="u-align-center u-custom-font u-text u-text-3">
-          <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-grey-90 u-text-hover-custom-color-2 u-btn-3" href="terms.html">Terms &amp; Conditions</a>
+            <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hidden-xs u-hover-none u-none u-text-grey-90 u-text-hover-custom-color-2 u-btn-3" href="terms">Terms &amp; Conditions</a>
         </h5>
         <h5 class="u-align-center u-custom-font u-text u-text-4">
-          <a class="u-btn u-button-link u-button-style u-none u-text-grey-90 u-text-hover-custom-color-2 u-btn-4" href="faq.html">FAQ</a>
+            <a class="u-btn u-button-link u-button-style u-hidden-xs u-none u-text-grey-90 u-text-hover-custom-color-2 u-btn-4" href="faq">FAQ</a>
         </h5>
       </div></footer>
 

@@ -33,7 +33,7 @@
         <div class="menu-header">
             <div class="dsk-logo"><a class="nav-brand" href="consumer">
                     <img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-                    <img src="images/logo.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+                    <img src="images/logo.png" alt="Logo" class="mega-darks-logo" width="180px">
                 </a></div>
             <div class="custom-nav" role="navigation">
                 <ul class="nav-list">
@@ -57,7 +57,7 @@
                                         <div class="sub-menu-column">
                                             <ul>
                                                 <li><a href="merchant"><font color="#ff822e"
-                                                                             size="3.5px">Business</font></font></a>
+                                                                             size="3.5px">Business</font></a>
                                                 </li>
                                                 <li><a href="ipg">IPG</a></li>
                                                 <li><a href="merchant">Merchant App</a></li>
@@ -82,7 +82,7 @@
                             </div>
                         </div>
                     </li>
-                    <li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+                    <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
                     <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
                     <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
                     <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -109,7 +109,7 @@
                         <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
                         <li><a href="consumer">User App</a></li>
                         <li><a href="web">Web</a></li>
-                        <li><a href="merchant"><font color="#012480" size="3.5px">Business</font></font></a></li>
+                        <li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
                         <li><a href="ipg">IPG</a></li>
                         <li><a href="merchant">Merchant App</a></li>
                         <li><a href="pos">POS</a></li>
@@ -121,7 +121,7 @@
 
                     </ul>
                 </li>
-                <li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+                <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
                 <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
                 <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
                 <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -195,18 +195,20 @@
         <div class="row">
             <div class="col-lg-8">
                 <div class="blog-header">
-                    @foreach($contentkey-> slice(2) as $content)
+                    @foreach($contentkey-> slice(0,1) as $content)
                         <h1><?php echo $content['title']?></h1>
                     @endforeach
 
                     <div class="row mt20 mb20">
                         <div class="col-md-8 col-9">
                             <div class="media">
-                                <div class="user-image bdr-radius"><img src="images/user-thumb/@foreach($contentkey-> slice(1) as $content)<?php echo $content['sourceLogo']?> @endforeach" alt="girl"
-                                                                        class="img-fluid"/></div>
+                                <div class="user-image bdr-radius"><img
+                                        src="images/user-thumb/@foreach($contentkey-> slice(0,1) as $content)<?php echo $content['sourceLogo']?> @endforeach"
+                                        alt="girl"
+                                        class="img-fluid"/></div>
                                 <div class="media-body user-info">
                                     <h5>By Dailymirror</h5>
-                                    <p>@foreach($contentkey-> slice(1) as $content)<?php echo $content['ndate']?> @endforeach</p>
+                                    <p>@foreach($contentkey-> slice(0,1) as $content)<?php echo $content['ndate']?> @endforeach</p>
                                 </div>
                             </div>
                         </div>
@@ -215,25 +217,27 @@
                         </div>
                     </div>
                 </div>
-                <div class="image-set"><img src="images/blog/@foreach($contentkey-> slice(0,1) as $content)<?php echo $content['main']?> @endforeach" alt="blog images" class="img-fluid"/>
+                <div class="image-set"><img
+                        src="images/blog/@foreach($contentkey-> slice(0,1) as $content)<?php echo $content['main']?> @endforeach"
+                        alt="blog images" class="img-fluid"/>
                 </div>
                 <div class="blog-content mt30">
                     <p>
-                        @foreach($contentkey as $content)
+                        @foreach($contentkey-> slice(0,1) as $content)
                             <?php echo $content['mcontent']?>
                         @endforeach
                     </p>
 
 
                     <p>
-                        @foreach($contentkey-> slice(1) as $content)
+                        @foreach($contentkey-> slice(0,1) as $content)
                             <?php echo $content['paraTwo']?>
                         @endforeach
 
                     </p>
                     <br>
                     <p>
-                        @foreach($contentkey-> slice(1) as $content)
+                        @foreach($contentkey-> slice(0,1) as $content)
                             <?php echo $content['parathree']?>
                         @endforeach
 
@@ -243,8 +247,8 @@
                     <div class="row">
                         <div class="col-lg-8 col-md-8 mt30 mb30">
                             <div class="blog-post-tag">
-                                <span>Read @foreach($contentkey-> slice(1) as $content) <?php echo $content['nsource']?> @endforeach</span>
-                                <a href="@foreach($contentkey-> slice(1) as $content) <?php echo $content['sourceLink']?> @endforeach">Visit
+                                <span>Read @foreach($contentkey-> slice(0,1) as $content) <?php echo $content['nsource']?> @endforeach</span>
+                                <a href="@foreach($contentkey-> slice(0,1) as $content) <?php echo $content['sourceLink']?> @endforeach">Visit
                                     Dailymirror Article</a>
 
                             </div>
@@ -320,7 +324,8 @@
                         <div class="blog-categories">
                             <ul>
                                 <li>
-                                    <a href="#">@foreach($contentkey-> slice(1) as $content)<?php echo $content['category']?> @endforeach <span class="categories-number">(2)</span></a>
+                                    <a href="#">@foreach($contentkey-> slice(1) as $content)<?php echo $content['category']?> @endforeach
+                                        <span class="categories-number">(2)</span></a>
                                 </li>
 
                             </ul>
