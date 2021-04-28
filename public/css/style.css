@@ -1841,6 +1841,13 @@ background: url(../images/hero/freelancer.png), url(../images/shape/hero-shape.s
 background-position: center center, center center;
 background-size: cover, cover;
 background-repeat: no-repeat, no-repeat;}
+
+
+.fl-career{
+    background: url(../images/hero/career.png), url(../images/shape/hero-shape.svg),#fff;
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: no-repeat, no-repeat;}
 .showin-mobile{display:none;}
 .follow-label{display: flex;}
 .follow-label h6{ margin: 0 40px 0 0px;   position: relative;}
