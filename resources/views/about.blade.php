@@ -224,10 +224,23 @@
         </div>
     </div>
 </section>
+<section class="about-sec bg-gradient5 pad-tb">
+    <div class="container">
+        <div class="row justify-content-center text-center">
+            <div class="col-lg-10">
+                <div class="common-heading">
+                <h2 class="mb30">Towards a <font color="#012480">#Cashless</font> Society</h2>
 
-<section class="breadcrumb-areav2" data-background="images/banner/8.jpg">
+                <br>
+                </div>
+                <br><br><br>
 
+            </div>
+        </div>
+    </div>
 </section>
+
+
 <section class="about-dg-busign pb120 pt120 bg-light-ylo upset">
 
     <div class="container">
@@ -239,7 +252,7 @@
 
             <div class="col-lg-6 v-center">
                 <div class="bread-titlev2">
-                    <h1 class="wow fadeInUp" data-wow-delay=".2s">Towards a Cashless Society</h1>
+
                     <p class="mt20 wow fadeInUp" data-wow-delay=".4s">DirectPay is a Sri Lankan startup that is solving the problem of getting paid.
                         We believe that payment is always a byproduct of some other transaction and we are addressing how to pursue that payment digitally.
                         It could be either through a mobile-based payment app, an Internet payment gateway, a payment link to receive remote payments, subscription
