@@ -60,7 +60,7 @@
                                                 <li><a href="merchant">Merchant App</a></li>
                                                 <li><a href="pos">POS</a></li>
                                                 <li><a href="vpos">VPOS</a></li>
-                                                <li><a href="whitelable">White Lable</a></li>
+                                                <li><a href="whitelable">Platform</a></li>
                                             </ul>
                                         </div>
                                         <div class="sub-menu-column">
@@ -111,7 +111,7 @@
                         <li><a href="merchant">Merchant App</a></li>
                         <li><a href="pos">POS</a></li>
                         <li><a href="vpos">VPOS</a></li>
-                        <li><a href="whitelable">White Lable</a></li>
+                        <li><a href="whitelable">Platform</a></li>
                         <li><a href="https://www.directpay.lk/developer/"><font color="#012480"
                                                                                 size="3.5px">Developer</font></a></li>
                         <li><a href="https://www.directpay.lk/developer/">Sandbox</a></li>
@@ -251,6 +251,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="common-heading ptag">
+                    <img src="images/img/scroll.gif" width="8%" class="u-hidden-lg u-hidden-md u-hidden-xl">
                     <p class="wow fadeInUp" ><font color="#373737">See how we grow and thrive together. A strong community and culture built around innovation. Join us and be a part of our family!</font><br><br></p>
                     <h2>Current Openings</h2>
                     <p class="mb60">30 Jan 2021 Latest Jobs</p>

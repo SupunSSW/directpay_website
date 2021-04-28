@@ -63,7 +63,7 @@
                                                 <li><a href="merchant">Merchant App</a></li>
                                                 <li><a href="pos">POS</a></li>
                                                 <li><a href="vpos">VPOS</a></li>
-                                                <li><a href="whitelable">White Lable</a></li>
+                                                <li><a href="whitelable">Platform</a></li>
                                             </ul>
                                         </div>
                                         <div class="sub-menu-column">
@@ -114,7 +114,7 @@
                         <li><a href="merchant">Merchant App</a></li>
                         <li><a href="pos">POS</a></li>
                         <li><a href="vpos">VPOS</a></li>
-                        <li><a href="whitelable">White Lable</a></li>
+                        <li><a href="whitelable">Platform</a></li>
                         <li><a href="https://www.directpay.lk/developer/"><font color="#012480"
                                                                                 size="3.5px">Developer</font></a></li>
                         <li><a href="https://www.directpay.lk/developer/">Sandbox</a></li>
@@ -210,6 +210,20 @@
 
 <!--End Header -->
 <!--Start Hero-->
+<section class="breadcrumb-area banner-1" data-background="images/banner/9.jpg">
+    <div class="text-block">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 v-center">
+                    <div class="bread-inner">
+                        <div class="bread-menu wow fadeInUp" data-wow-delay=".2s">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="breadcrumb-areav2" data-background="images/banner/8.jpg">
 
