@@ -171,17 +171,17 @@
 <section>
     <!--End Header -->
     <?php
-    function isMobile()
-    {
+    function isMobile() {
         return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
     }
     // Use the function
-    if (isMobile()) {
+    if(isMobile()){
 
-        echo '<section class="hero-section minimal-portfolio" data-background="images/shape/career-mobile.png" id="home">';
-    } else {
+        echo'<section class="hero-section minimal-portfolio" data-background="images/shape/bg-light.png" id="home">';
+    }
+    else {
 
-        echo '<section class="hero-section fl-career">';
+        echo'<section class="hero-section fl-career">';
     }
 
     ?>
@@ -193,18 +193,19 @@
                 <div class="col-lg-6 v-center">
                     <div class="header-heading">
 
-                        <?php if (isMobile()) {
+                        <?php if(isMobile()){
                             // Do something for only mobile users
-                            echo '<div class="wow fadeInUp " data-wow-delay=".2s">
-		<h1 class="wow fadeInUp"><span><font color="#000b3b" size="10px">Career and Culture</font></span></h1>
-		<h1><font color="#000b3b">at DirectPay</font></h1>
-		<p class="wow fadeInUp" ><font color="#fff">See how we grow and thrive together. A strong community and culture built around innovation. Join us and be a part of our family!</font><br><br></p>
+                            echo'<div class="wow fadeInUp " data-wow-delay=".2s">
+		<h1 class="wow fadeInUp"><span><font color="#96b7d8" size="14px">Career and culture at </font><font color="#a2a2a2" size="14px">DirectPay</font></span></h1>
+
+
 		</div>';
-                        } else {
-                            echo '<div class="wow fadeInUp" data-wow-delay=".2s">
-		<h2 class="wow fadeInUp" ><span><font color="#fff">Career and Culture</font></span></h2>
-		<h2><font color="#fff">at DirectPay</font></h2>
-		<p class="wow fadeInUp" ><font color="#fff" size="3px">See how we grow and thrive together. A strong community and culture built around innovation. Join us and be a part of our family!</font></p>
+                        }
+                        else{
+                            echo'<div class="wow fadeInUp" data-wow-delay=".2s">
+		<h1 class="wow fadeInUp" ><span><font color="#cfcfcf">Career and culture at DirectPay</font></span></h1>
+
+
 		</div>';
 
                         }
@@ -212,11 +213,16 @@
                         ?>
 
 
-                    </div>
-                    <a href="#jobs" class="btn-main bg-btn2 lnk mt30"> View Opening <i
-                            class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
-                </div>
 
+
+
+
+
+
+
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeIn" data-wow-delay=".4s"><div class="single-image"><img src="images/hero/career-mobile.png" alt="service" class="img-fluid showin-mobile"/></div></div>
             </div>
         </div>
     </div>
@@ -245,6 +251,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="common-heading ptag">
+                    <p class="wow fadeInUp" ><font color="#373737">See how we grow and thrive together. A strong community and culture built around innovation. Join us and be a part of our family!</font><br><br></p>
                     <h2>Current Openings</h2>
                     <p class="mb60">30 Jan 2021 Latest Jobs</p>
                 </div>
