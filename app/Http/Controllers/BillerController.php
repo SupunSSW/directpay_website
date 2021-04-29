@@ -11,6 +11,7 @@ class BillerController extends Controller
     function index()
     {
         $data=Billname::all();
+        \Log::info(json_encode($data));
         return view('billers',['Billnamekey'=>$data]);
         //return DB::select("select * from billnames");
         //return view('billers');
