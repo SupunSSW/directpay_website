@@ -350,7 +350,7 @@
                     <li><a href="#"><img src="images/awards/19.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/18.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/17.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/16.png" alt="badges"></a></li>
+
 
 
 
@@ -365,11 +365,11 @@
 
             <div class="col-lg">
                 <ul class="footer-badges-">
+                    <li><a href="#"><img src="images/awards/16.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/15.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/14.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/13.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/12.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/11.png" alt="badges"></a></li>
+
 
 
 
@@ -384,11 +384,33 @@
 
             <div class="col-lg">
                 <ul class="footer-badges-">
+                    <li><a href="#"><img src="images/awards/12.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/11.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/10.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/9.png" alt="badges"></a></li>
+
+
+
+
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="footer-brands">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg">
+                <ul class="footer-badges-">
                     <li><a href="#"><img src="images/awards/8.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/7.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/6.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/5.png" alt="badges"></a></li>
+
 
 
 
@@ -406,7 +428,6 @@
 
             <div class="col-lg">
                 <ul class="footer-badges-">
-                    <li><a href="#"><img src="images/awards/5.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/4.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/3.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/2.png" alt="badges"></a></li>
@@ -416,11 +437,13 @@
 
 
 
+
                 </ul>
             </div>
         </div>
     </div>
 </div>
+
 
 
 <br><br><br>
