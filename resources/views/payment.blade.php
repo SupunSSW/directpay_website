@@ -255,7 +255,7 @@ $result = "";
 
 
                         <div class="fieldsets mt20">
-                            <button type="submit" class="lnk btn-main bg-btn" value="submit" form="billing-data">Verify
+                            <button type="submit" class="lnk btn-main bg-btn" value="button" form="billing-data" onclick="verifyAndCheckout()">Verify
                                 & CHECKOUT <span class="circle"></span></button>
                         </div>
 
@@ -315,6 +315,28 @@ $result = "";
         var fileName = $(this).val().split("\\").pop();
         $(this).siblings(".custom-file-label").addClass("selected")(fileName);
     });
+
+    function verifyAndCheckout() {
+
+        $.ajax({
+            url: "{{ route('frontend.accountData.submit') }}",
+            type: "POST",
+            data: {
+                _token: "{{ csrf_token() }}",
+                accountNo: $('#_description').val(),
+                amount: $('#_amount').val(),
+                remarks: $('#_orderId').val(),
+            },
+            success: function (e) {
+                console.log(e);
+            },
+            error: function (e) {
+                console.log('error', e);
+            }
+        });
+    }
+
+
 </script>
 </body>
 </html>
