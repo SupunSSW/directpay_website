@@ -276,8 +276,8 @@ $num = "";
                 <div class="isotope_item hover-scale">
                     <div class="item-image">
                         <a href="blog8"><img src="images/blog/blog-8.jpg" alt="blog" class="img-fluid"/> </a>
-                        <span class="category-blog"><a href="#">SLASSCOM Awards</a> <a
-                                href="#">Best Disruptor</a></span>
+                        <span class="category-blog"><a href="#">NBQSA 2020</a> <a
+                                href="#">Award</a></span>
                     </div>
                     <div class="item-info blog-info">
                         <div class="entry-blog">
@@ -330,9 +330,9 @@ $num = "";
                 </span>
 
                         </div>
-                        <h4><a href="blog6">PayMedia wraps up 2018 with Eleven Awards</a></h4>
+                        <h4><a href="blog6">PayMedia Wins 11 awards at the National ICT Awards (NBQSA) 2018.</a></h4>
                         <p>PayMedia, a rapidly evolving Financial Technology company in Sri Lanka, won eleven awards in
-                            total in 2018, and was highly commended for the leadership of its Founding Director,
+                            total in 2018, and was highly commended for the leadership of Mr.
                             Kanishka Weeramunda.</p>
                     </div>
                 </div>
@@ -444,6 +444,7 @@ $num = "";
         </div>
     </div>
 </section>
+
 <br><br><br><br>
 <!--Start Footer-->
 <footer class="dark-footer dg-bg--1 pt60 upset dark-footer-1">

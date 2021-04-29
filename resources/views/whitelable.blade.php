@@ -239,18 +239,13 @@
 <div class="weworkfor pt20 pb20">
 <div class="container">
 <div class="logo-weworkfor owl-carousel">
-<div class="items"><img src="images/client/clients-1.png" alt="DirectPay Clients" class="img100w"></div>
+<div class="items"><img src="images/client/clients-14.png" alt="DirectPay Clients" class="img100w"></div>
+<div class="items"><img src="images/client/clients-8.png" alt="DirectPay Clients" class="img100w"></div>
 <div class="items"><img src="images/client/clients-2.png" alt="DirectPay Clients" class="img100w"></div>
-<div class="items"><img src="images/client/clients-3.png" alt="DirectPay Clients" class="img100w"></div>
-<div class="items"><img src="images/client/clients-4.png" alt="DirectPay Clients" class="img100w"></div>
-<div class="items"><img src="images/client/clients-5.png" alt="DirectPay Clients" class="img100w"></div>
-<div class="items"><img src="images/client/clients-6.png" alt="DirectPay Clients" class="img100w"></div>
-<div class="items"><img src="images/client/clients-7.png" alt="DirectPay Clients" class="img100w"></div>
-<div class="items"><img src="images/client/clients-9.png" alt="DirectPay Clients" class="img100w"></div>
-<div class="items"><img src="images/client/clients-10.png" alt="DirectPay Clients" class="img100w"></div>
-<div class="items"><img src="images/client/clients-11.png" alt="DirectPay Clients" class="img100w"></div>
-<div class="items"><img src="images/client/clients-12.png" alt="DirectPay Clients" class="img100w"></div>
-<div class="items"><img src="images/client/clients-13.png" alt="DirectPay Clients" class="img100w"></div>
+<div class="items"><img src="images/client/clients-15.png" alt="DirectPay Clients" class="img100w"></div>
+<div class="items"><img src="images/client/clients-16.png" alt="DirectPay Clients" class="img100w"></div>
+<div class="items"><img src="images/client/clients-17.png" alt="DirectPay Clients" class="img100w"></div>
+
 
 </div>
 </div>
