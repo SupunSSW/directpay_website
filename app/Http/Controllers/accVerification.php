@@ -20,10 +20,14 @@ class accVerification extends Controller
         ]);
 
         if ($validator->fails()) {
+
+            $errorData = new \stdClass();
+            $errorData->title = 'Validation Exception';
+            $errorData->message = $validator->errors()->first();
+
             return response()->json([
                 'status' => 401,
-                'message' => 'Validation Exception',
-                'data' => $validator->errors()->all()
+                'data' => $errorData
             ]);
         }
 
