@@ -196,7 +196,7 @@
                         <?php if (isMobile()) {
                             // Do something for only mobile users
                             echo '<div class="wow fadeInUp " data-wow-delay=".2s">
-		<h1 class="wow fadeInUp"><span><font color="#96b7d8" size="14px">Career and culture at </font><font color="#a2a2a2" size="14px">DirectPay</font></span></h1>
+		<h1 class="wow fadeInUp"><span><font color="#012480" size="14px">Career and culture at </font><font color="#a2a2a2" size="14px">DirectPay</font></span></h1>
 
 
 		</div>';
