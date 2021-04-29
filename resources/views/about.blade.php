@@ -210,7 +210,7 @@
 
 <!--End Header -->
 <!--Start Hero-->
-<section class="breadcrumb-area banner-1" data-background="images/banner/9.jpg">
+<section class="breadcrumb-area banner-1" data-background="images/banner/10.png">
     <div class="text-block">
         <div class="container">
             <div class="row">
@@ -233,7 +233,7 @@
 
                 <br>
                 </div>
-                <br><br><br>
+                <br>
 
             </div>
         </div>
