@@ -257,43 +257,41 @@
             <div class="col-lg-8">
                 <div class="career-card-div">
                     <div id="accordion" class="accordion">
+
                         <div class="card-2">
                             <div class="card-header" id="acc1">
-                                <button class="btn btn-link btn-block text-left acc-icon" type="button"
-                                        data-toggle="collapse" data-target="#collapse-a" aria-expanded="true"
+                                <button class="btn btn-link btn-block text-left acc-icon collapsed" type="button"
+                                        data-toggle="collapse" data-target="#collapse-a" aria-expanded="false"
                                         aria-controls="collapse-a">
-                                    Web & Visual Designer - 2 Post
+                                    Associate Software Engineer
                                 </button>
                             </div>
                             <div id="collapse-a" class="card-body collapse show p0" aria-labelledby="acc1"
                                  data-parent="#accordion">
                                 <div class="data-reqs">
                                     <h5 class="pt20 pb20">Overview</h5>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's specimen book. Lorem Ipsum is simply dummy text of
-                                        the printing and typesetting industry. </p>
-                                    <h5 class="pt20 pb20">Required experience</h5>
-                                    <p>5 Years Lorem Ipsum is simply dummy text of the printing and typesetting
-                                        industry. Lorem Ipsum has been the industry's specimen book. Lorem Ipsum is
-                                        simply dummy text of the printing and typesetting industry. </p>
-                                    <h4 class="pb20 pt20">Skills Required:</h4>
+                                    <p>DirectPay connects everyone digitally bringing us one step closer towards a
+                                        cashless society by introducing modern payment methods in the financial and
+                                        telecom industries. We are revolutionizing the Sri Lankan fintech industry with
+                                        a passionate team who strive to deliver the best and we are growing rapidly. We
+                                        are looking for exceptional individuals who can take DirectPay up a notch in
+                                        every aspect. <br> If you have what it takes to learn and grow, send your CV
+                                        with the position you're applying for as the subject of the email.</p>
+                                    <h5 class="pt20 pb20">Key Responsibilities</h5>
+                                    <p>- Strong problem-solving and critical thinking skills.<br>
+                                        - Develop backend and mobile applications with secure coding standards and
+                                        practices.<br>
+                                        - Ability to work under pressure and handle tough deadlines.<br>
+                                        - Ability to work on multiple projects.</p>
+                                    <h4 class="pb20 pt20">Qualifications and Experience</h4>
                                     <ul class="list-ul ul-check">
-                                        <li>Deep familiarity with Core PHP and Laravel</li>
-                                        <li>Experience of Ajax &amp; Jquery</li>
-                                        <li>Good understanding of JSON &amp; third-party libraries and APIs</li>
-                                        <li>Should be able to understand entire development life cycle concept. (Design,
-                                            build, deploy, test, deploy online &amp; support)
+                                        <li> Minimum 6 months to 1 year of working experience in Mobile App
+                                            Development
                                         </li>
-                                        <li>Strong knowledge in Web Services &amp; API's, LBS, Social Network
-                                            Integration etc.
-                                        </li>
-                                        <li>Strong knowledge in database (Mysql)</li>
-                                        <li>Good Knowledge in Google APIs</li>
-                                        <li>Good understanding of MVC concepts and design patterns</li>
-                                        <li>Strong object oriented programming and design skills</li>
-                                        <li>Knowledge in versioning Tools that includes like trunk, branch, export,
-                                            import and copy will be an added advantage
-                                        </li>
+                                        <li> Degree in Software Engineering (or any other relevant qualification)</li>
+                                        <li> Ability to work with the Flutter, php, Java, Laravel and Symfony.</li>
+                                        <li> Experience with AWS will be an added advantage.</li>
+
                                     </ul>
                                     <a href="#" class="btn-main bg-btn3 lnk mt20" data-toggle="modal"
                                        data-target="#modalform">Apply Now<i
@@ -301,50 +299,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="card-2 mt30">
-                            <div class="card-header" id="acc2">
-                                <button class="btn btn-link btn-block text-left acc-icon collapsed" type="button"
-                                        data-toggle="collapse" data-target="#collapse-b" aria-expanded="true"
-                                        aria-controls="collapse-a">
-                                    Head of UX and Design - 3 Post
-                                </button>
-                            </div>
-                            <div id="collapse-b" class="card-body collapse p0" aria-labelledby="acc2"
-                                 data-parent="#accordion">
-                                <div class="data-reqs">
-                                    <h5 class="pt20 pb20">Overview</h5>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's specimen book. Lorem Ipsum is simply dummy text of
-                                        the printing and typesetting industry. </p>
-                                    <h5 class="pt20 pb20">Required experience</h5>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's specimen book. Lorem Ipsum is simply dummy text of
-                                        the printing and typesetting industry. </p>
-                                    <h4 class="pb20 pt20">Skills Required:</h4>
-                                    <ul class="list-ul ul-check">
-                                        <li>Deep familiarity with Core PHP and Laravel</li>
-                                        <li>Experience of Ajax &amp; Jquery</li>
-                                        <li>Good understanding of JSON &amp; third-party libraries and APIs</li>
-                                        <li>Should be able to understand entire development life cycle concept. (Design,
-                                            build, deploy, test, deploy online &amp; support)
-                                        </li>
-                                        <li>Strong knowledge in Web Services &amp; API's, LBS, Social Network
-                                            Integration etc.
-                                        </li>
-                                        <li>Strong knowledge in database (Mysql)</li>
-                                        <li>Good Knowledge in Google APIs</li>
-                                        <li>Good understanding of MVC concepts and design patterns</li>
-                                        <li>Strong object oriented programming and design skills</li>
-                                        <li>Knowledge in versioning Tools that includes like trunk, branch, export,
-                                            import and copy will be an added advantage
-                                        </li>
-                                    </ul>
-                                    <a href="#" class="btn-main bg-btn3 lnk mt20" data-toggle="modal"
-                                       data-target="#modalform">Apply Now<i
-                                            class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
-                                </div>
-                            </div>
-                        </div>
+
+
                     </div>
                 </div>
             </div>

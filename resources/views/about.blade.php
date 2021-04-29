@@ -326,15 +326,15 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4 v-center">
-                <h5 class="mb10">Awards </h5>
+                <h3 class="mb10">Awards </h3>
                 <p>The numerous awards for excellence won by DirectPay is the result of dedication and commitment of the people engaged with the company.</p>
             </div>
-            <div class="col-lg-8 v-center">
+            <div class="col-lg">
                 <ul class="footer-badges-">
                     <li><a href="#"><img src="images/awards/23.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/22.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/21.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/20.png" alt="badges"></a></li>
+
                 </ul>
             </div>
         </div>
@@ -344,16 +344,15 @@
     <div class="container">
         <div class="row">
 
-            <div class="col-lg-8 v-center">
+            <div class="col-lg">
                 <ul class="footer-badges-">
+                    <li><a href="#"><img src="images/awards/20.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/19.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/18.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/17.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/16.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/15.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/14.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/13.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/12.png" alt="badges"></a></li>
+
+
 
                 </ul>
             </div>
@@ -364,46 +363,66 @@
     <div class="container">
         <div class="row">
 
-            <div class="col-lg-8 v-center">
+            <div class="col-lg">
                 <ul class="footer-badges-">
-
-
+                    <li><a href="#"><img src="images/awards/15.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/14.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/13.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/12.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/11.png" alt="badges"></a></li>
+
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer-brands">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg">
+                <ul class="footer-badges-">
                     <li><a href="#"><img src="images/awards/10.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/9.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/8.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/7.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/6.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/5.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/4.png" alt="badges"></a></li>
+
+
+
+
 
                 </ul>
             </div>
         </div>
     </div>
 </div>
+
 <div class="footer-brands">
     <div class="container">
         <div class="row">
 
-            <div class="col-lg-8 v-center">
+            <div class="col-lg">
                 <ul class="footer-badges-">
-
-
+                    <li><a href="#"><img src="images/awards/5.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/4.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/3.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/2.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/1.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/" hidden></a></li>
-                    <li><a href="#"><img src="images/awards/" hidden></a></li>
-                    <li><a href="#"><img src="images/awards/" hidden></a></li>
-                    <li><a href="#"><img src="images/awards/" hidden></a></li>
-                    <li><a href="#"><img src="images/awards/" hidden></a></li>
+
+
+
+
 
                 </ul>
             </div>
         </div>
     </div>
 </div>
+
+
 <br><br><br>
 
 <!--End Hero-->
