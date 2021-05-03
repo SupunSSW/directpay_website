@@ -229,7 +229,7 @@
         <div class="row justify-content-center text-center">
             <div class="col-lg-10">
                 <div class="common-heading">
-                <h2 class="mb30">Towards a <font color="#012480">#Cashless</font> Society</h2>
+                <h1 class="mb30">Towards a <font color="#012480">#Cashless</font> Society</h1>
 
                 <br>
                 </div>
@@ -253,7 +253,7 @@
             <div class="col-lg-6 v-center">
                 <div class="bread-titlev2">
 
-                    <p class="mt20 wow fadeInUp" data-wow-delay=".4s">DirectPay is a Sri Lankan startup that is solving the problem of getting paid.
+                    <p class="mt20 wow fadeInUp" data-wow-delay=".4s" style="text-align:justify">DirectPay is a Sri Lankan startup that is solving the problem of getting paid.
                         We believe that payment is always a byproduct of some other transaction and we are addressing how to pursue that payment digitally.
                         It could be either through a mobile-based payment app, an Internet payment gateway, a payment link to receive remote payments, subscription
                         payments where there’s a recurring revenue or it could be a bill settlement. Whichever it is, we ensure a seamless journey to customers or
@@ -327,7 +327,7 @@
         <div class="row">
             <div class="col-lg-4 v-center">
                 <h3 class="mb10">Awards </h3>
-                <p>The numerous awards for excellence won by DirectPay is the result of dedication and commitment of the people engaged with the company.</p>
+                <p style="text-align:justify">The numerous awards for excellence won by DirectPay is the result of dedication and commitment of the people engaged with the company.</p>
             </div>
             <div class="col-lg">
                 <ul class="footer-badges-">

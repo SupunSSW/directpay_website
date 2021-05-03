@@ -202,7 +202,7 @@ $logo = "";
             <div class="col-lg-6">
                 <div class="common-heading ptag">
 
-                    <h1><font color="#000">DirectPay Web Portal</font></h1>
+                    <h1><font color="#000">Biller Portal</font></h1>
                     <p class="mb30">Select your service provider in the bellow section.</p>
                 </div>
             </div>

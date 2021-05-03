@@ -232,7 +232,7 @@
             <div class="col-lg-10">
                 <div class="common-heading">
                     <h2 class="mb30">Internet Payment Gateway</h2>
-                    <p><font color="#333" size="3px">DirectPay now offers a safe and convenient internet payment gateway
+                    <p ><font color="#333" size="3px">DirectPay now offers a safe and convenient internet payment gateway
                             in Sri Lanka.
                             We give you a fool-proof internet payment gateway and invoicing system that will help your
                             business run smoothly.For a safer and affordable payment solution</font></p>

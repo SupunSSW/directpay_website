@@ -50,7 +50,7 @@
 
 
 Route::get('/', function () {
-    return view('index');
+    return view('consumer');
 });
 
 Route::get('/consumer', function () {

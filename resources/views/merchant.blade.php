@@ -234,7 +234,7 @@
 <div class="col-lg-6">
 <div class="common-heading-2 text-l">
 <center><h6><br>Static QR | <font color="#ff822e">Dynamic QR</font> | Billers | <font color="#ff822e">Scan QR</font> | Government Payments | <font color="#ff822e">Transaction Reversals</font>
-| SIM ISSUING | <font color="#ff822e">Merchant Wallet & Topups</font> | Report Generation | <font color="#ff822e">Dashboard</font></h6></center>
+| SIM Issuing | <font color="#ff822e">Merchant Wallet & Topups</font> | Report Generation | <font color="#ff822e">Dashboard</font></h6></center>
 
 </div>
 <br>

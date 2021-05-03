@@ -270,12 +270,12 @@
                                  data-parent="#accordion">
                                 <div class="data-reqs">
                                     <h5 class="pt20 pb20">Overview</h5>
-                                    <p>DirectPay connects everyone digitally bringing us one step closer towards a
+                                    <p style="text-align:justify">DirectPay connects everyone digitally bringing us one step closer towards a
                                         cashless society by introducing modern payment methods in the financial and
                                         telecom industries. We are revolutionizing the Sri Lankan fintech industry with
                                         a passionate team who strive to deliver the best and we are growing rapidly. We
                                         are looking for exceptional individuals who can take DirectPay up a notch in
-                                        every aspect. <br> If you have what it takes to learn and grow, send your CV
+                                        every aspect.If you have what it takes to learn and grow, send your CV
                                         with the position you're applying for as the subject of the email.</p>
                                     <h5 class="pt20 pb20">Key Responsibilities</h5>
                                     <p>- Strong problem-solving and critical thinking skills.<br>
