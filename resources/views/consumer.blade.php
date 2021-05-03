@@ -181,7 +181,22 @@
     </ol>
     <div class="carousel-inner" role="listbox">
         <!-- Slide One - Set the background image for this slide in the line below -->
-        <div class="carousel-item active" style="background-image: url('images/hero/freelancer.png')">
+        <?php
+        function isMobile()
+        {
+            return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
+        }
+        // Use the function
+        if (isMobile()) {
+
+            echo '<div class="carousel-item active single-image" style="background-image: url(images/hero/freelancer-mobile.png)"> ';
+        } else {
+
+            echo '<div class="carousel-item active" style="background-image: url(images/hero/freelancer.png)"> ';
+        }
+
+        ?>
+
             <div class="carousel-caption  d-md-block">
                 <h2 class="display-4">First Slide</h2>
                 <p class="lead">This is a description for the first slide.</p>
@@ -212,23 +227,9 @@
     </a>
 </div>
 
-<section>
-    <!--End Header -->
-    <?php
-    function isMobile()
-    {
-        return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
-    }
-    // Use the function
-    if (isMobile()) {
+<!--<section>
 
-        echo '<section class="hero-section minimal-portfolio" data-background="images/shape/bg-light.png" id="home">';
-    } else {
 
-        echo '<section class="hero-section fl-hero">';
-    }
-
-    ?>
 
 
     <div class="text-block">
@@ -268,68 +269,11 @@
             </div>
         </div>
     </div>
-</section>
+</section>-->
 
-<!--End Hero-->
 
-<section class="about-dg-busign pb120 pt120 bg-light-ylo upset">
 
-    <div class="container">
 
-        <div class="row">
-            <!--whyus start-->
-            <div class="col-lg-6 v-center">
-                <div class="common-heading-2 text-l">
-
-                    <div class="sctxt">WHY US?</div>
-
-                </div>
-            </div>
-
-            <div class="col-lg-6 v-center">
-                <div class="awrd-sec text-w mt40 wow fadeIn" data-wow-delay="0.8s">
-
-                    <div class="bages-slider owl-carousel mt30">
-                        <div class="img-badge-"><a href="#"> <img src="images/icons/badge1.png" alt="DirectPay"
-                                                                  class="img100w"></a></div>
-                        <div class="img-badge-"><a href="#"> <img src="images/icons/badge2.png" alt="DirectPay"
-                                                                  class="img100w"></a></div>
-                        <div class="img-badge-"><a href="#"> <img src="images/icons/badge3.png" alt="DirectPay"
-                                                                  class="img100w"></a></div>
-                        <div class="img-badge-"><a href="#"> <img src="images/icons/badge11.png" alt="DirectPay"
-                                                                  class="img100w"></a></div>
-
-                    </div>
-                </div>
-            </div>
-            <!--whyus end-->
-            <br><br><br>
-            <div class="col-lg-6 v-center mt40 order2">
-                <div class="awrd-sec text-w mt40 wow fadeIn" data-wow-delay="0.8s">
-                    <div class="bages-slider owl-carousel mt30">
-                        <div class="img-badge-"><a href="#"> <img src="images/icons/badge5.png" alt="DirectPay"
-                                                                  class="img100w"></a></div>
-                        <div class="img-badge-"><a href="#"> <img src="images/icons/badge8.png" alt="DirectPay"
-                                                                  class="img100w"></a></div>
-                        <div class="img-badge-"><a href="#"> <img src="images/icons/badge9.png" alt="DirectPay"
-                                                                  class="img100w"></a></div>
-                        <div class="img-badge-"><a href="#"> <img src="images/icons/badge10.png" alt="DirectPay"
-                                                                  class="img100w"></a></div>
-                        <div class="img-badge-"><a href="#"> <img src="images/icons/badge6.png" alt="DirectPay"
-                                                                  class="img100w"></a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 v-center mt40 order1">
-                <div class="sctxt">CERTIFIED & SECURED</div>
-                <br><br>
-            </div>
-        </div>
-
-    </div>
-</section>
-
-<br><br>
 
 <section class="work-category pad-tb">
     <div class="container">
