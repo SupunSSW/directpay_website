@@ -22,25 +22,37 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
-    <!-- template-style-->
+
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <style>
-        .carousel-item {
-            height: 100vh;
-            min-height: 350px;
-            background: no-repeat center center scroll;
-            -webkit-background-size: cover;
-            -moz-background-size: cover;
-            -o-background-size: cover;
-            background-size: cover;
-        }
-    </style>
+
+     <style>
+
+
+         /*
+Removes white gap between slides - chagnge to base color of slide images
+*/
+         .carousel {
+             background:#007aeb;
+         }
+
+         /*
+         Forces image to be 100% width and not max width of 100%
+         */
+         .carousel-item .img-fluid {
+             width:100%;
+         }
+
+         /*
+         anchors are inline so you need ot make them block to go full width
+         */
+         .carousel-item a {
+             display: block;
+             width:100%;
+         }
+
+     </style>
 
 </head>
 <body>
@@ -48,16 +60,7 @@
 
 
 
-<!--End Preloader -->
-<!--Start Header -->
-<!-- top bar start -->
 
-<!--<div class="notification-top-bar">
-    <div class="container">
-     <p><font size="2px" color="#292929">Find out how DirectPay can help you out during COVID 19 </font></p></a>
-     </div>
-</div>-->
-<!-- top bar end -->
 <div class="onloadpage" id="page_loader">
     <div class="pre-content">
         <div class="logo-pre"><img src="images/logo.png" alt="Logo" class="img-fluid"/></div>
@@ -173,103 +176,105 @@
 
 </header>
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+
+
+<!--
+  ####################################################
+  C A R O U S E L
+  ####################################################
+  -->
+<div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="6000">
     <ol class="carousel-indicators">
-        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
     </ol>
     <div class="carousel-inner" role="listbox">
-        <!-- Slide One - Set the background image for this slide in the line below -->
-        <?php
-        function isMobile()
-        {
-            return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
-        }
-        // Use the function
-        if (isMobile()) {
+        <div class="carousel-item active">
+            <a href="https://bootstrapcreative.com/">
+                <!--
+                If you need more browser support use https://scottjehl.github.io/picturefill/
+                If a picture looks blurry on a retina device you can add a high resolution like this
+                <source srcset="img/blog-post-1000x600-2.jpg, blog-post-1000x600-2@2x.jpg 2x" media="(min-width: 768px)">
 
-            echo '<div class="carousel-item active single-image" style="background-image: url(images/hero/freelancer-mobile.png)"> ';
-        } else {
+                What image sizes should you use? This can help - https://codepen.io/JacobLett/pen/NjramL
+                 -->
+                <picture>
+                    <source srcset="https://dummyimage.com/2000x500/007aeb/4196e5" media="(min-width: 1400px)">
+                    <source srcset="https://dummyimage.com/1400x500/#007aeb/4196e5" media="(min-width: 769px)">
+                    <source srcset="https://dummyimage.com/800x500/007aeb/4196e5" media="(min-width: 577px)">
+                    <img srcset="https://dummyimage.com/600x500/007aeb/4196e5" alt="responsive image" class="d-block img-fluid">
+                </picture>
 
-            echo '<div class="carousel-item active" style="background-image: url(images/hero/freelancer.png)"> ';
-        }
-
-        ?>
-
-            <div class="carousel-caption  d-md-block">
-                <h2 class="display-4">First Slide</h2>
-                <p class="lead">This is a description for the first slide.</p>
-            </div>
+                <div class="carousel-caption">
+                    <div>
+                        <h2>Digital Craftsmanship</h2>
+                        <p>We meticously build each site to get results</p>
+                        <span class="btn btn-sm btn-outline-secondary">Learn More</span>
+                    </div>
+                </div>
+            </a>
         </div>
-        <!-- Slide Two - Set the background image for this slide in the line below -->
-        <div class="carousel-item" style="background-image: url('https://source.unsplash.com/bF2vsubyHcQ/1920x1080')">
-            <div class="carousel-caption  d-md-block">
-                <h2 class="display-4">Second Slide</h2>
-                <p class="lead">This is a description for the second slide.</p>
-            </div>
+        <!-- /.carousel-item -->
+        <div class="carousel-item">
+            <a href="https://bootstrapcreative.com/">
+                <picture>
+                    <source srcset="https://dummyimage.com/2000x500/007aeb/4196e5" media="(min-width: 1400px)">
+                    <source srcset="https://dummyimage.com/1400x500/007aeb/4196e5" media="(min-width: 769px)">
+                    <source srcset="https://dummyimage.com/800x500/007aeb/4196e5" media="(min-width: 577px)">
+                    <img srcset="https://dummyimage.com/600x500/007aeb/4196e5" alt="responsive image" class="d-block img-fluid">
+                </picture>
+
+                <div class="carousel-caption justify-content-center align-items-center">
+                    <div>
+                        <h2>Every project begins with a sketch</h2>
+                        <p>We work as an extension of your business to explore solutions</p>
+                        <span class="btn btn-sm btn-outline-secondary">Our Process</span>
+                    </div>
+                </div>
+            </a>
         </div>
-        <!-- Slide Three - Set the background image for this slide in the line below -->
-        <div class="carousel-item" style="background-image: url('https://source.unsplash.com/szFUQoyvrxM/1920x1080')">
-            <div class="carousel-caption  d-md-block">
-                <h2 class="display-4">Third Slide</h2>
-                <p class="lead">This is a description for the third slide.</p>
-            </div>
+        <!-- /.carousel-item -->
+        <div class="carousel-item">
+            <a href="https://bootstrapcreative.com/">
+                <picture>
+                    <source srcset="https://dummyimage.com/2000x500/007aeb/4196e5" media="(min-width: 1400px)">
+                    <source srcset="https://dummyimage.com/1400x500/007aeb/4196e5" media="(min-width: 769px)">
+                    <source srcset="https://dummyimage.com/800x500/007aeb/4196e5" media="(min-width: 577px)">
+                    <img srcset="https://dummyimage.com/600x500/007aeb/4196e5" alt="responsive image" class="d-block img-fluid">
+                </picture>
+
+                <div class="carousel-caption justify-content-center align-items-center">
+                    <div>
+                        <h2>Performance Optimization</h2>
+                        <p>We monitor and optimize your site's long-term performance</p>
+                        <span class="btn btn-sm btn-secondary">Learn How</span>
+                    </div>
+                </div>
+            </a>
         </div>
+        <!-- /.carousel-item -->
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <!-- /.carousel-inner -->
+    <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
     </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
     </a>
 </div>
-
-<!--<section>
-
+<!-- /.carousel -->
 
 
 
-    <div class="text-block">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 v-center">
-                    <div class="header-heading">
-
-                        <?php if (isMobile()) {
-                            // Do something for only mobile users
-                            echo '<div class="wow fadeInUp " data-wow-delay=".2s">
-		<h1 class="wow fadeInUp"><span><font color="#808080" size="14px">Pay Your</font></span></h1>
-		<h1><font color="#012480">Bills Online With DirectPay !</font></h1>
-		<p class="wow fadeInUp" ><font color="#000">Secured Billing Portal</font><br><br></p>
-		</div>';
-                        } else {
-                            echo '<div class="wow fadeInUp" data-wow-delay=".2s">
-		<h1 class="wow fadeInUp" ><span><font color="#808080">Pay Your</font></span></h1>
-		<h1><font color="#012480">Bills Online With DirectPay !</font></h1>
-		<p class="wow fadeInUp" ><font color="#000"></font></p>
-		</div>';
-
-                        }
-
-                        ?>
+<!-- /.container -->
 
 
-                        <a href="billers" class="btn-main bg-btn lnk wow fadeInUp" data-wow-delay=".6s">&nbsp;&nbspPay
-                            Bills&nbsp &nbsp;&nbsp;<i class="fas fa-chevron-right fa-icon"></i><span
-                                class="circle"></span></a>
-                    </div>
-                </div>
-                <div class="col-lg-6 wow fadeIn" data-wow-delay=".4s">
-                    <div class="single-image"><img src="images/hero/freelancer-mobile.png" alt="service"
-                                                   class="img-fluid showin-mobile"/></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>-->
+
+
+
 
 
 
