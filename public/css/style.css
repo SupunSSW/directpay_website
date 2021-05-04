@@ -161,6 +161,7 @@ background: #fff;
 -webkit-box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.09);
 box-shadow: 0 4px 6px 0 rgba(12, 0, 46, .08);}
 .main-header  {
+position: relative;
 padding: 0 20px;
 height: 85px;
 z-index: 99999;
@@ -172,6 +173,8 @@ height: 95px;
 z-index: 99999;
 background-color:#fff;
 border-bottom: 1px solid rgba(255, 255, 255, 0.1);}
+
+
 .fa-ani {
 margin-left: 5px;
 font-size: 12px;
@@ -514,6 +517,8 @@ padding-bottom: 100px;
 height: 100vh;
 align-items: center;
 display: grid;}
+
+
 .btn-main:hover{color:#fff;}
 .btn-main {
 font-size: 16px;
