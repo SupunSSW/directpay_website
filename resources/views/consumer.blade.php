@@ -204,8 +204,8 @@ Removes white gap between slides - chagnge to base color of slide images
                      -->
                     <picture>
                         <source srcset="images/hero/freelancer.jpeg" media="(min-width: 1400px)">
-                        <source srcset="https://dummyimage.com/1400x500/#007aeb/4196e5" media="(min-width: 769px)">
-                        <source srcset="https://dummyimage.com/800x500/007aeb/4196e5" media="(min-width: 577px)">
+                        <source srcset="images/hero/freelancer.jpeg" media="(min-width: 769px)">
+                        <source srcset="images/hero/freelancer.jpeg" media="(min-width: 577px)">
                         <img srcset="images/hero/freelancer.jpeg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
