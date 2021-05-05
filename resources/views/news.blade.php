@@ -308,7 +308,7 @@ $num = "";
                 </span>
 
                         </div>
-                        <h4><a href="blog9">DirectPay won the Merit Award at the Asia Smart App (ASA) Awards 2020!</a>
+                        <h4><a href="blog9">DirectPay wins the Merit Award at the Asia Smart App (ASA) Awards 2020!</a>
                         </h4>
                         <p>We are the only Sri Lankan app to be recognized at the ceremony with a Merit Award among all
                             the Asian apps.</p>

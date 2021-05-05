@@ -27,38 +27,35 @@
     <link href="css/responsive.css" rel="stylesheet">
 
 
-     <style>
+    <style>
 
 
-         /*
+        /*
 Removes white gap between slides - chagnge to base color of slide images
 */
-         .carousel {
-             background:#007aeb;
-         }
+        .carousel {
+            background: #fff;
+        }
 
-         /*
-         Forces image to be 100% width and not max width of 100%
-         */
-         .carousel-item .img-fluid {
-             width:100%;
-         }
+        /*
+        Forces image to be 100% width and not max width of 100%
+        */
+        .carousel-item .img-fluid {
+            width: 100%;
+        }
 
-         /*
-         anchors are inline so you need ot make them block to go full width
-         */
-         .carousel-item a {
-             display: block;
-             width:100%;
-         }
+        /*
+        anchors are inline so you need ot make them block to go full width
+        */
+        .carousel-item a {
+            display: block;
+            width: 100%;
+        }
 
-     </style>
+    </style>
 
 </head>
 <body>
-
-
-
 
 
 <div class="onloadpage" id="page_loader">
@@ -173,10 +170,6 @@ Removes white gap between slides - chagnge to base color of slide images
     </div>
 
 
-
-
-
-
 </header>
 
 
@@ -199,8 +192,6 @@ Removes white gap between slides - chagnge to base color of slide images
         </ol>
 
 
-
-
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
                 <a href="whitelable">
@@ -212,10 +203,10 @@ Removes white gap between slides - chagnge to base color of slide images
                     What image sizes should you use? This can help - https://codepen.io/JacobLett/pen/NjramL
                      -->
                     <picture>
-                        <source srcset="images/hero/1-20x5.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/1-14x5.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/1-8x5.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/1-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="images/hero/3-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/3-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/3-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/3-6x5.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption">
@@ -250,10 +241,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="pos">
                     <picture>
-                        <source srcset="images/hero/3-20x5.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/3-14x5.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/3-8x5.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/3-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="images/hero/1-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/1-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/1-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/1-6x5.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -359,7 +350,6 @@ Removes white gap between slides - chagnge to base color of slide images
             </div>
 
 
-
         </div>
         <!-- /.carousel-inner -->
         <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
@@ -377,8 +367,7 @@ Removes white gap between slides - chagnge to base color of slide images
 </section>
 
 
-
-    <!-- /.container -->
+<!-- /.container -->
 
 <br><br>
 <section class="work-category pad-tb1">
@@ -388,7 +377,21 @@ Removes white gap between slides - chagnge to base color of slide images
         <center>
             <div class="col-lg-8">
                 <div class="common-heading ptag">
-                    <h4>Welcome to a fully integrated suite of payments products!</h4>
+                    <?php
+                    function isMobile()
+                    {
+                        return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
+                    }
+                    if (isMobile()) {
+
+                        echo '<h4>Welcome to a fully integrated suite of payments products!</h4>';
+
+                    } else {
+
+                        echo '<h1>Welcome to a fully integrated suite of payments products!</h1>';
+                    }
+
+                    ?>
                 </div>
             </div>
         </center>
@@ -441,7 +444,7 @@ Removes white gap between slides - chagnge to base color of slide images
 <section>
     <div class="common-heading ptag">
         <div class="container">
-            <h5><font color="#a0a0a0">Innovative companies have one thing common -</font> They Trust DirectPay</h5><br>
+            <h5><font color="#a0a0a0">We work with companies with</font> big ideas</h5><br>
         </div>
     </div>
     <div class="weworkfor pt20 pb20">
@@ -470,14 +473,6 @@ Removes white gap between slides - chagnge to base color of slide images
 </section>
 
 
-
-
-
-
-
-
-
-
 <br><br><br>
 <section class="work-category pad-tb1">
 
@@ -494,10 +489,10 @@ Removes white gap between slides - chagnge to base color of slide images
                     <div class="col-lg-3 col-sm-6">
                         <div class="statistics">
                             <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-                                <img src="images/icons/deal.svg" alt="happy" class="img-fluid" />
+                                <img src="images/icons/deal.svg" alt="happy" class="img-fluid"/>
                             </div>
                             <div class="statnumb">
-                                <span class="counter">450</span>
+                                <span class="counter">14</span>
                                 <p>Platform Services</p>
                             </div>
                         </div>
@@ -505,10 +500,10 @@ Removes white gap between slides - chagnge to base color of slide images
                     <div class="col-lg-3 col-sm-6">
                         <div class="statistics">
                             <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-                                <img src="images/icons/computers.svg" alt="project" class="img-fluid" />
+                                <img src="images/icons/computers.svg" alt="project" class="img-fluid"/>
                             </div>
                             <div class="statnumb counter-number">
-                                <span class="counter">48</span><span>k</span>
+                                <span class="counter">587</span><span>k</span>
                                 <p>Transactions</p>
                             </div>
                         </div>
@@ -516,18 +511,18 @@ Removes white gap between slides - chagnge to base color of slide images
                     <div class="col-lg-3 col-sm-6">
                         <div class="statistics">
                             <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-                                <img src="images/icons/worker.svg" alt="work" class="img-fluid" />
+                                <img src="images/icons/worker.svg" alt="work" class="img-fluid"/>
                             </div>
                             <div class="statnumb">
-                                <span class="counter">95</span><span>k</span>
-                                <p>Transactions Per Day</p>
+                                <span class="counter">2</span><span>k</span>
+                                <p>Daily Transactions</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6">
                         <div class="statistics mb0">
                             <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-                                <img src="images/icons/customer-service.svg" alt="support" class="img-fluid" />
+                                <img src="images/icons/customer-service.svg" alt="support" class="img-fluid"/>
                             </div>
                             <div class="statnumb">
                                 <span class="counter">26</span>
@@ -616,14 +611,6 @@ Removes white gap between slides - chagnge to base color of slide images
 </section>-->
 
 
-
-
-
-
-
-
-
-
 <!--End photo gallery-->
 <!--Start Blogs-->
 <section class="blogs-section bg-flat6 pb120 pt120">
@@ -632,7 +619,8 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="col-lg-8">
                 <div class="common-heading-2">
 
-                    <h2 class="mb30">What's going on</h2>
+                    <h2 class="mb30">DirectPay Newsroom</h2>
+                    <h6>Press resources and recent coverage</h6>
                 </div>
             </div>
         </div>
@@ -733,9 +721,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="col-lg-4 col-sm-6  ftr-brand-pp">
                 <a class="navbar-brand mb30 mt30" href="#"> <img src="images/white-logo.png" alt="Logo"
                                                                  width="140"/></a>
-                <p style="text-align:justify">DirectPay is the solution to facilitate low value transactions via Clearing House using smart phones
-                    between customers and merchants eliminating high cost to third party payment verification agencies
-                    and expensive equipment.</p>
+                <p style="text-align:justify">DirectPay connects everyone digitally bringing us one step closer towards
+                    a cashless society by introducing modern payment methods in the financial and telecom industries. We
+                    are revolutionizing payment platforms by putting together a combination of innovative features and
+                    seamless technology in order to provide the best solutions for our customers.</p>
 
             </div>
             <div class="col-lg-3 col-sm-6">
@@ -747,13 +736,14 @@ Removes white gap between slides - chagnge to base color of slide images
                     </li>
                     <li>
                         <span><i class="fas fa-phone-alt"></i></span>
-                        <p>Phone <span> <a href="tel:+94 772 448 144">(+94) 772 448 144 | (+94) 712 083 911</a></span>
+                        <p>Phone <span> <a
+                                    href="tel:+94 772 448 144">(+94) 772 448 144 <br/> (+94) 712 083 911</a></span>
                         </p>
                     </li>
                     <li>
                         <span><i class="fas fa-map-marker-alt"></i></span>
-                        <p>Address <span> 410/33, Bauddhaloka Mawatha, Colombo 07,<br>
-Sri Lanka</span></p>
+                        <p>Address <span>No, 410/33, Bauddhaloka Mawatha, Colombo 07,<br>
+Sri Lanka, 00700</span></p>
                     </li>
                 </ul>
             </div>
@@ -761,10 +751,11 @@ Sri Lanka</span></p>
             <div class="col-lg-3 col-sm-6 footer-blog-">
                 <h5 class="mb30 mt30">Be Connected</h5>
                 <div class="ff-social-icons mt30">
-                    <a href="javascript:void(0)" target="blank"><i class="fab fa-facebook"></i></a>
+                    <a href="https://www.facebook.com/directpay.srilanka" target="blank"><i class="fab fa-facebook"></i></a>
                     <a href="javascript:void(0)" target="blank"><i class="fab fa-twitter"></i></a>
-                    <a href="javascript:void(0)" target="blank"><i class="fab fa-linkedin"></i></a>
-                    <a href="javascript:void(0)" target="blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/company/54304577/" target="blank"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://www.instagram.com/directpay.lk/" target="blank"><i
+                            class="fab fa-instagram"></i></a>
                 </div>
             </div>
         </div>
@@ -776,7 +767,7 @@ Sri Lanka</span></p>
             </div>
             <div class="col-lg-6">
                 <ul class="footer-link-- link-hover">
-                    <li><a href="privacy">Privace &amp; Policy.</a></li>
+                    <li><a href="privacy">Privacy &amp; Policy.</a></li>
                     <li><a href="faq">FAQ</a></li>
                     <li><a href="terms">Terms.</a></li>
                 </ul>
