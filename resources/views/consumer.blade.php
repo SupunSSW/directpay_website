@@ -276,7 +276,36 @@ Removes white gap between slides - chagnge to base color of slide images
 
 
 
+<br><br><br><section>
+    <div class="common-heading ptag">
+        <div class="container">
+            <h5><font color="#a0a0a0">Innovative companies have one thing common -</font> They Trust DirectPay</h5><br>
+        </div>
+    </div>
+    <div class="weworkfor pt20 pb20">
+        <div class="container">
+            <div class="logo-weworkfor owl-carousel">
+                <div class="items"><img src="images/client/clients-1.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-2.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-3.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-4.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-5.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-6.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-7.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-9.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-10.png" alt="DirectPay Clients" class="img100w">
+                </div>
+                <div class="items"><img src="images/client/clients-11.png" alt="DirectPay Clients" class="img100w">
+                </div>
+                <div class="items"><img src="images/client/clients-12.png" alt="DirectPay Clients" class="img100w">
+                </div>
+                <div class="items"><img src="images/client/clients-13.png" alt="DirectPay Clients" class="img100w">
+                </div>
 
+            </div>
+        </div>
+    </div>
+</section>
 
 
 
@@ -293,7 +322,7 @@ Removes white gap between slides - chagnge to base color of slide images
         <center>
             <div class="col-lg-8">
                 <div class="common-heading ptag">
-                    <h2>What we do?</h2>
+                    <h2>Services and Solutions</h2>
                 </div>
             </div>
         </center>
@@ -342,8 +371,116 @@ Removes white gap between slides - chagnge to base color of slide images
         </div>
     </div>
 </section>
+<br><br><br>
+<section class="work-category pad-tb1">
 
+    <div class="container">
 
+        <div class="row justify-content-center">
+            <div class="col-lg">
+
+                <div class="common-heading ptag">
+                    <h2>DirectPay in Numbers</h2>
+                </div>
+                <br/>
+                <div class="row small t-ctr">
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="statistics">
+                            <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
+                                <img src="images/icons/deal.svg" alt="happy" class="img-fluid" />
+                            </div>
+                            <div class="statnumb">
+                                <span class="counter">450</span>
+                                <p>Platform Services</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="statistics">
+                            <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
+                                <img src="images/icons/computers.svg" alt="project" class="img-fluid" />
+                            </div>
+                            <div class="statnumb counter-number">
+                                <span class="counter">48</span><span>k</span>
+                                <p>Transactions</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="statistics">
+                            <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
+                                <img src="images/icons/worker.svg" alt="work" class="img-fluid" />
+                            </div>
+                            <div class="statnumb">
+                                <span class="counter">95</span><span>k</span>
+                                <p>Transactions Per Day</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="statistics mb0">
+                            <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
+                                <img src="images/icons/customer-service.svg" alt="support" class="img-fluid" />
+                            </div>
+                            <div class="statnumb">
+                                <span class="counter">24</span><span>/</span><span class="counter">7</span>
+                                <p>Awards and Certifications</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--<div class="row small t-ctr">
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="statistics">
+                            <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
+
+                            </div>
+                            <div class="statnumb">
+                                <span class="counter">25</span>
+                                <p>Platform Services</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="statistics">
+                            <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
+
+                            </div>
+                            <div class="statnumb counter-number">
+                                <span class="counter">1000</span><span>+</span>
+                                <p>Transactions Per Day</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="statistics">
+                            <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
+
+                            </div>
+                            <div class="statnumb">
+                                <span class="counter">85</span><span></span>
+                                <p>Awards and Certifications</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="statistics mb0">
+                            <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
+
+                            </div>
+                            <div class="statnumb">
+                                <span class="counter">1</span><span>M+</span>
+                                <p>Transactions</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>-->
+                <br/><br/>
+
+            </div>
+        </div>
+    </div>
+</section>
 <section class="about-dg-busign pb120 pt120 bg-light-ylo upset" id="stores">
     <div class="container">
         <div class="row">
@@ -354,13 +491,11 @@ Removes white gap between slides - chagnge to base color of slide images
                     <h2>Click. Scan. Pay!</h2>
                     <br><br>
                     <a href="https://play.google.com/store/apps/details?id=com.directpay.userapp"
-                       class="btn-outline lnk wow fadeInUp" data-wow-delay=".6s"><i class="fab fa-google-play"></i>&nbspGet
-                        it on Google Play
-                        <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+                        data-wow-delay=".6s"><img src="images/icons/playstore.png" width=50%">
+                        <span class="circle"></span></a>
                     <br><br>
-                    <a href="https://apps.apple.com/us/app/directpay/id1437707340" class="btn-outline lnk wow fadeInUp"
-                       data-wow-delay=".6s"><i class="fab fa-app-store"></i>&nbspAvailable on App Store <i
-                            class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+                    <a href="https://apps.apple.com/us/app/directpay/id1437707340"
+                       data-wow-delay=".6s"><img src="images/icons/appstore.png" width=50%"></a>
 
 
                 </div>
@@ -374,37 +509,8 @@ Removes white gap between slides - chagnge to base color of slide images
 </section>
 
 
-<section>
-    <div class="common-heading ptag">
-        <div class="container">
-            <h5><font color="#a0a0a0">Innovative companies have one thing common -</font> They Trust DirectPay</h5><br>
-        </div>
-    </div>
-    <div class="weworkfor pt20 pb20">
-        <div class="container">
-            <div class="logo-weworkfor owl-carousel">
-                <div class="items"><img src="images/client/clients-1.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-2.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-3.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-4.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-5.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-6.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-7.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-9.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-10.png" alt="DirectPay Clients" class="img100w">
-                </div>
-                <div class="items"><img src="images/client/clients-11.png" alt="DirectPay Clients" class="img100w">
-                </div>
-                <div class="items"><img src="images/client/clients-12.png" alt="DirectPay Clients" class="img100w">
-                </div>
-                <div class="items"><img src="images/client/clients-13.png" alt="DirectPay Clients" class="img100w">
-                </div>
 
-            </div>
-        </div>
-    </div>
-</section>
-<br><br><br><br>
+<br><br><br>
 
 <div class="common-heading ptag">
     <div class="sctxt">
@@ -441,69 +547,7 @@ Removes white gap between slides - chagnge to base color of slide images
 </div>
 
 
-<section class="work-category pad-tb1">
-    <div class="container">
 
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-
-                <div class="common-heading ptag">
-                    <h1>DirectPay in Numbers</h1>
-                </div>
-                <br/>
-
-                <div class="row small t-ctr">
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="statistics">
-                            <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-                                <img src="images/icons/icon-3.png" alt="happy" class="img-fluid"/>
-                            </div>
-                            <div class="statnumb">
-                                <span class="counter">25</span>
-                                <p>Platform Services</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="statistics">
-                            <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-                                <img src="images/icons/icon-1.png" alt="project" class="img-fluid"/>
-                            </div>
-                            <div class="statnumb counter-number">
-                                <span class="counter">1000</span><span>+</span>
-                                <p>Transactions Per Day</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="statistics">
-                            <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-                                <img src="images/icons/project.png" alt="work" class="img-fluid"/>
-                            </div>
-                            <div class="statnumb">
-                                <span class="counter">85</span><span></span>
-                                <p>Awards and Certifications</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="statistics mb0">
-                            <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-                                <img src="images/icons/icon-5.png" alt="support" class="img-fluid"/>
-                            </div>
-                            <div class="statnumb">
-                                <span class="counter">1</span><span>M+</span>
-                                <p>Transactions</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <br/><br/>
-
-            </div>
-        </div>
-    </div>
-</section>
 <!--End photo gallery-->
 <!--Start Blogs-->
 <section class="blogs-section bg-flat6 pb120 pt120">
@@ -511,8 +555,8 @@ Removes white gap between slides - chagnge to base color of slide images
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="common-heading-2">
-                    <span class="text-effect-1">what's going on</span>
-                    <h2 class="mb30">See what the NEWS has to about us</h2>
+
+                    <h2 class="mb30">What's going on</h2>
                 </div>
             </div>
         </div>
@@ -613,15 +657,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="col-lg-4 col-sm-6  ftr-brand-pp">
                 <a class="navbar-brand mb30 mt30" href="#"> <img src="images/white-logo.png" alt="Logo"
                                                                  width="140"/></a>
-                <p>DirectPay is the solution to facilitate low value transactions via Clearing House using smart phones
+                <p style="text-align:justify">DirectPay is the solution to facilitate low value transactions via Clearing House using smart phones
                     between customers and merchants eliminating high cost to third party payment verification agencies
                     and expensive equipment.</p>
-                <div class="ff-social-icons mt30">
-                    <a href="javascript:void(0)" target="blank"><i class="fab fa-facebook"></i></a>
-                    <a href="javascript:void(0)" target="blank"><i class="fab fa-twitter"></i></a>
-                    <a href="javascript:void(0)" target="blank"><i class="fab fa-linkedin"></i></a>
-                    <a href="javascript:void(0)" target="blank"><i class="fab fa-instagram"></i></a>
-                </div>
+
             </div>
             <div class="col-lg-3 col-sm-6">
                 <h5 class="mb30 mt30">Contact Us</h5>
@@ -644,24 +683,12 @@ Sri Lanka</span></p>
             </div>
 
             <div class="col-lg-3 col-sm-6 footer-blog-">
-                <h5 class="mb30 mt30">Quick Contact</h5>
-                <div class="instagram-post">
-                    <div class="thumb hover-scale">
-                        <a href="#">
-                            <img src="images/portfolio/image-1.png" alt="instagram images" class="w-100">
-                        </a>
-                    </div>
-                    <div class="thumb hover-scale">
-                        <a href="#">
-                            <img src="images/portfolio/image-2.png" alt="instagram images" class="w-100">
-                        </a>
-                    </div>
-                    <div class="thumb hover-scale">
-                        <a href="#">
-                            <img src="images/portfolio/image-3.png" alt="instagram images" class="w-100">
-                        </a>
-                    </div>
-
+                <h5 class="mb30 mt30">Be Connected</h5>
+                <div class="ff-social-icons mt30">
+                    <a href="javascript:void(0)" target="blank"><i class="fab fa-facebook"></i></a>
+                    <a href="javascript:void(0)" target="blank"><i class="fab fa-twitter"></i></a>
+                    <a href="javascript:void(0)" target="blank"><i class="fab fa-linkedin"></i></a>
+                    <a href="javascript:void(0)" target="blank"><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
         </div>
@@ -674,7 +701,7 @@ Sri Lanka</span></p>
             <div class="col-lg-6">
                 <ul class="footer-link-- link-hover">
                     <li><a href="privacy">Privace &amp; Policy.</a></li>
-                    <li><a href="faq">Faq.</a></li>
+                    <li><a href="faq">FAQ</a></li>
                     <li><a href="terms">Terms.</a></li>
                 </ul>
             </div>
