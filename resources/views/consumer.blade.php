@@ -191,7 +191,16 @@ Removes white gap between slides - chagnge to base color of slide images
             <li data-target="#carousel" data-slide-to="0" class="active"></li>
             <li data-target="#carousel" data-slide-to="1"></li>
             <li data-target="#carousel" data-slide-to="2"></li>
+            <li data-target="#carousel" data-slide-to="3"></li>
+            <li data-target="#carousel" data-slide-to="4"></li>
+            <li data-target="#carousel" data-slide-to="5"></li>
+            <li data-target="#carousel" data-slide-to="6"></li>
+            <li data-target="#carousel" data-slide-to="7"></li>
         </ol>
+
+
+
+
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
                 <a href="https://bootstrapcreative.com/">
@@ -203,10 +212,10 @@ Removes white gap between slides - chagnge to base color of slide images
                     What image sizes should you use? This can help - https://codepen.io/JacobLett/pen/NjramL
                      -->
                     <picture>
-                        <source srcset="images/hero/freelancer.jpeg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/freelancer.jpeg" media="(min-width: 769px)">
-                        <source srcset="images/hero/freelancer.jpeg" media="(min-width: 577px)">
-                        <img srcset="images/hero/freelancer.jpeg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="images/hero/1.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/1.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/1.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/1.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption">
@@ -222,10 +231,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="https://bootstrapcreative.com/">
                     <picture>
-                        <source srcset="https://dummyimage.com/2000x500/007aeb/4196e5" media="(min-width: 1400px)">
-                        <source srcset="https://dummyimage.com/1400x500/007aeb/4196e5" media="(min-width: 769px)">
-                        <source srcset="https://dummyimage.com/800x500/007aeb/4196e5" media="(min-width: 577px)">
-                        <img srcset="https://dummyimage.com/600x500/007aeb/4196e5" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="images/hero/2.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/2.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/2.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/2.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -241,10 +250,28 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="https://bootstrapcreative.com/">
                     <picture>
-                        <source srcset="https://dummyimage.com/2000x500/007aeb/4196e5" media="(min-width: 1400px)">
-                        <source srcset="https://dummyimage.com/1400x500/007aeb/4196e5" media="(min-width: 769px)">
-                        <source srcset="https://dummyimage.com/800x500/007aeb/4196e5" media="(min-width: 577px)">
-                        <img srcset="https://dummyimage.com/600x500/007aeb/4196e5" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="images/hero/3.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/3.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/3.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/3.jpg" alt="responsive image" class="d-block img-fluid">
+                    </picture>
+
+                    <!--<div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Every project begins with a sketch</h2>
+                            <p>We work as an extension of your business to explore solutions</p>
+                            <span class="btn btn-sm btn-outline-secondary">Our Process</span>
+                        </div>
+                    </div>-->
+                </a>
+            </div>
+            <div class="carousel-item">
+                <a href="https://bootstrapcreative.com/">
+                    <picture>
+                        <source srcset="images/hero/4.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/4.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/4.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/4.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -256,7 +283,83 @@ Removes white gap between slides - chagnge to base color of slide images
                     </div>-->
                 </a>
             </div>
-            <!-- /.carousel-item -->
+            <div class="carousel-item">
+                <a href="https://bootstrapcreative.com/">
+                    <picture>
+                        <source srcset="images/hero/5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/5.jpg" alt="responsive image" class="d-block img-fluid">
+                    </picture>
+
+                    <!--<div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Performance Optimization</h2>
+                            <p>We monitor and optimize your site's long-term performance</p>
+                            <span class="btn btn-sm btn-secondary">Learn How</span>
+                        </div>
+                    </div>-->
+                </a>
+            </div>
+            <div class="carousel-item">
+                <a href="https://bootstrapcreative.com/">
+                    <picture>
+                        <source srcset="images/hero/6.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/6.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/6.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/6.jpg" alt="responsive image" class="d-block img-fluid">
+                    </picture>
+
+                    <!--<div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Performance Optimization</h2>
+                            <p>We monitor and optimize your site's long-term performance</p>
+                            <span class="btn btn-sm btn-secondary">Learn How</span>
+                        </div>
+                    </div>-->
+                </a>
+            </div>
+
+            <div class="carousel-item">
+                <a href="https://bootstrapcreative.com/">
+                    <picture>
+                        <source srcset="images/hero/7.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/7.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/7.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/7.jpg" alt="responsive image" class="d-block img-fluid">
+                    </picture>
+
+                    <!--<div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Performance Optimization</h2>
+                            <p>We monitor and optimize your site's long-term performance</p>
+                            <span class="btn btn-sm btn-secondary">Learn How</span>
+                        </div>
+                    </div>-->
+                </a>
+            </div>
+
+            <div class="carousel-item">
+                <a href="https://bootstrapcreative.com/">
+                    <picture>
+                        <source srcset="images/hero/8.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/8.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/8.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/8.jpg" alt="responsive image" class="d-block img-fluid">
+                    </picture>
+
+                    <!--<div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Performance Optimization</h2>
+                            <p>We monitor and optimize your site's long-term performance</p>
+                            <span class="btn btn-sm btn-secondary">Learn How</span>
+                        </div>
+                    </div>-->
+                </a>
+            </div>
+
+
+
         </div>
         <!-- /.carousel-inner -->
         <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
@@ -268,6 +371,7 @@ Removes white gap between slides - chagnge to base color of slide images
             <span class="sr-only">Next</span>
         </a>
     </div>
+
     <!-- /.carousel -->
 
 
@@ -510,7 +614,7 @@ Removes white gap between slides - chagnge to base color of slide images
 
 
 
-<br><br>
+
 
 
 
