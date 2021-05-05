@@ -218,7 +218,7 @@ Removes white gap between slides - chagnge to base color of slide images
                     </div>-->
                 </a>
             </div>
-            <!-- /.carousel-item -->
+            <!-- /.carousel-item2 -->
             <div class="carousel-item">
                 <a href="https://bootstrapcreative.com/">
                     <picture>
@@ -237,7 +237,7 @@ Removes white gap between slides - chagnge to base color of slide images
                     </div>-->
                 </a>
             </div>
-            <!-- /.carousel-item -->
+            <!-- /.carousel-item 23-->
             <div class="carousel-item">
                 <a href="https://bootstrapcreative.com/">
                     <picture>
