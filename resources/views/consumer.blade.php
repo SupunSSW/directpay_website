@@ -181,7 +181,7 @@ Removes white gap between slides - chagnge to base color of slide images
 
 
 
-    <!--
+ <!--
   ####################################################
   C A R O U S E L
   ####################################################
@@ -377,7 +377,7 @@ Removes white gap between slides - chagnge to base color of slide images
     <div class="container">
 
         <div class="row justify-content-center">
-            <div class="col-lg">
+            <div class="col-lg-8">
 
                 <div class="common-heading ptag">
                     <h2>DirectPay in Numbers</h2>
@@ -481,7 +481,7 @@ Removes white gap between slides - chagnge to base color of slide images
         </div>
     </div>
 </section>
-<section class="about-dg-busign pb120 pt120 bg-light-ylo upset" id="stores">
+<!--<section class="work-category pad-tb1">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 v-center">
@@ -492,7 +492,7 @@ Removes white gap between slides - chagnge to base color of slide images
                     <br><br>
                     <a href="https://play.google.com/store/apps/details?id=com.directpay.userapp"
                         data-wow-delay=".6s"><img src="images/icons/playstore.png" width=50%">
-                        <span class="circle"></span></a>
+                       </a>
                     <br><br>
                     <a href="https://apps.apple.com/us/app/directpay/id1437707340"
                        data-wow-delay=".6s"><img src="images/icons/appstore.png" width=50%"></a>
@@ -506,7 +506,7 @@ Removes white gap between slides - chagnge to base color of slide images
         </div>
     </div>
 
-</section>
+</section>-->
 
 
 
