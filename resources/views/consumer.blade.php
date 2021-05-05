@@ -63,7 +63,7 @@ Removes white gap between slides - chagnge to base color of slide images
 
 <div class="onloadpage" id="page_loader">
     <div class="pre-content">
-        <div class="logo-pre"><img src="images/logo.png" alt="Logo" class="img-fluid"/></div>
+        <div class="logo-pre"><img src="images/logo-bckp.png" alt="Logo" class="img-fluid"/></div>
         <div class="pre-text-"><span></span></div>
     </div>
 </div>
@@ -75,7 +75,7 @@ Removes white gap between slides - chagnge to base color of slide images
         <div class="menu-header">
             <div class="dsk-logo"><a class="nav-brand" href="consumer">
                     <img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-                    <img src="images/logo.png" alt="Logo" class="mega-darks-logo" width="180px">
+                    <img src="images/logo-bckp.png" alt="Logo" class="mega-darks-logo" width="180px">
                 </a></div>
             <div class="custom-nav" role="navigation">
                 <ul class="nav-list">
@@ -377,7 +377,7 @@ Removes white gap between slides - chagnge to base color of slide images
     <div class="container">
 
         <div class="row justify-content-center">
-            <div class="col-lg-8">
+            <div class="col-lg">
 
                 <div class="common-heading ptag">
                     <h2>DirectPay in Numbers</h2>
@@ -423,7 +423,7 @@ Removes white gap between slides - chagnge to base color of slide images
                                 <img src="images/icons/customer-service.svg" alt="support" class="img-fluid" />
                             </div>
                             <div class="statnumb">
-                                <span class="counter">24</span><span>/</span><span class="counter">7</span>
+                                <span class="counter">26</span>
                                 <p>Awards and Certifications</p>
                             </div>
                         </div>
@@ -510,13 +510,10 @@ Removes white gap between slides - chagnge to base color of slide images
 
 
 
-<br><br><br>
-
-<div class="common-heading ptag">
-    <div class="sctxt">
-        <h1>S&nbsp&nbspT&nbsp&nbspO&nbsp&nbspR&nbsp&nbspI&nbsp&nbspE&nbsp&nbspS</h1></div>
-</div>
 <br><br>
+
+
+
 <div class="photosets- pb80 pt50">
     <div class="container">
         <div class="row">
