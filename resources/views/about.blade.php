@@ -224,7 +224,7 @@
         </div>
     </div>
 </section>
-<section class="about-sec bg-gradient5 pad-tb pb120m">
+<section class="about-sec bg-gradient5 pad-tb1 pb120m">
     <div class="container">
         <div class="row justify-content-center text-center">
             <div class="col-lg-10">

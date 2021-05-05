@@ -223,7 +223,7 @@
         </div>
     </div>
 </section>
-<section class="block-a1 pad-tb">
+<section class="block-a1 pad-tb1">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10">
@@ -241,7 +241,7 @@
         </div>
     </div>
 </section>
-<br><br><br><br>
+
 
 <section class="about-dg-2 pb120 pt120 bg-flat1 m-t-c">
     <div class="container">

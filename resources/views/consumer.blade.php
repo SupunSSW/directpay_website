@@ -203,7 +203,7 @@ Removes white gap between slides - chagnge to base color of slide images
 
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-                <a href="https://bootstrapcreative.com/">
+                <a href="whitelable">
                     <!--
                     If you need more browser support use https://scottjehl.github.io/picturefill/
                     If a picture looks blurry on a retina device you can add a high resolution like this
@@ -229,7 +229,7 @@ Removes white gap between slides - chagnge to base color of slide images
             </div>
             <!-- /.carousel-item2 -->
             <div class="carousel-item">
-                <a href="https://bootstrapcreative.com/">
+                <a href="vpos">
                     <picture>
                         <source srcset="images/hero/2.jpg" media="(min-width: 1400px)">
                         <source srcset="images/hero/2.jpg" media="(min-width: 769px)">
@@ -248,7 +248,7 @@ Removes white gap between slides - chagnge to base color of slide images
             </div>
             <!-- /.carousel-item 23-->
             <div class="carousel-item">
-                <a href="https://bootstrapcreative.com/">
+                <a href="pos">
                     <picture>
                         <source srcset="images/hero/3.jpg" media="(min-width: 1400px)">
                         <source srcset="images/hero/3.jpg" media="(min-width: 769px)">
@@ -266,7 +266,7 @@ Removes white gap between slides - chagnge to base color of slide images
                 </a>
             </div>
             <div class="carousel-item">
-                <a href="https://bootstrapcreative.com/">
+                <a href="ipg">
                     <picture>
                         <source srcset="images/hero/4.jpg" media="(min-width: 1400px)">
                         <source srcset="images/hero/4.jpg" media="(min-width: 769px)">
@@ -284,7 +284,7 @@ Removes white gap between slides - chagnge to base color of slide images
                 </a>
             </div>
             <div class="carousel-item">
-                <a href="https://bootstrapcreative.com/">
+                <a href="https://www.directpay.lk/developer/">
                     <picture>
                         <source srcset="images/hero/5.jpg" media="(min-width: 1400px)">
                         <source srcset="images/hero/5.jpg" media="(min-width: 769px)">
@@ -302,7 +302,7 @@ Removes white gap between slides - chagnge to base color of slide images
                 </a>
             </div>
             <div class="carousel-item">
-                <a href="https://bootstrapcreative.com/">
+                <a href="web">
                     <picture>
                         <source srcset="images/hero/6.jpg" media="(min-width: 1400px)">
                         <source srcset="images/hero/6.jpg" media="(min-width: 769px)">
@@ -321,7 +321,7 @@ Removes white gap between slides - chagnge to base color of slide images
             </div>
 
             <div class="carousel-item">
-                <a href="https://bootstrapcreative.com/">
+                <a href="app">
                     <picture>
                         <source srcset="images/hero/7.jpg" media="(min-width: 1400px)">
                         <source srcset="images/hero/7.jpg" media="(min-width: 769px)">
@@ -340,7 +340,7 @@ Removes white gap between slides - chagnge to base color of slide images
             </div>
 
             <div class="carousel-item">
-                <a href="https://bootstrapcreative.com/">
+                <a href="merchant">
                     <picture>
                         <source srcset="images/hero/8.jpg" media="(min-width: 1400px)">
                         <source srcset="images/hero/8.jpg" media="(min-width: 769px)">

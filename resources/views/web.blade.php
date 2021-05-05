@@ -19,7 +19,7 @@
         href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
     <!-- template-style-->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style-b.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
 </head>
 <body>
@@ -223,7 +223,7 @@
         </div>
     </div>
 </section>
-<section class="block-a1 pad-tb">
+<section class="block-a1 pad-tb1">
     <div class="container">
         <div class="row justify-content-center">
 
@@ -238,7 +238,7 @@
         </div>
     </div>
 </section>
-<br><br><br><br>
+
 
 <section class="about-dg-2 pb120 pt120 bg-flat1 m-t-c">
     <div class="container">
