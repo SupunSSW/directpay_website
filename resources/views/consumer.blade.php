@@ -180,8 +180,8 @@ Removes white gap between slides - chagnge to base color of slide images
 </header>
 
 
-
- <!--
+<section class="hero-bg-bg1">
+    <!--
   ####################################################
   C A R O U S E L
   ####################################################
@@ -374,59 +374,21 @@ Removes white gap between slides - chagnge to base color of slide images
 
     <!-- /.carousel -->
 
-
-
-    <!-- /.container -->
-
-
-
-<br><br><br><section>
-    <div class="common-heading ptag">
-        <div class="container">
-            <h5><font color="#a0a0a0">Innovative companies have one thing common -</font> They Trust DirectPay</h5><br>
-        </div>
-    </div>
-    <div class="weworkfor pt20 pb20">
-        <div class="container">
-            <div class="logo-weworkfor owl-carousel">
-                <div class="items"><img src="images/client/clients-1.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-2.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-3.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-4.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-5.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-6.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-7.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-9.png" alt="DirectPay Clients" class="img100w"></div>
-                <div class="items"><img src="images/client/clients-10.png" alt="DirectPay Clients" class="img100w">
-                </div>
-                <div class="items"><img src="images/client/clients-11.png" alt="DirectPay Clients" class="img100w">
-                </div>
-                <div class="items"><img src="images/client/clients-12.png" alt="DirectPay Clients" class="img100w">
-                </div>
-                <div class="items"><img src="images/client/clients-13.png" alt="DirectPay Clients" class="img100w">
-                </div>
-
-            </div>
-        </div>
-    </div>
 </section>
 
 
 
+    <!-- /.container -->
 
-
-
-
-
-
-<section class="work-category pad-tb">
+<br><br>
+<section class="work-category pad-tb1">
     <div class="container">
 
         <br/>
         <center>
             <div class="col-lg-8">
                 <div class="common-heading ptag">
-                    <h2>Services and Solutions</h2>
+                    <h4>Welcome to a fully integrated suite of payments products!</h4>
                 </div>
             </div>
         </center>
@@ -475,6 +437,47 @@ Removes white gap between slides - chagnge to base color of slide images
         </div>
     </div>
 </section>
+<br><br><br>
+<section>
+    <div class="common-heading ptag">
+        <div class="container">
+            <h5><font color="#a0a0a0">Innovative companies have one thing common -</font> They Trust DirectPay</h5><br>
+        </div>
+    </div>
+    <div class="weworkfor pt20 pb20">
+        <div class="container">
+            <div class="logo-weworkfor owl-carousel">
+                <div class="items"><img src="images/client/clients-1.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-2.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-3.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-4.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-5.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-6.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-7.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-9.png" alt="DirectPay Clients" class="img100w"></div>
+                <div class="items"><img src="images/client/clients-10.png" alt="DirectPay Clients" class="img100w">
+                </div>
+                <div class="items"><img src="images/client/clients-11.png" alt="DirectPay Clients" class="img100w">
+                </div>
+                <div class="items"><img src="images/client/clients-12.png" alt="DirectPay Clients" class="img100w">
+                </div>
+                <div class="items"><img src="images/client/clients-13.png" alt="DirectPay Clients" class="img100w">
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
 <br><br><br>
 <section class="work-category pad-tb1">
 
@@ -618,34 +621,6 @@ Removes white gap between slides - chagnge to base color of slide images
 
 
 
-<div class="photosets- pb80 pt50">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-5 mt30 h-scl-">
-                <div class="img-ca2set h-scl-base"><a
-                        href="https://www.facebook.com/directpay.srilanka/posts/859784407912261"><img
-                            src="images/about/office-1.jpg" alt="companyname" class="img-fluid"></a></div>
-            </div>
-
-            <div class="col-lg-7 mt30 h-scl-">
-                <div class="img-ca2set h-scl-base"><a
-                        href="https://www.facebook.com/directpay.srilanka/posts/833210827236286"><img
-                            src="images/about/office-3.jpg" alt="companyname" class="img-fluid"></a></div>
-            </div>
-
-            <div class="col-lg-7 mt30 h-scl-">
-                <div class="img-ca2set h-scl-base"><a
-                        href="https://www.facebook.com/directpay.srilanka/posts/750552515502118"><img
-                            src="images/about/office-2.jpg" alt="companyname" class="img-fluid"></a></div>
-            </div>
-
-            <div class="col-lg-5 mt30 h-scl-">
-                <div class="img-ca2set h-scl-base"><a href="https://fb.watch/57wpCSLbHh/"><img
-                            src="images/about/office-6.jpg" alt="companyname" class="img-fluid"></a></div>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 
