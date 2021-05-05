@@ -145,7 +145,8 @@ margin: 20px 0;}
 .hero-heading-sec, .end-footer-, .footer-link--{text-align: center}
 .hero-heading-sec h2 span {display: inline-block;}
 .hero-card-web {padding-top: 150px;padding-bottom: 100px;height: auto;}
-.breadcrumb-area {padding: 10px 0px 60px 0px;}
+.breadcrumb-area {padding: 120px 0px 60px 0px;}
+.breadcrumb-area3 {padding: 10px 0px 60px 0px;}
 .common-heading h2,
 .common-heading h4,
 .common-heading>span,
@@ -165,7 +166,7 @@ margin: 20px 0;}
 font-weight: 650;
 margin-bottom: 3px;
 font-size: 33px;
-line-height: 40px;
+line-height: 49px;
 text-align: center}
 .header-heading p {font-size: 14px;line-height: 28px;margin-bottom: 3px}
 .btn-main {

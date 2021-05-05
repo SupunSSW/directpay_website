@@ -209,7 +209,7 @@
 
 <!--End Header -->
 <!--Start Hero-->
-<section class="breadcrumb-area banner-1" data-background="images/banner/9.jpg">
+<section class="breadcrumb-area2 banner-1" data-background="images/banner/9.jpg">
     <div class="text-block">
         <div class="container">
             <div class="row">
