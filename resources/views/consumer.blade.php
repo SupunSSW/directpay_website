@@ -212,10 +212,10 @@ Removes white gap between slides - chagnge to base color of slide images
                     What image sizes should you use? This can help - https://codepen.io/JacobLett/pen/NjramL
                      -->
                     <picture>
-                        <source srcset="images/hero/1.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/1.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/1.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/1.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="images/hero/1-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/1-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/1-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/1-6x5.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption">
@@ -231,10 +231,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="vpos">
                     <picture>
-                        <source srcset="images/hero/2.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/2.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/2.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/2.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="images/hero/2-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/2-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/2-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/2-6x5.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -250,10 +250,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="pos">
                     <picture>
-                        <source srcset="images/hero/3.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/3.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/3.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/3.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="images/hero/3-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/3-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/3-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/3-6x5.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -268,10 +268,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="ipg">
                     <picture>
-                        <source srcset="images/hero/4.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/4.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/4.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/4.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="images/hero/4-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/4-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/4-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/4-6x5.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -286,10 +286,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="https://www.directpay.lk/developer/">
                     <picture>
-                        <source srcset="images/hero/5.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/5.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/5.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/5.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="images/hero/5-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/5-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/5-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/5-6x5.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -304,10 +304,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="web">
                     <picture>
-                        <source srcset="images/hero/6.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/6.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/6.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/6.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="images/hero/6-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/6-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/6-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/6-6x5.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -323,10 +323,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="app">
                     <picture>
-                        <source srcset="images/hero/7.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/7.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/7.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/7.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="images/hero/7-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/7-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/7-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/7-6x5.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -342,10 +342,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="merchant">
                     <picture>
-                        <source srcset="images/hero/8.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/8.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/8.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/8.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="images/hero/8-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/8-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/8-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/8-6x5.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
