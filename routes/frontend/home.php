@@ -53,6 +53,10 @@ Route::get('/', function () {
     return view('consumer');
 });
 
+Route::get('user', function () {
+    return view('user');
+});
+
 Route::get('/consumer', function () {
     return view('consumer');
 });

@@ -2,7 +2,7 @@
 <html lang="en" class="no-js">
 <head>
     <meta charset="utf-8"/>
-    <title>DirectPay - Consumer</title>
+    <title>DirectPay - Homepage</title>
     <meta name="description"
           content="DirectPay is your digital partner that simplifies the checkout process across your purchases online in Sri Lanka.">
     <meta name="keywords" content="Directpay">
@@ -179,7 +179,7 @@ Removes white gap between slides - chagnge to base color of slide images
   C A R O U S E L
   ####################################################
   -->
-    <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="6000">
+    <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="5000">
         <ol class="carousel-indicators">
             <li data-target="#carousel" data-slide-to="0" class="active"></li>
             <li data-target="#carousel" data-slide-to="1"></li>
@@ -388,7 +388,7 @@ Removes white gap between slides - chagnge to base color of slide images
 
                     } else {
 
-                        echo '<h1>Welcome to a fully integrated suite of payments products!</h1>';
+                        echo '<h2>Welcome to a fully integrated suite of payments products!</h2>';
                     }
 
                     ?>
@@ -444,7 +444,7 @@ Removes white gap between slides - chagnge to base color of slide images
 <section>
     <div class="common-heading ptag">
         <div class="container">
-            <h5><font color="#a0a0a0">We work with companies with</font> big ideas</h5><br>
+            <h2>We work with companies with big ideas</h2><br>
         </div>
     </div>
     <div class="weworkfor pt20 pb20">
