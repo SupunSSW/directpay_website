@@ -176,7 +176,6 @@ Removes white gap between slides - chagnge to base color of slide images
 <section class="hero-bg">
 
 
-
     <!--
   ####################################################
   C A R O U S E L
@@ -311,7 +310,6 @@ Removes white gap between slides - chagnge to base color of slide images
             </div>
 
 
-
         </div>
         <!-- /.carousel-inner -->
         <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
@@ -325,7 +323,6 @@ Removes white gap between slides - chagnge to base color of slide images
     </div>
 
     <!-- /.carousel -->
-
 
 
     <!-- -->
@@ -342,11 +339,15 @@ Removes white gap between slides - chagnge to base color of slide images
             }
             if (isMobile()) {
 
-                echo '<h4>need wording for this</h4>';
+                echo '<h4>A technology-first approach to payments and finance</h4>
+<p>Let your customers use their preferred payment types, via a personalized checkout experience,
+online, in app, or in store, no matter wherever they are.</p>';
 
             } else {
 
-                echo '<h2>need wording for this</h2>';
+                echo '<h2>A technology-first approach to payments and finance</h2>
+<p>Let your customers use their preferred payment types, via a personalized checkout experience,
+online, in app, or in store, no matter wherever they are.</p>';
             }
 
             ?>
@@ -375,11 +376,10 @@ Removes white gap between slides - chagnge to base color of slide images
                                 color="#ff822e">Merchant App</font></h6></div>
                 </a></div>
 
-            <div class="col-lg-3my col-sm-6 col-6 wow fadeIn" data-wow-delay="1.3s" width="20%" ><a href="whitelable">
+            <div class="col-lg-3my col-sm-6 col-6 wow fadeIn" data-wow-delay="1.3s" width="20%"><a href="whitelable">
                     <div class="industry-workfor hoshd"><img src="images/icons/joystick.svg" alt="img"> <h6><font
                                 color="#ff822e">Platform</font></h6></div>
                 </a></div>
-
 
 
         </div>
@@ -387,10 +387,7 @@ Removes white gap between slides - chagnge to base color of slide images
 </section>
 
 
-
-
 <!-- /.container -->
-
 
 
 <!--End Blogs-->
