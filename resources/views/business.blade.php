@@ -1,145 +1,508 @@
 <!DOCTYPE html>
-<html style="font-size: 16px;">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="keywords" content="">
-    <meta name="description" content="DirectPay is your digital partner that simplifies the checkout process across your purchases online in Sri Lanka.">
-    <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Directpay for businesses</title>
-    <link rel="stylesheet" href="css/nicepage.css" media="screen">
-<link rel="stylesheet" href="css/Page-1.css" media="screen">
-    <script class="u-script" type="text/javascript" src="css/jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="css/nicepage.js" defer=""></script>
-    <meta name="generator" content="Nicepage 3.8.0, nicepage.com">
-    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
-    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+<html lang="en" class="no-js">
+<head>
+    <meta charset="utf-8"/>
+    <title>DirectPay - Consumer</title>
+    <meta name="description"
+          content="DirectPay is your digital partner that simplifies the checkout process across your purchases online in Sri Lanka.">
+    <meta name="keywords" content="Directpay">
+    <meta name="author" content="directpay.lk">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#fff">
+
+    <!--website-favicon-->
+    <link href="images/favicon2.png" rel="icon">
+    <!--plugin-css-->
 
 
-    <script type="application/ld+json">{
-		"@context": "http://schema.org",
-		"@type": "Organization",
-		"name": "Site2",
-		"url": "index.html",
-		"logo": "images/logo.png"
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/plugin.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+
+
+    <style>
+
+
+        /*
+Removes white gap between slides - chagnge to base color of slide images
+*/
+        .carousel {
+            background: #fff;
         }
-    </script>
-    <meta property="og:title" content="Page 1">
-    <meta property="og:type" content="website">
-    <meta property="og:description" content="DirectPay is your digital partner that simplifies the checkout process across your purchases online in Sri Lanka.">
-    <meta name="theme-color" content="fff">
-    <link rel="canonical" href="index.html">
-    <meta property="og:url" content="index.html">
-    <style type="text/css">
-      h6:hover {
-  color: #ff822e;
-}
+
+        /*
+        Forces image to be 100% width and not max width of 100%
+        */
+        .carousel-item .img-fluid {
+            width: 100%;
+        }
+
+        /*
+        anchors are inline so you need ot make them block to go full width
+        */
+        .carousel-item a {
+            display: block;
+            width: 100%;
+        }
+
     </style>
-  </head>
-  <body class="u-body"><header class="u-clearfix u-header u-header" id="sec-b11d"><div class="u-clearfix u-sheet u-sheet-1">
-        <a href="tel:+94771230931" class="u-btn u-button-style u-none u-text-hover-custom-color-1 u-btn-1"><span class="u-icon u-icon-rectangle u-icon-1"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 513.64 513.64" x="0px" y="0px" style="width: 1em; height: 1em;"><g><g><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72    c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68    c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44    l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path>
-</g>
-</g></svg><img></span>&nbsp;+94 77 123 0931
-        </a>
-        <a href="mailto:hello@directpay.lk?subject=Contact%20from%20website" class="u-active-none u-btn u-button-style u-hover-none u-none u-text-active-grey-70 u-text-hover-custom-color-1 u-btn-2"><span class="u-icon u-icon-rectangle u-icon-2"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px" style="width: 1em; height: 1em;"><g><g><path d="M467,76H45C20.137,76,0,96.262,0,121v270c0,24.885,20.285,45,45,45h422c24.655,0,45-20.03,45-45V121    C512,96.306,491.943,76,467,76z M460.698,106c-9.194,9.145-167.415,166.533-172.878,171.967c-8.5,8.5-19.8,13.18-31.82,13.18    s-23.32-4.681-31.848-13.208C220.478,274.284,64.003,118.634,51.302,106H460.698z M30,384.894V127.125L159.638,256.08L30,384.894z     M51.321,406l129.587-128.763l22.059,21.943c14.166,14.166,33,21.967,53.033,21.967c20.033,0,38.867-7.801,53.005-21.939    l22.087-21.971L460.679,406H51.321z M482,384.894L352.362,256.08L482,127.125V384.894z"></path>
-</g>
-</g></svg><img></span>&nbsp;hello@directpay.lk
-        </a>
-        <a href="#" class="u-image u-image-round u-logo u-image-1" title="www.directpay.lk">
-          <img src="images/logo-b.png" class="u-logo-image u-logo-image-1" data-image-width="164.5715" alt="">
-        </a>
-      </div></header>
-    <section class="u-clearfix u-image u-section-1" id="sec-363e" data-image-width="1600" data-image-height="781">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
-          <div class="u-gutter-0 u-layout">
-            <div class="u-layout-col">
-              <div class="u-size-30">
-                <div class="u-layout-row">
-                  <div class="u-container-style u-layout-cell u-shape-rectangle u-size-20 u-video-cover u-layout-cell-1 " data-animation-name="zoomIn" data-animation-duration="1000" data-animation-delay="0" data-href="ipg" data-animation-direction="">
-                    <div class="u-container-layout u-container-layout-1">
-                      <img src="images/img/995838-200.png" alt="" class="u-image u-image-round u-preserve-proportions u-radius-10 u-image-1 " data-image-width="200" data-image-height="200">
-                      <h6 class="u-custom-font u-text u-text-default u-text-1 hover">Internet Payment Gateway</h6>
-                      <h5 class="u-align-center u-custom-font u-text u-text-2">A digital payment platform that enables secure transactions between
-customers and vendors without disclosing their financial details.</h5>
-                    </div>
-                  </div>
-                  <div class="u-container-style u-layout-cell u-shape-rectangle u-size-20 u-layout-cell-2" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-delay="0" data-href="merchant" data-animation-direction="">
-                    <div class="u-container-layout u-container-layout-2">
-                      <img src="images/img/3000450-200.png" alt="" class="u-image u-image-round u-preserve-proportions u-radius-10 u-image-2" data-image-width="200" data-image-height="200">
-                      <h6 class="u-align-center u-custom-font u-text u-text-default u-text-3">Merchant App</h6>
-                      <h5 class="u-align-center u-custom-font u-text u-text-4">A perfect
-multichannel payment solution for Merchants with the latest QR based
-technologies allowing customers to process payments at their
- convenience with low rates.&nbsp;</h5>
-                    </div>
-                  </div>
-                  <div class="u-align-center u-container-style u-layout-cell u-shape-rectangle u-size-20 u-layout-cell-3" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-delay="0" data-href="pos" data-animation-direction="">
-                    <div class="u-container-layout u-container-layout-3">
-                      <img src="images/img/86050.png" alt="" class="u-image u-image-round u-preserve-proportions u-radius-10 u-image-3" data-image-width="512" data-image-height="512">
-                      <h6 class="u-custom-font u-text u-text-default u-text-5">Point of Sale (POS)</h6>
-                      <h5 class="u-custom-font u-text u-text-6">A POS system that goes beyond a
-traditional electronic fund transfer POS by providing a digital basket
-of goods and services to merchants; making
-them a digitally enabled merchants.<br>
-                      </h5>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="u-size-30">
-                <div class="u-layout-row">
-                  <div class="u-container-style u-layout-cell u-shape-rectangle u-size-20 u-layout-cell-4" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-delay="0" data-href="vpos" data-animation-direction="">
-                    <div class="u-container-layout u-container-layout-4">
-                      <img src="images/img/3291400-200.png" alt="" class="u-image u-image-round u-preserve-proportions u-radius-10 u-image-4" data-image-width="200" data-image-height="200">
-                      <h6 class="u-align-center u-custom-font u-text u-text-default u-text-7">Virtual Point of Sale (VPOS)</h6>
-                      <h5 class="u-align-center u-custom-font u-text u-text-8">A mobile-based android POS solution that accepts remote card payments from a
-mobile device by simply sending out Payment Link to the customer via an e-mail, SMS, WhatsApp, or any other similar methods.<br>
-                      </h5>
-                    </div>
-                  </div>
-                  <div class="u-container-style u-layout-cell u-shape-rectangle u-size-20 u-layout-cell-5" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-delay="0" data-href="whitelable" data-animation-direction="">
-                    <div class="u-container-layout u-container-layout-5">
-                      <img src="images/img/design-icon-icon-design-packaging-and-labeling-symbol-share-icon-computer-software-black-black-and-white-png-clipart.png" alt="" class="u-image u-image-round u-preserve-proportions u-radius-10 u-image-5" data-image-width="800" data-image-height="800">
-                      <h6 class="u-align-center u-custom-font u-text u-text-default u-text-9">Platform as a Service</h6>
-                      <h5 class="u-align-center u-custom-font u-text u-text-10">A white label solution allowing businesses to be the first mover in
-their industry with their esteemed brand in our futuristic tech
-solution. </h5>
-                    </div>
-                  </div>
-                  <div class="u-container-style u-layout-cell u-shape-rectangle u-size-20 u-layout-cell-6" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-delay="0" data-href="https://www.directpay.lk/developer/" data-animation-direction="">
-                    <div class="u-container-layout u-container-layout-6">
-                      <img src="images/img/eqg.png" alt="" class="u-image u-image-round u-preserve-proportions u-radius-10 u-image-6" data-image-width="225" data-image-height="225">
-                      <h6 class="u-align-center u-custom-font u-text u-text-default u-text-11">Developer Sandbox</h6>
-                      <h5 class="u-align-center u-custom-font u-text u-text-12">A digital payment platform that enables secure transactions between
-customers and vendors without disclosing their financial details.</h5>
-                    </div>
-                  </div>
-                </div>
-              </div>
+
+</head>
+<body>
+
+
+<div class="onloadpage" id="page_loader">
+    <div class="pre-content">
+        <div class="logo-pre"><img src="images/logo-bckp.png" alt="Logo" class="img-fluid"/></div>
+        <div class="pre-text-"><span></span></div>
+    </div>
+</div>
+
+<header class="nav-bg-w main-header navfix fixed-top menu-white">
+
+    <div class="container">
+
+        <div class="menu-header">
+            <div class="dsk-logo"><a class="nav-brand" href="consumer">
+                    <img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
+                    <img src="images/logo-bckp.png" alt="Logo" class="mega-darks-logo" width="180px">
+                </a></div>
+            <div class="custom-nav" role="navigation">
+                <ul class="nav-list">
+                    <li class="sbmenu"><a href="consumer" class="menu-links">Home</a>
+
+                    </li>
+                    <li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
+                        <div class="nx-dropdown">
+                            <div class="sub-menu-section">
+                                <div class="container">
+                                    <div class="sub-menu-center-block">
+                                        <div class="sub-menu-column">
+                                            <ul>
+                                                <li><a href="consumer"><font color="#012480"
+                                                                             size="3.5px">Consumer</font></a></li>
+                                                <li><a href="consumer">User App</a></li>
+                                                <li><a href="web">Web</a></li>
+
+                                            </ul>
+                                        </div>
+                                        <div class="sub-menu-column">
+                                            <ul>
+                                                <li><a href="merchant"><font color="#ff822e"
+                                                                             size="3.5px">Business</font></a></li>
+                                                <li><a href="ipg">IPG</a></li>
+                                                <li><a href="merchant">Merchant App</a></li>
+                                                <li><a href="pos">POS</a></li>
+                                                <li><a href="vpos">VPOS</a></li>
+                                                <li><a href="whitelable">Platform</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="sub-menu-column">
+                                            <ul>
+                                                <li><a href="https://www.directpay.lk/developer/"><font color="#012480"
+                                                                                                        size="3.5px">Developer</font></a>
+                                                </li>
+                                                <li><a href="https://www.directpay.lk/developer/">Sandbox</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="sub-menu-column">
+                                            <a href="#"><img src="images/banner/header-1.jpg" alt="" class="img-fluid"></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
+                    <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
+                    <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
+                    <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
+                    <li><a href="#" class="menu-links right-bddr">&nbsp;</a>
+
+
+                </ul>
             </div>
-          </div>
+            <div class="mobile-menu2">
+                <ul class="mob-nav2">
+
+                    <li class="navm-"><a class="toggle" href="#"><span></span></a></li>
+                </ul>
+            </div>
         </div>
-      </div>
-    </section>
+
+        <!--Mobile Menu-->
+        <nav id="main-nav">
+            <ul class="first-nav">
+                <li><a href="consumer">Home</a>
+
+                </li>
+                <li><a href="">Services and Solutions</a>
+                    <ul>
+                        <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
+                        <li><a href="consumer">User App</a></li>
+                        <li><a href="web">Web</a></li>
+                        <li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
+                        <li><a href="ipg">IPG</a></li>
+                        <li><a href="merchant">Merchant App</a></li>
+                        <li><a href="pos">POS</a></li>
+                        <li><a href="vpos">VPOS</a></li>
+                        <li><a href="whitelable">Platform</a></li>
+                        <li><a href="https://www.directpay.lk/developer/"><font color="#012480"
+                                                                                size="3.5px">Developer</font></a></li>
+                        <li><a href="https://www.directpay.lk/developer/">Sandbox</a></li>
+
+                    </ul>
+                </li>
+                <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
+                <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
+                <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
+                <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
+            </ul>
+
+        </nav>
+    </div>
 
 
-    <footer class="u-clearfix u-footer" id="sec-881f"><div class="u-clearfix u-sheet u-sheet-1">
-        <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="530" data-image-height="118">
-          <img src="images/logo-b.png" class="u-logo-image u-logo-image-1" data-image-width="129.1817">
+</header>
+
+
+<section class="hero-bg">
+
+
+
+    <!--
+  ####################################################
+  C A R O U S E L
+  ####################################################
+  -->
+    <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
+        <ol class="carousel-indicators">
+            <li data-target="#carousel" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel" data-slide-to="1"></li>
+            <li data-target="#carousel" data-slide-to="2"></li>
+            <li data-target="#carousel" data-slide-to="3"></li>
+            <li data-target="#carousel" data-slide-to="4"></li>
+            <li data-target="#carousel" data-slide-to="5"></li>
+
+        </ol>
+
+
+        <div class="carousel-inner" role="listbox">
+
+            <div class="carousel-item active">
+                <a href="web">
+                    <picture>
+                        <source srcset="images/hero/1-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/1-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/1-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/1-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                    </picture>
+
+                    <!--<div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Performance Optimization</h2>
+                            <p>We monitor and optimize your site's long-term performance</p>
+                            <span class="btn btn-sm btn-secondary">Learn How</span>
+                        </div>
+                    </div>-->
+                </a>
+            </div>
+
+            <div class="carousel-item">
+                <a href="app">
+                    <picture>
+                        <source srcset="images/hero/2-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/2-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/2-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/2-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                    </picture>
+
+                    <!--<div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Performance Optimization</h2>
+                            <p>We monitor and optimize your site's long-term performance</p>
+                            <span class="btn btn-sm btn-secondary">Learn How</span>
+                        </div>
+                    </div>-->
+                </a>
+            </div>
+
+            <div class="carousel-item">
+                <a href="app">
+                    <picture>
+                        <source srcset="images/hero/3-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/3-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/3-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/3-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                    </picture>
+
+                    <!--<div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Performance Optimization</h2>
+                            <p>We monitor and optimize your site's long-term performance</p>
+                            <span class="btn btn-sm btn-secondary">Learn How</span>
+                        </div>
+                    </div>-->
+                </a>
+            </div>
+
+            <div class="carousel-item">
+                <a href="app">
+                    <picture>
+                        <source srcset="images/hero/4-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/4-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/4-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/4-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                    </picture>
+
+                    <!--<div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Performance Optimization</h2>
+                            <p>We monitor and optimize your site's long-term performance</p>
+                            <span class="btn btn-sm btn-secondary">Learn How</span>
+                        </div>
+                    </div>-->
+                </a>
+            </div>
+
+            <div class="carousel-item">
+                <a href="app">
+                    <picture>
+                        <source srcset="images/hero/5-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/5-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/5-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/5-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                    </picture>
+
+                    <!--<div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Performance Optimization</h2>
+                            <p>We monitor and optimize your site's long-term performance</p>
+                            <span class="btn btn-sm btn-secondary">Learn How</span>
+                        </div>
+                    </div>-->
+                </a>
+            </div>
+
+            <div class="carousel-item">
+                <a href="app">
+                    <picture>
+                        <source srcset="images/hero/8-20x5.jpg" media="(min-width: 1400px)">
+                        <source srcset="images/hero/8-14x5.jpg" media="(min-width: 769px)">
+                        <source srcset="images/hero/8-8x5.jpg" media="(min-width: 577px)">
+                        <img srcset="images/hero/8-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                    </picture>
+
+                    <!--<div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Performance Optimization</h2>
+                            <p>We monitor and optimize your site's long-term performance</p>
+                            <span class="btn btn-sm btn-secondary">Learn How</span>
+                        </div>
+                    </div>-->
+                </a>
+            </div>
+
+
+
+        </div>
+        <!-- /.carousel-inner -->
+        <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
         </a>
-        <h5 class="u-align-center-xs u-custom-font u-text u-text-1">Copyright © 2020 <a href="http://www.DirectPay.lk" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-1 u-btn-1">DirectPay </a>. All rights reserved.
-        </h5>
-        <h5 class="u-align-center u-custom-font u-text u-text-2">
-            <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hidden-xs u-hover-none u-none u-text-grey-90 u-text-hover-custom-color-2 u-btn-2" href="privacy">Privacy policy</a>
-        </h5>
-        <h5 class="u-align-center u-custom-font u-text u-text-3">
-            <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hidden-xs u-hover-none u-none u-text-grey-90 u-text-hover-custom-color-2 u-btn-3" href="terms">Terms &amp; Conditions</a>
-        </h5>
-        <h5 class="u-align-center u-custom-font u-text u-text-4">
-            <a class="u-btn u-button-link u-button-style u-hidden-xs u-none u-text-grey-90 u-text-hover-custom-color-2 u-btn-4" href="faq">FAQ</a>
-        </h5>
-      </div></footer>
+        <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
 
-  </body>
+    <!-- /.carousel -->
+
+
+
+    <!-- -->
+
+</section>
+<br><br>
+<section class="work-category pad-tb1">
+    <div class="container">
+        <div class="common-heading ptag">
+            <?php
+            function isMobile()
+            {
+                return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
+            }
+            if (isMobile()) {
+
+                echo '<h4>need wording for this</h4>';
+
+            } else {
+
+                echo '<h2>need wording for this</h2>';
+            }
+
+            ?>
+        </div>
+
+        <div class="row mt30">
+
+
+            <div class="col-lg-3my col-sm-6 col-6 wow fadeIn" data-wow-delay="0.5s"><a href="ipg">
+                    <div class="industry-workfor hoshd"><img src="images/icons/video-tutorials.svg" alt="img"> <h6><font
+                                color="#ff822e">IPG</font></h6></div>
+                </a></div>
+
+            <div class="col-lg-3my col-sm-6 col-6 wow fadeIn" data-wow-delay="0.7s"><a href="pos">
+                    <div class="industry-workfor hoshd"><img src="images/icons/taxi.svg" alt="img"> <h6><font
+                                color="#ff822e">POS</font></h6></div>
+                </a></div>
+
+            <div class="col-lg-3my col-sm-6 col-6 wow fadeIn" data-wow-delay="0.9s"><a href="vpos">
+                    <div class="industry-workfor hoshd"><img src="images/icons/event.svg" alt="img"> <h6><font
+                                color="#ff822e">VPOS</font></h6></div>
+                </a></div>
+
+            <div class="col-lg-3my col-sm-6 col-6 wow fadeIn" data-wow-delay="1.1s"><a href="merchant">
+                    <div class="industry-workfor hoshd"><img src="images/icons/smartphone.svg" alt="img"> <h6><font
+                                color="#ff822e">Merchant App</font></h6></div>
+                </a></div>
+
+            <div class="col-lg-3my col-sm-6 col-6 wow fadeIn" data-wow-delay="1.3s" width="20%" ><a href="whitelable">
+                    <div class="industry-workfor hoshd"><img src="images/icons/joystick.svg" alt="img"> <h6><font
+                                color="#ff822e">Platform</font></h6></div>
+                </a></div>
+
+
+
+        </div>
+    </div>
+</section>
+
+
+
+
+<!-- /.container -->
+
+
+
+<!--End Blogs-->
+<br/><br/><br/><br/>
+<!--Start Footer-->
+<footer class="dark-footer dg-bg--1 pt60 upset dark-footer-1">
+    <div class="up-curvs">
+        <svg height="100" width="100%" version="1.1" xmlns="http://www.w3.org/2000/svg"
+             xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             viewBox="0 0 1920 89.3" style="enable-background:new 0 0 1920 89.3;" xml:space="preserve" fill="#000731">
+				<path d="M1919.5,89.5H-0.5c0,0,0-90,0-90c114.9,4.8,228.6,17.9,343.6,24.6c118.6,7,237.4,11.9,356.1,14.7
+				c237.6,5.7,475.3,3.1,712.7-7.7c164.2-7.5,328.1-23.7,492.3-31c0.7,0,15.2-0.5,15.2-0.6C1919.5-0.5,1919.5,89.5,1919.5,89.5z"/>
+			</svg>
+    </div>
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-lg-4 col-sm-6  ftr-brand-pp">
+                <a class="navbar-brand mb30 mt30" href="#"> <img src="images/white-logo.png" alt="Logo"
+                                                                 width="140"/></a>
+                <p style="text-align:justify">DirectPay connects everyone digitally bringing us one step closer towards
+                    a cashless society by introducing modern payment methods in the financial and telecom industries. We
+                    are revolutionizing payment platforms by putting together a combination of innovative features and
+                    seamless technology in order to provide the best solutions for our customers.</p>
+
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <h5 class="mb30 mt30">Contact Us</h5>
+                <ul class="footer-address-list ftr-details">
+                    <li>
+                        <span><i class="fas fa-envelope"></i></span>
+                        <p>Email <span> <a href="mailto:hello@directpay.lk">hello@directpay.lk</a></span></p>
+                    </li>
+                    <li>
+                        <span><i class="fas fa-phone-alt"></i></span>
+                        <p>Phone <span> <a
+                                    href="tel:+94 772 448 144">(+94) 772 448 144 <br/> (+94) 712 083 911</a></span>
+                        </p>
+                    </li>
+                    <li>
+                        <span><i class="fas fa-map-marker-alt"></i></span>
+                        <p>Address <span>No, 410/33, Bauddhaloka Mawatha, Colombo 07,<br>
+Sri Lanka, 00700</span></p>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 footer-blog-">
+                <h5 class="mb30 mt30">Be Connected</h5>
+                <div class="ff-social-icons mt30">
+                    <a href="https://www.facebook.com/directpay.srilanka" target="blank"><i class="fab fa-facebook"></i></a>
+                    <a href="javascript:void(0)" target="blank"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.linkedin.com/company/54304577/" target="blank"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://www.instagram.com/directpay.lk/" target="blank"><i
+                            class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="row end-footer-">
+            <div class="col-lg-6">
+                <div class="footer-copyrights-">
+                    <p>Copyright © 2020 <a href="http://www.DirectPay.lk">DirectPay </a>. All rights reserved.</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <ul class="footer-link-- link-hover">
+                    <li><a href="privacy">Privacy &amp; Policy.</a></li>
+                    <li><a href="faq">FAQ</a></li>
+                    <li><a href="terms">Terms.</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--End Footer-->
+<!--scroll to top-->
+<a id="scrollUp" href="#top"></a>
+
+<!-- Messenger Chat plugin Code -->
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            xfbml: true,
+            version: 'v10.0'
+        });
+    };
+
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!-- Your Chat plugin code -->
+<div class="fb-customerchat"
+     attribution="biz_inbox"
+     page_id="137549680135741">
+</div>
+
+
+<!-- js placed at the end of the document so the pages load faster -->
+<script src="js/vendor/modernizr-3.5.0.min.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/plugin.min.js"></script>
+<script src="js/preloader.js"></script>
+<!--common script file-->
+<script src="js/main.js"></script>
+</body>
 </html>

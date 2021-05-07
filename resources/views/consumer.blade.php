@@ -86,7 +86,7 @@ Removes white gap between slides - chagnge to base color of slide images
                                     <div class="sub-menu-center-block">
                                         <div class="sub-menu-column">
                                             <ul>
-                                                <li><a href="consumer"><font color="#012480"
+                                                <li><a href="user"><font color="#012480"
                                                                              size="3.5px">Consumer</font></a></li>
                                                 <li><a href="consumer">User App</a></li>
                                                 <li><a href="web">Web</a></li>
@@ -95,7 +95,7 @@ Removes white gap between slides - chagnge to base color of slide images
                                         </div>
                                         <div class="sub-menu-column">
                                             <ul>
-                                                <li><a href="merchant"><font color="#ff822e"
+                                                <li><a href="business"><font color="#ff822e"
                                                                              size="3.5px">Business</font></a></li>
                                                 <li><a href="ipg">IPG</a></li>
                                                 <li><a href="merchant">Merchant App</a></li>
@@ -145,10 +145,10 @@ Removes white gap between slides - chagnge to base color of slide images
                 </li>
                 <li><a href="">Services and Solutions</a>
                     <ul>
-                        <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
+                        <li><a href="user"><font color="#012480" size="3.5px">Consumer</font></a></li>
                         <li><a href="consumer">User App</a></li>
                         <li><a href="web">Web</a></li>
-                        <li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
+                        <li><a href="business"><font color="#012480" size="3.5px">Business</font></a></li>
                         <li><a href="ipg">IPG</a></li>
                         <li><a href="merchant">Merchant App</a></li>
                         <li><a href="pos">POS</a></li>
@@ -630,16 +630,15 @@ Removes white gap between slides - chagnge to base color of slide images
                 <div class="single-blog-post- up-hor shdo">
                     <div class="single-blog-img-">
                         <a href="blog6">
-                            <center><img src="images/blog/blog-dg-3.jpg" alt="girl" class="img-fluid"/></center>
+                            <center><img src="images/blog/blog-dg-7.jpg" alt="girl" class="img-fluid"/></center>
                         </a>
                     </div>
                     <div class="blog-content-tt pt20">
                         <div class="single-blog-info-">
-                            <p class="mb10"><i class="fas fa-clock"></i>Tuesday, January 1, 2019</p>
-                            <h4><a href="Blog6">PayMedia wraps up 2018 with Eleven Awards</a></h4>
-                            <p>A rapidly evolving Financial Technology company in Sri Lanka, won eleven awards in total
-                                in 2018, and was highly commended for the leadership of its Founding Director, Kanishka
-                                Weeramunda, who was recognized with multiple leadership awards himself.</p>
+                            <p class="mb10"><i class="fas fa-clock"></i>Friday, 02 April 2021</p>
+                            <h4><a href="blog7">DirectPay wins national “Best Disruptor” award from SLASSCOM</a></h4>
+                            <p>DirectPay was recognized as the island-wide winner of the “Best Disruptor 2021” award at
+                                the SLASSCOM National Ingenuity Awards 2021.</p>
                         </div>
                         <div class="post-social">
                             <div class="ss-inline-share-content">
@@ -653,17 +652,16 @@ Removes white gap between slides - chagnge to base color of slide images
                 <div class="single-blog-post- up-hor shdo">
                     <div class="single-blog-img-">
                         <a href="blog4">
-                            <center><img src="images/blog/blog-dg-4.jpg" alt="girl" class="img-fluid"/></center>
+                            <center><img src="images/blog/blog-dg-8.jpg" alt="girl" class="img-fluid"/></center>
                         </a>
                     </div>
                     <div class="blog-content-tt pt20">
                         <div class="single-blog-info-">
-                            <p class="mb10"><i class="fas fa-clock"></i>23 April 2018</p>
-                            <h4><a href="blog4">Kanishka Weeramunda Bags Two Awards At The CMI Excellence Awards</a>
+                            <p class="mb10"><i class="fas fa-clock"></i>Wednesday, 10 February 2021</p>
+                            <h4><a href="blog8">DirectPay Wins 3 awards at the National ICT Awards (NBQSA) 2020.</a>
                             </h4>
-                            <p>PayMedia CEO and Founder, Kanishka Weeramunda, has been named the Best CEO of the Year
-                                and the Best Future Leader of the Year in the small and medium service sector category
-                                at the CMI Excellence Awards 2017. </p>
+                            <p>We are still overjoyed by winning 3 awards at the National ICT Awards (NBQSA) 2020 and
+                                being selected to represent Sri Lanka at APICTA in Malaysia.</p>
                         </div>
                         <div class="post-social">
                             <div class="ss-inline-share-content">
@@ -678,16 +676,17 @@ Removes white gap between slides - chagnge to base color of slide images
                 <div class="single-blog-post- up-hor shdo">
                     <div class="single-blog-img-">
                         <a href="blog5">
-                            <center><img src="images/blog/blog-dg-5.jpg" alt="girl" class="img-fluid"/></center>
+                            <center><img src="images/blog/blog-dg-3.jpg" alt="girl" class="img-fluid"/></center>
                         </a>
                     </div>
                     <div class="blog-content-tt pt20">
                         <div class="single-blog-info-">
-                            <p class="mb10"><i class="fas fa-clock"></i>Thursday, 3 August 2017</p>
-                            <h4><a href="blog5">DirectPay wins big at Disrupt Asia 2017</a></h4>
-                            <p>The past years, Sri Lanka has seen an immense growth in its startup ecosystem, producing
-                                startups that have gained a competitive in the global market.Amongst these top players
-                                was DirectPay, specialised in unique software solutions.</p>
+                            <p class="mb10"><i class="fas fa-clock"></i>Tuesday, January 1, 2019</p>
+                            <h4><a href="blog6">PayMedia Wins 11 awards at the National ICT Awards (NBQSA) 2018.</a>
+                            </h4>
+                            <p>PayMedia, a rapidly evolving Financial Technology company, won eleven awards
+                                in total in 2018, and was highly commended for the leadership of Mr. Kanishka
+                                Weeramunda.</p>
                         </div>
                         <div class="post-social">
                             <div class="ss-inline-share-content">
