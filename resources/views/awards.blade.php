@@ -2,7 +2,7 @@
 <html lang="en" class="no-js">
 <head>
     <meta charset="utf-8"/>
-    <title>About - DirectPay</title>
+    <title>Awards - DirectPay</title>
     <meta name="description" content="Creative Agency, Marketing Agency Template">
     <meta name="keywords" content="Creative Agency, Marketing Agency">
     <meta name="author" content="rajesh-doot">
@@ -210,26 +210,26 @@
 
 <!--End Header -->
 <!--Start Hero-->
-<section class="breadcrumb-area banner-1" data-background="images/banner/10.png">
-    <div class="text-block">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 v-center">
-                    <div class="bread-inner">
-                        <div class="bread-menu wow fadeInUp" data-wow-delay=".2s">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
+
+
+
+                        <picture>
+                            <source srcset="images/hero/3-20x5.jpg" media="(min-width: 1400px)">
+                            <source srcset="images/hero/3-14x5.jpg" media="(min-width: 769px)">
+                            <source srcset="images/hero/3-8x5.jpg" media="(min-width: 577px)">
+                            <img srcset="images/hero/3-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                        </picture>
+
+
+<br/>
+
 <section class="about-sec bg-gradient5 pad-tb1 pb120m">
     <div class="container">
         <div class="row justify-content-center text-center">
             <div class="col-lg-10">
                 <div class="common-heading">
-                <h1 class="mb30">Towards a <font color="#012480">#Cashless</font> Society</h1>
+                <h1 class="mb30">need wording for this</h1>
 
                 <br>
                 </div>
@@ -241,88 +241,135 @@
 </section>
 
 
-<section class="about-dg-busign pb120 pt120 bg-light-ylo upset">
 
-    <div class="container">
-        <div class="common-heading-2 text-l">
-
-        </div>
-
-        <div class="row">
-
-            <div class="col-lg-6 v-center">
-                <div class="bread-titlev2">
-
-                    <p class="mt20 wow fadeInUp" data-wow-delay=".4s" style="text-align:justify">DirectPay is a Sri Lankan startup that is solving the problem of getting paid.
-                        We believe that payment is always a byproduct of some other transaction and we are addressing how to pursue that payment digitally.
-                        It could be either through a mobile-based payment app, an Internet payment gateway, a payment link to receive remote payments, subscription
-                        payments where there’s a recurring revenue or it could be a bill settlement. Whichever it is, we ensure a seamless journey to customers or
-                        service providers, covering the entire payment ecosystem.</p>
-                </div>
-            </div>
-            <div class="col-lg-6 v-center mt40 order2">
-                <div id="video">
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/wAMtjejJ0Fg"
-                            autoplay=1&loop=1&controls=0&rel=0&showinfo=0&playlist=zWAiQJvwb8Q&modestbranding=1"
-                            frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-                </div>
-            </div>
-            <div class="col-lg-6 v-center mt40 order1">
-
-            </div>
-        </div>
-    </div>
-
-</section>
-
-
-
-
-<section class="about-sec bg-gradient5 pad-tb">
-    <div class="container">
-        <div class="common-heading">
-            <h3 class="mb30"><font color="#333">BOARD OF DIRECTORS</font></h3>
-        </div>
-        <div class="row card-list">
-            <div class="col-lg-4 col-md-6 grid-sizer"></div>
-            <div class="col-lg-4 col-sm-6 single-card-item app">
-                <div class="isotope_item hover-scale">
-                    <div class="item-image">
-                        <a href="#"><img src="images/portfolio/image-1.jpg" alt="portfolio" class="img-fluid"/> </a>
-                    </div>
-                    <div class="item-info">
-                        <center><h4><a href="#">Kanishka Weeramunda</a></h4>
-                            <p>Founder/CEO</p></center>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6 single-card-item graphic">
-                <div class="isotope_item hover-scale">
-                    <div class="item-image">
-                        <a href="#"><img src="images/portfolio/image-2.jpg" alt="image" class="img-fluid"/> </a>
-                    </div>
-                    <div class="item-info">
-                        <center><h4><a href="#">Dinesh Karunathilaka</a></h4>
-                            <p>Co-Founder</p></center>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6 single-card-item website">
-                <div class="isotope_item hover-scale">
-                    <div class="item-image">
-                        <a href="#"><img src="images/portfolio/image-3.jpg" alt="image" class="img-fluid"/> </a>
-                    </div>
-                    <div class="item-info">
-                        <center><h4><a href="#">Sasindu Pathiranage</a></h4>
-                            <p>Co-Founder/COO</p></center>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
 </section><br><br>
-<br/><br/>
+<div class="footer-brands">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 v-center">
+                <h3 class="mb10">Awards </h3>
+                <p style="text-align:justify">The numerous awards for excellence won by DirectPay is the result of dedication and commitment of the people engaged with the company.</p>
+            </div>
+            <div class="col-lg">
+                <ul class="footer-badges-">
+                    <li><a href="#"><img src="images/awards/23.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/22.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/21.png" alt="badges"></a></li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer-brands">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg">
+                <ul class="footer-badges-">
+                    <li><a href="#"><img src="images/awards/20.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/19.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/18.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/17.png" alt="badges"></a></li>
+
+
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer-brands">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg">
+                <ul class="footer-badges-">
+                    <li><a href="#"><img src="images/awards/16.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/15.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/14.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/13.png" alt="badges"></a></li>
+
+
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer-brands">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg">
+                <ul class="footer-badges-">
+                    <li><a href="#"><img src="images/awards/12.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/11.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/10.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/9.png" alt="badges"></a></li>
+
+
+
+
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="footer-brands">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg">
+                <ul class="footer-badges-">
+                    <li><a href="#"><img src="images/awards/8.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/7.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/6.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/5.png" alt="badges"></a></li>
+
+
+
+
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="footer-brands">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg">
+                <ul class="footer-badges-">
+                    <li><a href="#"><img src="images/awards/4.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/3.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/2.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/1.png" alt="badges"></a></li>
+
+
+
+
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<br><br><br>
+
 <!--End Hero-->
 <!--Start Service-->
 

@@ -179,7 +179,7 @@ Removes white gap between slides - chagnge to base color of slide images
   C A R O U S E L
   ####################################################
   -->
-    <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="5000">
+    <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
         <ol class="carousel-indicators">
             <li data-target="#carousel" data-slide-to="0" class="active"></li>
             <li data-target="#carousel" data-slide-to="1"></li>
@@ -492,8 +492,8 @@ Removes white gap between slides - chagnge to base color of slide images
                                 <img src="images/icons/deal.svg" alt="happy" class="img-fluid"/>
                             </div>
                             <div class="statnumb">
-                                <span class="counter">14</span>
-                                <p>Platform Services</p>
+                                <span class="counter">500</span><span>k+</span>
+                                <p>Transactions</p>
                             </div>
                         </div>
                     </div>
@@ -503,8 +503,8 @@ Removes white gap between slides - chagnge to base color of slide images
                                 <img src="images/icons/computers.svg" alt="project" class="img-fluid"/>
                             </div>
                             <div class="statnumb counter-number">
-                                <span class="counter">587</span><span>k</span>
-                                <p>Transactions</p>
+                                <span class="counter">11</span>
+                                <p>Platforms</p>
                             </div>
                         </div>
                     </div>
@@ -514,8 +514,8 @@ Removes white gap between slides - chagnge to base color of slide images
                                 <img src="images/icons/worker.svg" alt="work" class="img-fluid"/>
                             </div>
                             <div class="statnumb">
-                                <span class="counter">2</span><span>k</span>
-                                <p>Daily Transactions</p>
+                                <span class="counter">7</span><span>k</span>
+                                <p>Merchants</p>
                             </div>
                         </div>
                     </div>
@@ -525,8 +525,8 @@ Removes white gap between slides - chagnge to base color of slide images
                                 <img src="images/icons/customer-service.svg" alt="support" class="img-fluid"/>
                             </div>
                             <div class="statnumb">
-                                <span class="counter">26</span>
-                                <p>Awards and Certifications</p>
+                                <span class="counter">27</span><span>k</span>
+                                <p>Users</p>
                             </div>
                         </div>
                     </div>
@@ -741,7 +741,7 @@ Removes white gap between slides - chagnge to base color of slide images
                     </li>
                     <li>
                         <span><i class="fas fa-map-marker-alt"></i></span>
-                        <p>Address <span>No, 410/33, Bauddhaloka Mawatha, Colombo 07,<br>
+                        <p>Address <span>No. 410/33, Bauddhaloka Mawatha, Colombo 07,<br>
 Sri Lanka, 00700</span></p>
                     </li>
                 </ul>

@@ -57,6 +57,14 @@ Route::get('user', function () {
     return view('user');
 });
 
+Route::get('user-app', function () {
+    return view('user-app');
+});
+
+Route::get('awards', function () {
+    return view('awards');
+});
+
 Route::get('/consumer', function () {
     return view('consumer');
 });

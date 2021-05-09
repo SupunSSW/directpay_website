@@ -2,7 +2,7 @@
 <html lang="en" class="no-js">
 <head>
     <meta charset="utf-8"/>
-    <title>About - DirectPay</title>
+    <title>User APP - DirectPay</title>
     <meta name="description" content="Creative Agency, Marketing Agency Template">
     <meta name="keywords" content="Creative Agency, Marketing Agency">
     <meta name="author" content="rajesh-doot">
@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#fff">
     <!--website-favicon-->
-    <link href="images/favicon2.png" rel="icon">
+    <link href="images/favicon.png" rel="icon">
     <!--plugin-css-->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/plugin.min.css" rel="stylesheet">
@@ -19,7 +19,7 @@
         href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
     <!-- template-style-->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style-b.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
 </head>
 <body>
@@ -47,9 +47,9 @@
                                     <div class="sub-menu-center-block">
                                         <div class="sub-menu-column">
                                             <ul>
-                                                <li><a href="index"><font color="#012480"
-                                                                          size="3.5px">Consumer</font></a></li>
-                                                <li><a href="index">User App</a></li>
+                                                <li><a href="consumer"><font color="#012480"
+                                                                             size="3.5px">Consumer</font></a></li>
+                                                <li><a href="consumer">User App</a></li>
                                                 <li><a href="web">Web</a></li>
 
                                             </ul>
@@ -57,8 +57,7 @@
                                         <div class="sub-menu-column">
                                             <ul>
                                                 <li><a href="merchant"><font color="#ff822e"
-                                                                             size="3.5px">Business</font></a>
-                                                </li>
+                                                                             size="3.5px">Business</font></a></li>
                                                 <li><a href="ipg">IPG</a></li>
                                                 <li><a href="merchant">Merchant App</a></li>
                                                 <li><a href="pos">POS</a></li>
@@ -101,7 +100,7 @@
         <!--Mobile Menu-->
         <nav id="main-nav">
             <ul class="first-nav">
-                <li><a href="index">Home</a>
+                <li><a href="consumer">Home</a>
 
                 </li>
                 <li><a href="">Services and Solutions</a>
@@ -210,7 +209,7 @@
 
 <!--End Header -->
 <!--Start Hero-->
-<section class="breadcrumb-area banner-1" data-background="images/banner/10.png">
+<section class="breadcrumb-area banner-1" data-background="images/banner/9.jpg">
     <div class="text-block">
         <div class="container">
             <div class="row">
@@ -224,107 +223,61 @@
         </div>
     </div>
 </section>
-<section class="about-sec bg-gradient5 pad-tb1 pb120m">
+<section class="block-a1 pad-tb1">
     <div class="container">
-        <div class="row justify-content-center text-center">
-            <div class="col-lg-10">
-                <div class="common-heading">
-                <h1 class="mb30">Towards a <font color="#012480">#Cashless</font> Society</h1>
-
-                <br>
-                </div>
-                <br>
-
-            </div>
-        </div>
-    </div>
-</section>
-
-
-<section class="about-dg-busign pb120 pt120 bg-light-ylo upset">
-
-    <div class="container">
-        <div class="common-heading-2 text-l">
-
-        </div>
-
         <div class="row">
-
             <div class="col-lg-6 v-center">
-                <div class="bread-titlev2">
+                <div class="img-block hover-scale mt0 m-mb30">
+                    <img src="images/about/finance-cuate.png" class="img-fluid upset" />
 
-                    <p class="mt20 wow fadeInUp" data-wow-delay=".4s" style="text-align:justify">DirectPay is a Sri Lankan startup that is solving the problem of getting paid.
-                        We believe that payment is always a byproduct of some other transaction and we are addressing how to pursue that payment digitally.
-                        It could be either through a mobile-based payment app, an Internet payment gateway, a payment link to receive remote payments, subscription
-                        payments where there’s a recurring revenue or it could be a bill settlement. Whichever it is, we ensure a seamless journey to customers or
-                        service providers, covering the entire payment ecosystem.</p>
                 </div>
             </div>
-            <div class="col-lg-6 v-center mt40 order2">
-                <div id="video">
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/wAMtjejJ0Fg"
-                            autoplay=1&loop=1&controls=0&rel=0&showinfo=0&playlist=zWAiQJvwb8Q&modestbranding=1"
-                            frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-                </div>
-            </div>
-            <div class="col-lg-6 v-center mt40 order1">
+            <div class="col-lg-6">
+                <div class="common-heading-2 text-l">
+                    <div class="container">
+                        <center><div><br/>
+                                <h2>Download the DirectPay App and pay your bills with ease!</h2>
+                                <br/>
 
+                                <?php
+                                function isMobile()
+                                {
+                                    return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
+                                }
+                                if (isMobile()) {
+                                    echo ' <a href="https://play.google.com/store/apps/details?id=com.directpay.userapp"
+                   data-wow-delay=".6s"><img src="images/icons/playstore.png" width=30%">
+                </a>
+
+                <a href="https://apps.apple.com/us/app/directpay/id1437707340"
+                   data-wow-delay=".6s"><img src="images/icons/appstore.png" width=30%"></a>';
+
+                                }else {
+                                    echo '<a href="https://play.google.com/store/apps/details?id=com.directpay.userapp"
+                   data-wow-delay=".6s"><img src="images/icons/playstore.png" width=30%">
+                </a>
+
+                <a href="https://apps.apple.com/us/app/directpay/id1437707340"
+                   data-wow-delay=".6s"><img src="images/icons/appstore.png" width=30%"></a>';
+                                }
+
+                                ?>
+
+                            </div>
+                        </center></div>
+
+                </div>
             </div>
         </div>
     </div>
-
 </section>
 
+<br><br><br><br>
 
 
-
-<section class="about-sec bg-gradient5 pad-tb">
-    <div class="container">
-        <div class="common-heading">
-            <h3 class="mb30"><font color="#333">BOARD OF DIRECTORS</font></h3>
-        </div>
-        <div class="row card-list">
-            <div class="col-lg-4 col-md-6 grid-sizer"></div>
-            <div class="col-lg-4 col-sm-6 single-card-item app">
-                <div class="isotope_item hover-scale">
-                    <div class="item-image">
-                        <a href="#"><img src="images/portfolio/image-1.jpg" alt="portfolio" class="img-fluid"/> </a>
-                    </div>
-                    <div class="item-info">
-                        <center><h4><a href="#">Kanishka Weeramunda</a></h4>
-                            <p>Founder/CEO</p></center>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6 single-card-item graphic">
-                <div class="isotope_item hover-scale">
-                    <div class="item-image">
-                        <a href="#"><img src="images/portfolio/image-2.jpg" alt="image" class="img-fluid"/> </a>
-                    </div>
-                    <div class="item-info">
-                        <center><h4><a href="#">Dinesh Karunathilaka</a></h4>
-                            <p>Co-Founder</p></center>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6 single-card-item website">
-                <div class="isotope_item hover-scale">
-                    <div class="item-image">
-                        <a href="#"><img src="images/portfolio/image-3.jpg" alt="image" class="img-fluid"/> </a>
-                    </div>
-                    <div class="item-info">
-                        <center><h4><a href="#">Sasindu Pathiranage</a></h4>
-                            <p>Co-Founder/COO</p></center>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-</section><br><br>
-<br/><br/>
 <!--End Hero-->
-<!--Start Service-->
+
+<br><br><br><br>
 
 
 <!--Start Footer-->
@@ -340,8 +293,7 @@
     <div class="container">
         <div class="row justify-content-between">
             <div class="col-lg-4 col-sm-6  ftr-brand-pp">
-                <a class="navbar-brand mb30 mt30" href="#"> <img src="images/white-logo.png" alt="Logo"
-                                                                 width="140"/></a>
+                <a class="navbar-brand mb30 mt30" href="#"> <img src="images/white-logo-b.png" alt="Logo" width="140"/></a>
                 <p>DirectPay is the solution to facilitate low value transactions via Clearing House using smart phones
                     between customers and merchants eliminating high cost to third party payment verification agencies
                     and expensive equipment.</p>
@@ -397,7 +349,7 @@ Sri Lanka</span></p>
         <div class="row end-footer-">
             <div class="col-lg-6">
                 <div class="footer-copyrights-">
-                    <p>Copyright © 2020 <a href="http://www.DirectPay.lk">DirectPay </a>. All rights reserved.</p>
+                    <p>Copyright © 2020 <a href="www.DirectPay.lk">DirectPay </a>. All rights reserved.</p>
                 </div>
             </div>
             <div class="col-lg-6">
