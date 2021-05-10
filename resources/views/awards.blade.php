@@ -21,6 +21,7 @@
     <!-- template-style-->
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
+
 </head>
 <body>
 
@@ -28,16 +29,17 @@
 
 <!-- top bar end -->
 <header class="nav-bg-w main-header navfix fixed-top menu-white">
-    <div class="container-fluid m-pad">
+
+    <div class="container">
 
         <div class="menu-header">
-            <div class="dsk-logo"><a class="nav-brand" href="consumer">
+            <div class="dsk-logo"><a class="nav-brand" href="/">
                     <img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-                    <img src="images/logo.png" alt="Logo" class="mega-darks-logo" width="180px">
+                    <img src="images/logo-bckp.png" alt="Logo" class="mega-darks-logo" width="180px">
                 </a></div>
             <div class="custom-nav" role="navigation">
                 <ul class="nav-list">
-                    <li class="sbmenu"><a href="consumer" class="menu-links">Home</a>
+                    <li class="sbmenu"><a href="/" class="menu-links">Home</a>
 
                     </li>
                     <li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
@@ -47,18 +49,17 @@
                                     <div class="sub-menu-center-block">
                                         <div class="sub-menu-column">
                                             <ul>
-                                                <li><a href="index"><font color="#012480"
-                                                                          size="3.5px">Consumer</font></a></li>
-                                                <li><a href="index">User App</a></li>
+                                                <li><a href="user"><font color="#012480"
+                                                                         size="3.5px">Consumer</font></a></li>
+                                                <li><a href="user-app">User App</a></li>
                                                 <li><a href="web">Web</a></li>
 
                                             </ul>
                                         </div>
                                         <div class="sub-menu-column">
                                             <ul>
-                                                <li><a href="merchant"><font color="#ff822e"
-                                                                             size="3.5px">Business</font></a>
-                                                </li>
+                                                <li><a href="business"><font color="#ff822e"
+                                                                             size="3.5px">Business</font></a></li>
                                                 <li><a href="ipg">IPG</a></li>
                                                 <li><a href="merchant">Merchant App</a></li>
                                                 <li><a href="pos">POS</a></li>
@@ -98,18 +99,19 @@
                 </ul>
             </div>
         </div>
+
         <!--Mobile Menu-->
         <nav id="main-nav">
             <ul class="first-nav">
-                <li><a href="index">Home</a>
+                <li><a href="/">Home</a>
 
                 </li>
                 <li><a href="">Services and Solutions</a>
                     <ul>
-                        <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
-                        <li><a href="consumer">User App</a></li>
+                        <li><a href="user"><font color="#012480" size="3.5px">Consumer</font></a></li>
+                        <li><a href="user-app">User App</a></li>
                         <li><a href="web">Web</a></li>
-                        <li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
+                        <li><a href="business"><font color="#012480" size="3.5px">Business</font></a></li>
                         <li><a href="ipg">IPG</a></li>
                         <li><a href="merchant">Merchant App</a></li>
                         <li><a href="pos">POS</a></li>
@@ -129,6 +131,8 @@
 
         </nav>
     </div>
+
+
 </header>
 
 <!--Mobile contact-->
@@ -212,28 +216,26 @@
 <!--Start Hero-->
 
 
+<picture>
+    <source srcset="images/hero/award.png" media="(min-width: 1400px)">
+    <source srcset="images/hero/award.png" media="(min-width: 769px)">
+    <source srcset="images/hero/award.png" media="(min-width: 577px)">
+    <img srcset="images/hero/award.png" alt="responsive image" class="d-block img-fluid">
+</picture>
 
 
-                        <picture>
-                            <source srcset="images/hero/3-20x5.jpg" media="(min-width: 1400px)">
-                            <source srcset="images/hero/3-14x5.jpg" media="(min-width: 769px)">
-                            <source srcset="images/hero/3-8x5.jpg" media="(min-width: 577px)">
-                            <img srcset="images/hero/3-6x5.jpg" alt="responsive image" class="d-block img-fluid">
-                        </picture>
-
-
-<br/>
+<br/><br/>
 
 <section class="about-sec bg-gradient5 pad-tb1 pb120m">
     <div class="container">
         <div class="row justify-content-center text-center">
             <div class="col-lg-10">
                 <div class="common-heading">
-                <h1 class="mb30">need wording for this</h1>
+                    <h1 class="mb30">Award-winning service</h1>
 
-                <br>
+
                 </div>
-                <br>
+
 
             </div>
         </div>
@@ -242,14 +244,13 @@
 
 
 
-
-</section><br><br>
 <div class="footer-brands">
     <div class="container">
         <div class="row">
             <div class="col-lg-4 v-center">
-                <h3 class="mb10">Awards </h3>
-                <p style="text-align:justify">The numerous awards for excellence won by DirectPay is the result of dedication and commitment of the people engaged with the company.</p>
+                <h4 class="mb10">Awards -2021</h4>
+                <p style="text-align:justify">The numerous awards for excellence won by DirectPay is the result of
+                    dedication and commitment of the people engaged with the company.</p>
             </div>
             <div class="col-lg">
                 <ul class="footer-badges-">
@@ -262,18 +263,20 @@
         </div>
     </div>
 </div>
+<hr>
 <div class="footer-brands">
     <div class="container">
         <div class="row">
+            <div class="col-lg-4 v-center">
+                <h4 class="mb10">Awards 2018-2020</h4>
 
+            </div>
             <div class="col-lg">
                 <ul class="footer-badges-">
                     <li><a href="#"><img src="images/awards/20.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/19.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/18.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/17.png" alt="badges"></a></li>
-
-
 
 
                 </ul>
@@ -287,12 +290,10 @@
 
             <div class="col-lg">
                 <ul class="footer-badges-">
-                    <li><a href="#"><img src="images/awards/16.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/3.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/15.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/14.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/13.png" alt="badges"></a></li>
-
-
 
 
                 </ul>
@@ -312,30 +313,25 @@
                     <li><a href="#"><img src="images/awards/9.png" alt="badges"></a></li>
 
 
-
-
-
-
                 </ul>
             </div>
         </div>
     </div>
 </div>
-
+<hr class="hr-text" data-content="AND">
 <div class="footer-brands">
     <div class="container">
         <div class="row">
+            <div class="col-lg-4 v-center">
+                <h4 class="mb10">Awards 2015-2017</h4>
 
+            </div>
             <div class="col-lg">
                 <ul class="footer-badges-">
                     <li><a href="#"><img src="images/awards/8.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/7.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/6.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/5.png" alt="badges"></a></li>
-
-
-
-
+                    <li><a href="#"><img src="images/awards/1.png" alt="badges"></a></li>
 
 
                 </ul>
@@ -350,14 +346,10 @@
 
             <div class="col-lg">
                 <ul class="footer-badges-">
-                    <li><a href="#"><img src="images/awards/4.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/3.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/5.png" alt="badges"></a></li>
+                    <li><a href="#"><img src="images/awards/16.png" alt="badges"></a></li>
                     <li><a href="#"><img src="images/awards/2.png" alt="badges"></a></li>
-                    <li><a href="#"><img src="images/awards/1.png" alt="badges"></a></li>
-
-
-
-
+                    <li><a href="#"><img src="images/awards/4.png" alt="badges"></a></li>
 
 
                 </ul>
@@ -365,7 +357,6 @@
         </div>
     </div>
 </div>
-
 
 
 <br><br><br>
@@ -420,7 +411,8 @@ Sri Lanka, 00700</span></p>
                 <h5 class="mb30 mt30">Be Connected</h5>
                 <div class="ff-social-icons mt30">
                     <a href="https://www.facebook.com/directpay.srilanka" target="blank"><i class="fab fa-facebook"></i></a>
-                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i
+                            class="fab fa-youtube"></i></a>
                     <a href="https://www.linkedin.com/company/54304577/" target="blank"><i class="fab fa-linkedin"></i></a>
                     <a href="https://www.instagram.com/directpay.lk/" target="blank"><i
                             class="fab fa-instagram"></i></a>

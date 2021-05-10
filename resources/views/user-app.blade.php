@@ -28,16 +28,17 @@
 
 <!-- top bar end -->
 <header class="nav-bg-w main-header navfix fixed-top menu-white">
-    <div class="container-fluid m-pad">
+
+    <div class="container">
 
         <div class="menu-header">
-            <div class="dsk-logo"><a class="nav-brand" href="consumer">
+            <div class="dsk-logo"><a class="nav-brand" href="/">
                     <img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-                    <img src="images/logo.png" alt="Logo" class="mega-darks-logo" width="180px">
+                    <img src="images/logo-bckp.png" alt="Logo" class="mega-darks-logo" width="180px">
                 </a></div>
             <div class="custom-nav" role="navigation">
                 <ul class="nav-list">
-                    <li class="sbmenu"><a href="consumer" class="menu-links">Home</a>
+                    <li class="sbmenu"><a href="/" class="menu-links">Home</a>
 
                     </li>
                     <li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
@@ -47,16 +48,16 @@
                                     <div class="sub-menu-center-block">
                                         <div class="sub-menu-column">
                                             <ul>
-                                                <li><a href="consumer"><font color="#012480"
-                                                                             size="3.5px">Consumer</font></a></li>
-                                                <li><a href="consumer">User App</a></li>
+                                                <li><a href="user"><font color="#012480"
+                                                                         size="3.5px">Consumer</font></a></li>
+                                                <li><a href="user-app">User App</a></li>
                                                 <li><a href="web">Web</a></li>
 
                                             </ul>
                                         </div>
                                         <div class="sub-menu-column">
                                             <ul>
-                                                <li><a href="merchant"><font color="#ff822e"
+                                                <li><a href="business"><font color="#ff822e"
                                                                              size="3.5px">Business</font></a></li>
                                                 <li><a href="ipg">IPG</a></li>
                                                 <li><a href="merchant">Merchant App</a></li>
@@ -97,18 +98,19 @@
                 </ul>
             </div>
         </div>
+
         <!--Mobile Menu-->
         <nav id="main-nav">
             <ul class="first-nav">
-                <li><a href="consumer">Home</a>
+                <li><a href="/">Home</a>
 
                 </li>
                 <li><a href="">Services and Solutions</a>
                     <ul>
-                        <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
-                        <li><a href="consumer">User App</a></li>
+                        <li><a href="user"><font color="#012480" size="3.5px">Consumer</font></a></li>
+                        <li><a href="user-app">User App</a></li>
                         <li><a href="web">Web</a></li>
-                        <li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
+                        <li><a href="business"><font color="#012480" size="3.5px">Business</font></a></li>
                         <li><a href="ipg">IPG</a></li>
                         <li><a href="merchant">Merchant App</a></li>
                         <li><a href="pos">POS</a></li>
@@ -128,6 +130,8 @@
 
         </nav>
     </div>
+
+
 </header>
 
 <!--Mobile contact-->
@@ -245,8 +249,8 @@
                                     return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
                                 }
                                 if (isMobile()) {
-                                    echo ' <a href="https://play.google.com/store/apps/details?id=com.directpay.userapp"
-                   data-wow-delay=".6s"><img src="images/icons/playstore.png" width=30%">
+                                    echo '<a href="https://play.google.com/store/apps/details?id=com.directpay.userapp"
+                   data-wow-delay=".6s"><img src="images/icons/playstore.png" width=30%" >
                 </a>
 
                 <a href="https://apps.apple.com/us/app/directpay/id1437707340"
@@ -254,11 +258,11 @@
 
                                 }else {
                                     echo '<a href="https://play.google.com/store/apps/details?id=com.directpay.userapp"
-                   data-wow-delay=".6s"><img src="images/icons/playstore.png" width=30%">
+                   data-wow-delay=".6s" class="hover-scale mt0 m-mb30"><img src="images/icons/playstore.png" width=30%">
                 </a>
 
                 <a href="https://apps.apple.com/us/app/directpay/id1437707340"
-                   data-wow-delay=".6s"><img src="images/icons/appstore.png" width=30%"></a>';
+                   data-wow-delay=".6s" class="hover-scale mt0 m-mb30"><img src="images/icons/appstore.png" width=30%"></a>';
                                 }
 
                                 ?>

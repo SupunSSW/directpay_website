@@ -37,7 +37,7 @@
                 </a></div>
             <div class="custom-nav" role="navigation">
                 <ul class="nav-list">
-                    <li class="sbmenu"><a href="consumer" class="menu-links">Home</a>
+                    <li class="sbmenu"><a href="/" class="menu-links">Home</a>
 
                     </li>
                     <li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
@@ -47,16 +47,16 @@
                                     <div class="sub-menu-center-block">
                                         <div class="sub-menu-column">
                                             <ul>
-                                                <li><a href="consumer"><font color="#012480"
+                                                <li><a href="user"><font color="#012480"
                                                                              size="3.5px">Consumer</font></a></li>
-                                                <li><a href="consumer">User App</a></li>
+                                                <li><a href="user-app">User App</a></li>
                                                 <li><a href="web">Web</a></li>
 
                                             </ul>
                                         </div>
                                         <div class="sub-menu-column">
                                             <ul>
-                                                <li><a href="merchant"><font color="#ff822e"
+                                                <li><a href="business"><font color="#ff822e"
                                                                              size="3.5px">Business</font></a></li>
                                                 <li><a href="ipg">IPG</a></li>
                                                 <li><a href="merchant">Merchant App</a></li>
@@ -100,15 +100,15 @@
         <!--Mobile Menu-->
         <nav id="main-nav">
             <ul class="first-nav">
-                <li><a href="consumer">Home</a>
+                <li><a href="/">Home</a>
 
                 </li>
                 <li><a href="">Services and Solutions</a>
                     <ul>
-                        <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
-                        <li><a href="consumer">User App</a></li>
+                        <li><a href="user"><font color="#012480" size="3.5px">Consumer</font></a></li>
+                        <li><a href="user-app">User App</a></li>
                         <li><a href="web">Web</a></li>
-                        <li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
+                        <li><a href="business"><font color="#012480" size="3.5px">Business</font></a></li>
                         <li><a href="ipg">IPG</a></li>
                         <li><a href="merchant">Merchant App</a></li>
                         <li><a href="pos">POS</a></li>

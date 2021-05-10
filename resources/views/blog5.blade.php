@@ -25,104 +25,112 @@
 			<!--Start Header -->
 
 		<!-- top bar end -->
-<header class="nav-bg-w main-header navfix fixed-top menu-white">
-			<div class="container-fluid m-pad">
+            <header class="nav-bg-w main-header navfix fixed-top menu-white">
 
-				<div class="menu-header">
-					<div class="dsk-logo"><a class="nav-brand" href="index">
-						<img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-						<img src="images/logo.png" alt="Logo" class="mega-darks-logo" width="180px">
-					</a></div>
-					<div class="custom-nav" role="navigation">
-						<ul class="nav-list">
-							<li class="sbmenu"><a href="index" class="menu-links">Home</a>
+                <div class="container">
 
-						</li>
-						<li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
-						<div class="nx-dropdown">
-							<div class="sub-menu-section">
-								<div class="container">
-									<div class="sub-menu-center-block">
-										<div class="sub-menu-column">
-											<ul>
-												<li><a href="index"><font color="#012480" size="3.5px">Consumer</font></a></li>
-												<li><a href="index">User App</a></li>
-												<li><a href="web">Web</a></li>
+                    <div class="menu-header">
+                        <div class="dsk-logo"><a class="nav-brand" href="/">
+                                <img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
+                                <img src="images/logo-bckp.png" alt="Logo" class="mega-darks-logo" width="180px">
+                            </a></div>
+                        <div class="custom-nav" role="navigation">
+                            <ul class="nav-list">
+                                <li class="sbmenu"><a href="/" class="menu-links">Home</a>
 
-											</ul>
-										</div>
-										<div class="sub-menu-column">
-											<ul>
-												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></a></li>
-												<li><a href="ipg">IPG</a></li>
-												<li><a href="merchant">Merchant App</a> </li>
-												<li><a href="pos">POS</a> </li>
-												<li><a href="vpos">VPOS</a> </li>
-												<li><a href="whitelable">White Lable</a> </li>
-											</ul>
-										</div>
-										<div class="sub-menu-column">
-											<ul>
-												<li><a href="https://www.directpay.lk/developer/"><font color="#012480" size="3.5px">Developer</font></a> </li>
-												<li><a href="https://www.directpay.lk/developer/">Sandbox</a> </li>
-											</ul>
-										</div>
-										<div class="sub-menu-column">
-											<a href="#"><img src="images/banner/header-1.jpg" alt="" class="img-fluid"></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</li>
-					<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
-					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
-					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
-					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
-<li><a href="#" class="menu-links right-bddr">&nbsp;</a>
+                                </li>
+                                <li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
+                                    <div class="nx-dropdown">
+                                        <div class="sub-menu-section">
+                                            <div class="container">
+                                                <div class="sub-menu-center-block">
+                                                    <div class="sub-menu-column">
+                                                        <ul>
+                                                            <li><a href="user"><font color="#012480"
+                                                                                     size="3.5px">Consumer</font></a></li>
+                                                            <li><a href="user-app">User App</a></li>
+                                                            <li><a href="web">Web</a></li>
+
+                                                        </ul>
+                                                    </div>
+                                                    <div class="sub-menu-column">
+                                                        <ul>
+                                                            <li><a href="business"><font color="#ff822e"
+                                                                                         size="3.5px">Business</font></a></li>
+                                                            <li><a href="ipg">IPG</a></li>
+                                                            <li><a href="merchant">Merchant App</a></li>
+                                                            <li><a href="pos">POS</a></li>
+                                                            <li><a href="vpos">VPOS</a></li>
+                                                            <li><a href="whitelable">Platform</a></li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="sub-menu-column">
+                                                        <ul>
+                                                            <li><a href="https://www.directpay.lk/developer/"><font color="#012480"
+                                                                                                                    size="3.5px">Developer</font></a>
+                                                            </li>
+                                                            <li><a href="https://www.directpay.lk/developer/">Sandbox</a></li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="sub-menu-column">
+                                                        <a href="#"><img src="images/banner/header-1.jpg" alt="" class="img-fluid"></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
+                                <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
+                                <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
+                                <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
+                                <li><a href="#" class="menu-links right-bddr">&nbsp;</a>
 
 
+                            </ul>
+                        </div>
+                        <div class="mobile-menu2">
+                            <ul class="mob-nav2">
 
-</ul>
-</div>
-<div class="mobile-menu2">
-<ul class="mob-nav2">
+                                <li class="navm-"><a class="toggle" href="#"><span></span></a></li>
+                            </ul>
+                        </div>
+                    </div>
 
-<li class="navm-"> <a class="toggle" href="#"><span></span></a></li>
-</ul>
-</div>
-</div>
-<!--Mobile Menu-->
-<nav id="main-nav">
-<ul class="first-nav">
-<li><a href="index">Home</a>
+                    <!--Mobile Menu-->
+                    <nav id="main-nav">
+                        <ul class="first-nav">
+                            <li><a href="/">Home</a>
 
-</li>
-<li><a href="">Services and Solutions</a>
-<ul>
-<li><a href="index"><font color="#012480" size="3.5px">Consumer</font></a></li>
-												<li><a href="index">User App</a></li>
-												<li><a href="web">Web</a></li>
-<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
-												<li><a href="ipg">IPG</a></li>
-												<li><a href="merchant">Merchant App</a> </li>
-												<li><a href="pos">POS</a> </li>
-												<li><a href="vpos">VPOS</a> </li>
-												<li><a href="whitelable">White Lable</a> </li>
-<li><a href="https://www.directpay.lk/developer/"><font color="#012480" size="3.5px">Developer</font></a> </li>
-												<li><a href="https://www.directpay.lk/developer/">Sandbox</a> </li>
+                            </li>
+                            <li><a href="">Services and Solutions</a>
+                                <ul>
+                                    <li><a href="user"><font color="#012480" size="3.5px">Consumer</font></a></li>
+                                    <li><a href="user-app">User App</a></li>
+                                    <li><a href="web">Web</a></li>
+                                    <li><a href="business"><font color="#012480" size="3.5px">Business</font></a></li>
+                                    <li><a href="ipg">IPG</a></li>
+                                    <li><a href="merchant">Merchant App</a></li>
+                                    <li><a href="pos">POS</a></li>
+                                    <li><a href="vpos">VPOS</a></li>
+                                    <li><a href="whitelable">Platform</a></li>
+                                    <li><a href="https://www.directpay.lk/developer/"><font color="#012480"
+                                                                                            size="3.5px">Developer</font></a></li>
+                                    <li><a href="https://www.directpay.lk/developer/">Sandbox</a></li>
 
-</ul>
-</li>
-<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
-					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
-					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
-					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
-</ul>
+                                </ul>
+                            </li>
+                            <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
+                            <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
+                            <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
+                            <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
+                        </ul>
 
-</nav>
-</div>
-</header>
+                    </nav>
+                </div>
+
+
+            </header>
 
 <!--Mobile contact-->
 <div class="popup-modal1">
