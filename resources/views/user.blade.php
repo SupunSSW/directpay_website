@@ -273,7 +273,7 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="col-lg-6">
                 <div class="common-heading-2 text-l">
                     <div class="container">
-                        <center><div><br/>
+                        <center><div>
                                 <h2>Download the DirectPay App and pay your bills with ease!</h2>
                                 <br/>
 
