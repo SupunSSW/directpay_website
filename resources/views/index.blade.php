@@ -613,7 +613,7 @@ Removes white gap between slides - chagnge to base color of slide images
         <div class="-cta-btn mt60">
             <div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.4s">
 
-                <a href="awards" class="btn-main bg-btn2 lnk">Read more<i class="fas fa-chevron-right fa-icon"></i><span
+                <a href="news" class="btn-main bg-btn2 lnk">Read more<i class="fas fa-chevron-right fa-icon"></i><span
                         class="circle"></span></a>
             </div>
         </div>
