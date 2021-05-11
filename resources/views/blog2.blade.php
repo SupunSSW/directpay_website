@@ -282,7 +282,7 @@
                         <h3 class="mb30">Recent post</h3>
                         <div class="media">
                             <div class="post-image bdr-radius">
-                                <a href="blog3"><img src="images/blog/blog-small.jpg" alt="girl" class="img-fluid"/></a>
+                                <a href="blog3"><img src="images/blog/blog-small2.jpg" alt="girl" class="img-fluid"/></a>
                             </div>
                             <div class="media-body post-info">
                                 <h5><a href="blog3">Fintech startups make Sri Lanka proud by winning Gold and Merit
@@ -292,7 +292,7 @@
                         </div>
                         <div class="media">
                             <div class="post-image bdr-radius">
-                                <a href="blog4"><img src="images/blog/blog-small2.jpg" alt="girl"
+                                <a href="blog4"><img src="images/blog/blog-small3.jpg" alt="girl"
                                                      class="img-fluid"/></a>
                             </div>
                             <div class="media-body post-info">
@@ -303,7 +303,7 @@
                         </div>
                         <div class="media">
                             <div class="post-image bdr-radius">
-                                <a href="blog5"><img src="images/blog/blog-small.jpg" alt="girl" class="img-fluid"/></a>
+                                <a href="blog5"><img src="images/blog/blog-small4.jpg" alt="girl" class="img-fluid"/></a>
                             </div>
                             <div class="media-body post-info">
                                 <h5><a href="blog5">Paymedia wins big at Disrupt Asia 2017</a></h5>

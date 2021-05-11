@@ -376,7 +376,7 @@ Removes white gap between slides - chagnge to base color of slide images
         <br/>
         <center>
             <div class="col-lg-8">
-                <div class="common-heading ptag">
+                <div class="common-heading-2">
                     <?php
                     function isMobile()
                     {
@@ -397,7 +397,7 @@ Removes white gap between slides - chagnge to base color of slide images
         </center>
         <div class="row mt30">
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.1s"><a href="user-app">
-                    <div class="industry-workfor hoshd"><img src="images/icons/house.svg" alt="img"> <h6><font
+                    <div class="industry-workfor hoshd"><img src="images/icons/applications.png" alt="img"> <h6><font
                                 color="#012480">Consumer App</font></h6></div>
                 </a></div>
 
@@ -417,12 +417,12 @@ Removes white gap between slides - chagnge to base color of slide images
                 </a></div>
 
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.9s"><a href="vpos">
-                    <div class="industry-workfor hoshd"><img src="images/icons/event.svg" alt="img"> <h6><font
+                    <div class="industry-workfor hoshd"><img src="images/icons/cashless.png" alt="img"> <h6><font
                                 color="#ff822e">VPOS</font></h6></div>
                 </a></div>
 
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="1.1s"><a href="merchant">
-                    <div class="industry-workfor hoshd"><img src="images/icons/smartphone.svg" alt="img"> <h6><font
+                    <div class="industry-workfor hoshd"><img src="images/icons/merchants.png" alt="img"> <h6><font
                                 color="#ff822e">Merchant App</font></h6></div>
                 </a></div>
 
@@ -451,15 +451,28 @@ Removes white gap between slides - chagnge to base color of slide images
         <div class="row justify-content-center">
             <div class="col-lg">
 
-                <div class="common-heading ptag">
-                    <h2>DirectPay in Numbers</h2>
+                <div class="common-heading-2">
+                    <h2 class="mb30">DirectPay in Numbers</h2>
                 </div>
                 <br/>
+                <div class="row justify-content-center t-ctr">
+                <div class="col-lg-4 col-sm-6">
+                    <div class="statistics">
+                        <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
+                            <img src="images/icons/worth.png" alt="team" class="img-fluid" />
+                        </div>
+                        <div class="statnumb">
+                            <span class="counter">3</span><span>&nbsp;B+</span>
+                            <p>Worth Transactions</p>
+                        </div>
+                    </div>
+                </div>
+                </div>
                 <div class="row small t-ctr">
                     <div class="col-lg-3 col-sm-6">
                         <div class="statistics">
                             <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-                                <img src="images/icons/deal.svg" alt="happy" class="img-fluid"/>
+                                <img src="images/icons/transactions.png" alt="happy" class="img-fluid"/>
                             </div>
                             <div class="statnumb">
                                 <span class="counter">500</span><span>k+</span>
@@ -470,7 +483,7 @@ Removes white gap between slides - chagnge to base color of slide images
                     <div class="col-lg-3 col-sm-6">
                         <div class="statistics">
                             <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-                                <img src="images/icons/computers.svg" alt="project" class="img-fluid"/>
+                                <img src="images/icons/platforms.png" alt="project" class="img-fluid"/>
                             </div>
                             <div class="statnumb counter-number">
                                 <span class="counter">11</span>
@@ -481,7 +494,7 @@ Removes white gap between slides - chagnge to base color of slide images
                     <div class="col-lg-3 col-sm-6">
                         <div class="statistics">
                             <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-                                <img src="images/icons/worker.svg" alt="work" class="img-fluid"/>
+                                <img src="images/icons/merchants.png" alt="work" class="img-fluid"/>
                             </div>
                             <div class="statnumb">
                                 <span class="counter">7000</span><span>+</span>
@@ -492,7 +505,7 @@ Removes white gap between slides - chagnge to base color of slide images
                     <div class="col-lg-3 col-sm-6">
                         <div class="statistics mb0">
                             <div data-tilt data-tilt-max="20" data-tilt-speed="1000" class="statistics-img">
-                                <img src="images/icons/customer-service.svg" alt="support" class="img-fluid"/>
+                                <img src="images/icons/users.png" alt="support" class="img-fluid"/>
                             </div>
                             <div class="statnumb">
                                 <span class="counter">27000</span><span>+</span>
@@ -518,7 +531,7 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="col-lg-8">
                 <div class="common-heading-2">
 
-                    <h2 class="mb30">DirectPay Newsroom</h2>
+                    <h2 class="mb30">DirectPay News Room</h2>
                     <h6>Press resources and recent coverage</h6>
                 </div>
             </div>
@@ -606,12 +619,12 @@ Removes white gap between slides - chagnge to base color of slide images
         </div>
     </div>
 </section>
-<br><br>
+<br>
 <section class="service-block bg-gradient6 pad-tb">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">
-                <div class="common-heading ptag">
+                <div class="common-heading-2">
 
                     <h2>Award-winning service</h2>
                     <h6 class="mb30">need subline for this</h6>

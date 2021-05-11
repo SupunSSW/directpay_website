@@ -300,7 +300,8 @@
 
                         <div class="details">
                             <ul>
-                                <li><font size="2px">No Service fee</font></li>
+                                <li><font size="2px">Merchant ID</font></li>
+                                <li>LKR 3000/month <font size="2px">- Service fee</font></li>
                                 <hr>
                                 <li><font size="2px">Per Transaction Limit</font><br>LKR 50,000</li>
                                 <hr>
@@ -336,6 +337,7 @@
                                 network fees & processor fees)</font></p>
                         <div class="details">
                             <ul>
+                                <li><font size="2px">Merchant ID</font></li>
                                 <li>LKR 3000/month <font size="2px">- Service fee</font></li>
                                 <hr>
                                 <li><font size="2px">Per Transaction Limit</font><br>LKR 250,000</li>
@@ -373,6 +375,7 @@
                                 network fees & processor fees)</font></p>
                         <div class="details">
                             <ul>
+                                <li><font size="2px">Merchant ID</font></li>
                                 <li>LKR 5,000/month <font size="2px">- Service fee</font></li>
                                 <hr>
                                 <li><font size="2px">Per Transaction Limit</font><br>LKR 1,000,000</li>

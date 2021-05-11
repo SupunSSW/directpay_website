@@ -268,7 +268,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4 v-center">
-                <h4 class="mb10">Awards 2018-2020</h4>
+                <h4 class="mb10">Awards 2020</h4>
 
             </div>
             <div class="col-lg">
@@ -284,10 +284,14 @@
         </div>
     </div>
 </div>
+<hr>
 <div class="footer-brands">
     <div class="container">
         <div class="row">
+            <div class="col-lg-4 v-center">
+                <h4 class="mb10">Awards 2018</h4>
 
+            </div>
             <div class="col-lg">
                 <ul class="footer-badges-">
                     <li><a href="#"><img src="images/awards/3.png" alt="badges"></a></li>
@@ -318,12 +322,12 @@
         </div>
     </div>
 </div>
-<hr class="hr-text" data-content="AND">
+<hr>
 <div class="footer-brands">
     <div class="container">
         <div class="row">
             <div class="col-lg-4 v-center">
-                <h4 class="mb10">Awards 2015-2017</h4>
+                <h4 class="mb10">Awards 2017</h4>
 
             </div>
             <div class="col-lg">
@@ -339,11 +343,14 @@
         </div>
     </div>
 </div>
-
+<hr>
 <div class="footer-brands">
     <div class="container">
         <div class="row">
+            <div class="col-lg-4 v-center">
+                <h4 class="mb10">Awards 2015</h4>
 
+            </div>
             <div class="col-lg">
                 <ul class="footer-badges-">
                     <li><a href="#"><img src="images/awards/5.png" alt="badges"></a></li>

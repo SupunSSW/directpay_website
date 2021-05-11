@@ -277,10 +277,10 @@
                 </div>
                 <br/>
                 <div class="hover-scale mt0 m-mb30">
-                    <center><img src="images/devices/sunmi.png" alt="about" class="img-fluid upset" width="17%"/>
-                    <img src="images/about/p2-lite.png" alt="about" class="img-fluid upset" width="17%"/>
-                    <img src="images/devices/sunyard.png" alt="about" class="img-fluid upset" width="17%"/>
-                    <img src="images/about/sunyard-lite.png" alt="about" class="img-fluid upset" width="17%"/></center>
+                    <center>
+                    <img src="images/about/p2-lite.png" alt="about" class="img-fluid upset" width="30%"/>
+                    <img src="images/devices/sunyard.png" alt="about" class="img-fluid upset" width="30%"/>
+                    <img src="images/about/sunyard-lite.png" alt="about" class="img-fluid upset" width="30%"/></center>
                     <div class="shape-dg-1 dg-hero-shp1"><img src="images/shape/dots-dg.png" alt="shape"
                                                               class="img-fluid"></div>
                 </div>
@@ -288,7 +288,7 @@
         </div>
     </div>
 </section>
-<br><br><br><br>
+<br><br>
 
 
 <!--End Hero-->
@@ -314,7 +314,8 @@
 
                         <div class="details">
                             <ul>
-                                <li>- <font size="2px"></font></li>
+                                <li><font size="2px">Merchant ID</font></li>
+                                <li>LKR 3000/month <font size="2px">- Service fee</font></li>
                                 <hr>
                                 <li><font size="2px">Per transaction limit </font><br>LKR 50,000</li>
 
@@ -357,7 +358,8 @@
                                 network fees & processor fees)</font></p>
                         <div class="details">
                             <ul>
-                                <li>LKR 3000 <font size="2px">/per month</font></li>
+                                <li><font size="2px">Merchant ID</font></li>
+                                <li>LKR 3000/month <font size="2px">- Service fee</font></li>
                                 <hr>
                                 <li><font size="2px">Per transaction limit </font><br>LKR 100,000</li>
 
@@ -404,6 +406,7 @@
                                 network fees & processor fees)</font></p>
                         <div class="details">
                             <ul>
+                                <li><font size="2px">Merchant ID</font></li>
                                 <li>LKR 5000 <font size="2px">/per month</font></li>
                                 <hr>
                                 <li><font size="2px">Per transaction limit </font><br>LKR 500,000</li>
@@ -442,11 +445,15 @@
         </div>
     </div>
 </section>
-<br><br>
+<br>
 
 <section class="block-a1 pad-tb">
     <div class="container">
         <center>
+            <h6>Device Offer</h6>
+            <p><font color="#333" size="2px">Device will be free of charge with minimum commitment of 300,000 LKR.</font></p>
+
+<br/><br/>
             <h6>Cross-Border Foreign Currency Fees</h6>
             <p><font color="#333" size="2px">Accepting payments in foreign currencies will incur a 1.5% additional fee
                     above the
