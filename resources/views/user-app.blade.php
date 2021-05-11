@@ -250,11 +250,11 @@
                                 }
                                 if (isMobile()) {
                                     echo '<a href="https://play.google.com/store/apps/details?id=com.directpay.userapp"
-                   data-wow-delay=".6s"><img src="images/icons/playstore.png" width=30%" >
+                   data-wow-delay=".6s"><img src="images/icons/playstore.png" width=34%" >
                 </a>
 
                 <a href="https://apps.apple.com/us/app/directpay/id1437707340"
-                   data-wow-delay=".6s"><img src="images/icons/appstore.png" width=30%"></a>';
+                   data-wow-delay=".6s"><img src="images/icons/appstore.png" width=34%"></a>';
 
                                 }else {
                                     echo '<a href="https://play.google.com/store/apps/details?id=com.directpay.userapp"

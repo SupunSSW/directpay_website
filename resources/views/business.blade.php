@@ -2,7 +2,7 @@
 <html lang="en" class="no-js">
 <head>
     <meta charset="utf-8"/>
-    <title>DirectPay - Consumer</title>
+    <title>DirectPay - Business</title>
     <meta name="description"
           content="DirectPay is your digital partner that simplifies the checkout process across your purchases online in Sri Lanka.">
     <meta name="keywords" content="Directpay">
