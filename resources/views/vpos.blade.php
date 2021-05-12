@@ -288,11 +288,11 @@
 
                         <div class="details">
                             <ul>
-                                <li>- <font size="2px"></font></li>
+                                <li><font size="2px">Merchant ID</font></li>
+                                <li>LKR 3,000/month <font size="2px">- Service fee</font></li>
+
                                 <hr>
-                                <li><font size="2px">Per transaction limit </font><br>LKR 25,000</li>
-                                <hr>
-                                <li><font size="2px">Maximum number of transactions per month </font><br>50</li>
+                                <li><font size="2px">Maximum number of transactions per month </font><br>Unlimited</li>
                                 <hr>
                                 <li><font size="2px">Monthly Payment Limit</font><br>Below LKR 1 Million / month</li>
                                 <hr>
@@ -325,11 +325,11 @@
                                 network fees & processor fees)</font></p>
                         <div class="details">
                             <ul>
-                                <li>LKR 500 <font size="2px">/per month</font></li>
+                                <li><font size="2px">Merchant ID</font></li>
+                                <li>LKR 3,000/month <font size="2px">- Service fee</font></li>
+
                                 <hr>
-                                <li><font size="2px">Per transaction limit </font><br>LKR 50,000</li>
-                                <hr>
-                                <li><font size="2px">Maximum number of transactions per month </font><br>100</li>
+                                <li><font size="2px">Maximum number of transactions per month </font><br>Unlimited</li>
                                 <hr>
                                 <li><font size="2px">Monthly Payment Limit</font><br>Below LKR 2 Million / month</li>
                                 <hr>
@@ -347,8 +347,7 @@
                             </ul>
                         </div>
                     </div>
-                    <a href="https://play.google.com/store/apps/details?id=com.directpay.vpos" class="btn-outline lnk">Get
-                        started <i
+                    <a href="https://play.google.com/store/apps/details?id=com.directpay.vpos" class="btn-outline lnk">Upgrade <i
                             class="fas fa-chevron-right fa-icon"></i> <span class="circle"></span></a>
                 </div>
             </div>
@@ -364,9 +363,9 @@
                                 network fees & processor fees)</font></p>
                         <div class="details">
                             <ul>
-                                <li>LKR 750 <font size="2px">/per month</font></li>
-                                <hr>
-                                <li><font size="2px">Per transaction limit </font><br>LKR 100,000</li>
+                                <li><font size="2px">Merchant ID</font></li>
+                                <li>LKR 5,000/month <font size="2px">- Service fee</font></li>
+
                                 <hr>
                                 <li><font size="2px">Maximum number of transactions per month </font><br>Unlimited</li>
                                 <hr>
@@ -386,8 +385,7 @@
                             </ul>
                         </div>
                     </div>
-                    <a href="https://play.google.com/store/apps/details?id=com.directpay.vpos" class="btn-outline lnk">Get
-                        started <i
+                    <a href="https://play.google.com/store/apps/details?id=com.directpay.vpos" class="btn-outline lnk">Upgrade <i
                             class="fas fa-chevron-right fa-icon"></i> <span class="circle"></span></a>
                 </div>
             </div>
@@ -398,19 +396,20 @@
 <section class="block-a1 pad-tb">
     <div class="container">
         <center>
+
             <h6>Cross-Border Foreign Currency Fees</h6>
-            <p><font color="#333" size="2px">Accepting payments in foreign currencies will incur a 1.5% additional fee
-                    above the
-                    standard Payment Processing Fee of your active plan. Amount will be converted to LKR at bank
-                    exchange rate and
-                    settled in LKR. If you have a Foreign currency account in Cargill’s Bank or Commercial Bank PLC you
-                    can receive
-                    the settlement in USD.</font></p><br><br>
+            <p><font color="#333" size="2px">Accepting payments in foreign currencies will incur a maximum of 1.5%
+                    additional fee above the standard Payment
+                    Processing Fee of your active plan. Amount will be converted to LKR at bank exchange rate & settled
+                    in LKR. If you have
+                    a Foreign currency account in Cargill’s Bank or Commercial Bank PLC you can receive the settlement
+                    in USD</font></p><br><br>
 
             <h6>Premium Card-Brand Fees</h6>
 
-            <p><font color="#333" size="2px">American Express, Discover & Diners Club, or any other premium
-                    cards there will be 1% additional fee above the standard Payment Processing Fee.</font>
+            <p><font color="#333" size="2px">American Express, Discover & Diners Club, or any other premium cards there
+                    will be 1% additional fee above the
+                    standard Payment Processing Fee</font>
             </p>
         </center>
 

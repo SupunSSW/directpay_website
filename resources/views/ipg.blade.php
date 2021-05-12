@@ -397,22 +397,23 @@
 <br><br>
 <section class="block-a1 pad-tb">
     <div class="container">
-            <center>
+        <center>
+
             <h6>Cross-Border Foreign Currency Fees</h6>
-            <p><font color="#333" size="2px">Accepting payments in foreign currencies will incur a 1.5% additional fee
-                    above the
-                    standard Payment Processing Fee of your active plan. Amount will be converted to LKR at bank
-                    exchange rate and
-                    settled in LKR. If you have a Foreign currency account in Cargill’s Bank or Commercial Bank PLC you
-                    can receive
-                    the settlement in USD.</font></p><br><br>
+            <p><font color="#333" size="2px">Accepting payments in foreign currencies will incur a maximum of 1.5%
+                    additional fee above the standard Payment
+                    Processing Fee of your active plan. Amount will be converted to LKR at bank exchange rate & settled
+                    in LKR. If you have
+                    a Foreign currency account in Cargill’s Bank or Commercial Bank PLC you can receive the settlement
+                    in USD</font></p><br><br>
 
             <h6>Premium Card-Brand Fees</h6>
 
-            <p><font color="#333" size="2px">American Express, Discover & Diners Club, or any other premium
-                cards there will be 1% additional fee above the standard Payment Processing Fee.</font>
+            <p><font color="#333" size="2px">American Express, Discover & Diners Club, or any other premium cards there
+                    will be 1% additional fee above the
+                    standard Payment Processing Fee</font>
             </p>
-            </center>
+        </center>
 
     </div>
 </section>
