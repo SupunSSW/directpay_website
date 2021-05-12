@@ -230,11 +230,7 @@
     <div class="container">
         <div class="row justify-content-center">
 
-            <div class="common-heading-2 text-l">
-                <center><h2 class="mb30"><font color="#333">DirectPay Web Portal</font></h2></center>
-                <center><h6><span>Digital Service Portal,Make Payment For Digital Services</span></h6></center>
-                <br>
-            </div>
+
 
             <!--whyus end-->
             <br><br><br>
@@ -255,6 +251,11 @@
             </div>
             <div class="col-lg-6">
                 <div class="common-heading-2 text-l">
+                    <div class="common-heading-2 text-l">
+                        <center><h2 class="mb30"><font color="#333">DirectPay Web Portal</font></h2></center>
+                        <center><h6><span>Digital Service Portal,Make Payment For Digital Services</span></h6></center>
+                        <br>
+                    </div>
                     <center><h5><br> A portal for digital services where customers could log in and conveniently make
                             their day-to-day payments.</h5></center>
                     <br><br>

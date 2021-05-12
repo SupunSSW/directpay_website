@@ -24,9 +24,6 @@
 </head>
 <body>
 
-<!--Start Header -->
-
-<!-- top bar end -->
 <header class="nav-bg-w main-header navfix fixed-top menu-white">
 
     <div class="container">
@@ -133,7 +130,6 @@
 
 
 </header>
-
 <!--Mobile contact-->
 <div class="popup-modal1">
     <div class="modal" id="menu-popup">
@@ -170,48 +166,8 @@
         </div>
     </div>
 </div>
-<!--Mobile contact-->
 
-<!--End Header -->
-<!--Mobile contact-->
-<div class="popup-modal1">
-    <div class="modal" id="menu-popup">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <div class="common-heading">
-                        <h4 class="mt0 mb0">Write a Message</h4>
-                    </div>
-                    <button type="button" class="closes" data-dismiss="modal">&times;</button>
-                </div>
-                <!-- Modal body -->
-                <div class="modal-body">
-                    <div class="form-block fdgn2 mt10 mb10">
-                        <form action="#" method="post" name="feedback-form">
-                            <div class="fieldsets row">
-                                <div class="col-md-12"><input type="text" placeholder="Full Name" name="name"></div>
-                                <div class="col-md-12"><input type="email" placeholder="Email Address" name="email">
-                                </div>
-                                <div class="col-md-12"><input type="number" placeholder="Contact Number" name="phone">
-                                </div>
-                                <div class="col-md-12"><input type="text" placeholder="Subject" name="subject"></div>
-                                <div class="col-md-12"><textarea placeholder="Message" name="message"></textarea></div>
-                            </div>
-                            <div class="fieldsets mt20 pb20">
-                                <button type="submit" name="submit" class="lnk btn-main bg-btn" data-dismiss="modal">
-                                    Submit <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span>
-                                </button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!--Mobile contact-->
 
-<!--End Header -->
 <!--Start Hero-->
 <section class="breadcrumb-area banner-1" data-background="images/banner/9.jpg">
     <div class="text-block">
@@ -227,7 +183,6 @@
         </div>
     </div>
 </section>
-
 
 
 <section class="about-dg-2 pb120 pt120 bg-flat1 m-t-c">
@@ -257,6 +212,7 @@
                     <center>
 
                         <br><br>
+                        <div class="container">
                         <?php
                         function isMobile()
                         {
@@ -264,7 +220,7 @@
                         }
                         if (isMobile()) {
                             echo '<a href="https://play.google.com/store/apps/details?id=com.directpay.vpos"
-                   data-wow-delay=".6s"><img src="images/icons/playstore.png" width=32%" >
+                   data-wow-delay=".6s"><img src="images/icons/playstore.png" width=42%" >
                 </a>
 
                ';
@@ -278,7 +234,7 @@
                         }
 
                         ?>
-                        <span class="circle"></span></a>
+                        </div>
 
 
                     </center>
@@ -353,7 +309,9 @@
                             </ul>
                         </div>
                     </div>
-
+                    <a href="https://play.google.com/store/apps/details?id=com.directpay.vpos" class="btn-outline lnk">Get
+                        started <i
+                            class="fas fa-chevron-right fa-icon"></i> <span class="circle"></span></a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -389,7 +347,9 @@
                             </ul>
                         </div>
                     </div>
-
+                    <a href="https://play.google.com/store/apps/details?id=com.directpay.vpos" class="btn-outline lnk">Get
+                        started <i
+                            class="fas fa-chevron-right fa-icon"></i> <span class="circle"></span></a>
                 </div>
             </div>
 
@@ -426,7 +386,9 @@
                             </ul>
                         </div>
                     </div>
-
+                    <a href="https://play.google.com/store/apps/details?id=com.directpay.vpos" class="btn-outline lnk">Get
+                        started <i
+                            class="fas fa-chevron-right fa-icon"></i> <span class="circle"></span></a>
                 </div>
             </div>
         </div>

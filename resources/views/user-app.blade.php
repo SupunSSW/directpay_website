@@ -232,14 +232,15 @@
         <div class="row">
             <div class="col-lg-6 v-center">
                 <div class="img-block hover-scale mt0 m-mb30">
-                    <img src="images/about/finance-cuate.png" class="img-fluid upset" />
+                    <img src="images/about/finance-cuate.png" class="img-fluid upset"/>
 
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="common-heading-2 text-l">
                     <div class="container">
-                        <center><div><br/>
+                        <center>
+                            <div><br/>
                                 <h2>Download the DirectPay App and pay your bills with ease!</h2>
                                 <br/>
 
@@ -256,7 +257,7 @@
                 <a href="https://apps.apple.com/us/app/directpay/id1437707340"
                    data-wow-delay=".6s"><img src="images/icons/appstore.png" width=34%"></a>';
 
-                                }else {
+                                } else {
                                     echo '<a href="https://play.google.com/store/apps/details?id=com.directpay.userapp"
                    data-wow-delay=".6s" class="hover-scale mt0 m-mb30"><img src="images/icons/playstore.png" width=30%">
                 </a>
@@ -268,7 +269,8 @@
                                 ?>
 
                             </div>
-                        </center></div>
+                        </center>
+                    </div>
 
                 </div>
             </div>
@@ -330,7 +332,8 @@ Sri Lanka, 00700</span></p>
                 <h5 class="mb30 mt30">Be Connected</h5>
                 <div class="ff-social-icons mt30">
                     <a href="https://www.facebook.com/directpay.srilanka" target="blank"><i class="fab fa-facebook"></i></a>
-                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i
+                            class="fab fa-youtube"></i></a>
                     <a href="https://www.linkedin.com/company/54304577/" target="blank"><i class="fab fa-linkedin"></i></a>
                     <a href="https://www.instagram.com/directpay.lk/" target="blank"><i
                             class="fab fa-instagram"></i></a>
