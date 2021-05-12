@@ -325,7 +325,7 @@
                                         month contract period</font><br>
                                     OR<br><font size="2px">Device Cost<br>45,000/= Outright Purchase</font><br></li>
                                 <hr>-->
-                                <li><p>Device will be free with minimum commitment of 500,000 LKR.</p></li>
+                                <li><p>Device will be free with minimum monthly commitment of 500,000 LKR.</p></li>
                                 <hr>
                             </ul>
                         </div>
@@ -367,7 +367,7 @@
                                         month contract period</font><br>
                                     OR<br><font size="2px">Device Cost<br>45,000/= Outright Purchase</font><br></li>
                                 <hr>-->
-                                <li><p>Device will be free with minimum commitment of 650,000 LKR.</p></li>
+                                <li><p>Device will be free with minimum monthly commitment of 650,000 LKR.</p></li>
                                 <hr>
                             </ul>
                         </div>
@@ -411,7 +411,7 @@
                                         contract period</font><br>
                                     OR<br><font size="2px">Device Cost<br>45,000/= Outright Purchase</font><br></li>
                                 <hr>-->
-                                <li><p>Device will be free with minimum commitment of 800,000 LKR.</p></li>
+                                <li><p>Device will be free with minimum monthly commitment of 800,000 LKR.</p></li>
                                 <hr>
                             </ul>
                         </div>
