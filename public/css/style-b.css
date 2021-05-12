@@ -1457,7 +1457,7 @@ box-shadow: -30px 30px 60px #f2f2f2, 30px -30px 60px #f2f2f2;}
 background: #97979700;
 width: 90px;
 height: 90px;
-border-radius: 100%;
+border-radius: 0%;
 padding: 10px;
 }
 
@@ -1487,7 +1487,7 @@ border-top: 1px solid #e5e5e5;}
 background: #97979700;
 width: 90px;
 height: 90px;
-border-radius: 100%;
+border-radius: 0%;
 padding: 10px;
 border: 0px solid #ececec;}
 /**Case study page**/

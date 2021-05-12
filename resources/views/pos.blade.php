@@ -315,31 +315,29 @@
                         <div class="details">
                             <ul>
                                 <li><font size="2px">Merchant ID</font></li>
-                                <li>LKR 3000/month <font size="2px">- Service fee</font></li>
+                                <li>LKR 3500/month <font size="2px">- Service fee</font></li>
                                 <hr>
-                                <li><font size="2px">Per transaction limit </font><br>LKR 50,000</li>
 
-                                <hr>
-                                <li><font size="2px">SMS cost per transaction</font><br>LKR 2</li>
 
-                                <hr>
                                 <li><font size="2px">Customer Support</font><br>General Support</li>
                                 <br><br>
                                 <hr>
                                 <li><font size="2px">Device Charges</font><br>
                                     <a href="https://www.sunmi.com/en/P2pro/">
-                                        <img src="images/devices/sunmi.png" class="ignore" width="100%"></a>
-                                    <br>Sunmi P2 Pro Smart POS<br><font size="2px">Monthly Device Cost<br> LKR
+                                        <img src="images/devices/sunmib.png" class="ignore" width="100%"></a>
+                                    <br>Sunmi P2 Pro/Lite Smart POS<br><font size="2px">Monthly Device Cost<br> LKR
                                         3700/=<br>36 month
                                         contract period</font><br>
                                     OR<br><font size="2px">Device Cost<br>65,000/= Outright Purchase</font><br></li>
                                 <hr>
 
-                                <li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
+                                <!--<li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
                                         <img src="images/devices/sunyard.png" class="ignore" width="100%"></a>
                                     <br>Sunyard i80 Smart POS<br><font size="2px">Monthly Device Cost<br> LKR 2700/=<br>36
                                         month contract period</font><br>
                                     OR<br><font size="2px">Device Cost<br>45,000/= Outright Purchase</font><br></li>
+                                <hr>-->
+                                <li><p>Device will be free with minimum commitment of 500,000 LKR.</p></li>
                                 <hr>
                             </ul>
                         </div>
@@ -359,34 +357,30 @@
                         <div class="details">
                             <ul>
                                 <li><font size="2px">Merchant ID</font></li>
-                                <li>LKR 3000/month <font size="2px">- Service fee</font></li>
+                                <li>LKR 4000/month <font size="2px">- Service fee</font></li>
                                 <hr>
-                                <li><font size="2px">Per transaction limit </font><br>LKR 100,000</li>
 
 
-                                <hr>
-                                <li><font size="2px">SMS cost per transaction</font><br>LKR 2</li>
-
-
-                                <hr>
                                 <li><font size="2px">Customer Support</font><br>General Support<br>Technical Support
                                 </li>
                                 <br>
                                 <hr>
                                 <li><font size="2px">Device Charges</font><br>
                                     <a href="https://www.sunmi.com/en/P2pro/">
-                                        <img src="images/devices/sunmi.png" class="ignore" width="100%"></a>
-                                    <br>Sunmi P2 Pro Smart POS<br><font size="2px">Monthly Device Cost<br> LKR
+                                        <img src="images/devices/sunmib.png" class="ignore" width="100%"></a>
+                                    <br>Sunmi P2 Pro/Lite Smart POS<br><font size="2px">Monthly Device Cost<br> LKR
                                         3700/=<br>36 month
                                         contract period</font><br>
                                     OR<br><font size="2px">Device Cost<br>65,000/= Outright Purchase</font><br></li>
                                 <hr>
 
-                                <li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
+                                <!--<li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
                                         <img src="images/devices/sunyard.png" class="ignore" width="100%"></a>
                                     <br>Sunyard i80 Smart POS<br><font size="2px">Monthly Device Cost<br> LKR 2700/=<br>36
                                         month contract period</font><br>
                                     OR<br><font size="2px">Device Cost<br>45,000/= Outright Purchase</font><br></li>
+                                <hr>-->
+                                <li><p>Device will be free with minimum commitment of 650,000 LKR.</p></li>
                                 <hr>
                             </ul>
                         </div>
@@ -407,34 +401,31 @@
                         <div class="details">
                             <ul>
                                 <li><font size="2px">Merchant ID</font></li>
-                                <li>LKR 5000 <font size="2px">/per month</font></li>
+                                <li>LKR 4750 <font size="2px">/per month</font></li>
                                 <hr>
-                                <li><font size="2px">Per transaction limit </font><br>LKR 500,000</li>
-
-                                <hr>
-                                <li><font size="2px">SMS cost per transaction</font><br>LKR 2</li>
 
 
-                                <hr>
                                 <li><font size="2px">Customer Support</font><br>General Support<br>Technical Support<br>Key
                                     Account Manager
                                 </li>
                                 <hr>
                                 <li><font size="2px">Device Charges</font><br>
                                     <a href="https://www.sunmi.com/en/P2pro/">
-                                        <img src="images/devices/sunmi.png" class="ignore" width="100%"></a>
-                                    <br>Sunmi P2 Pro Smart POS<br><font size="2px">Monthly Device Cost<br> LKR
+                                        <img src="images/devices/sunmib.png" class="ignore" width="100%"></a>
+                                    <br>Sunmi P2 Pro/Lite Smart POS<br><font size="2px">Monthly Device Cost<br> LKR
                                         3700/=<br>36 month
                                         contract period</font><br>
                                     OR<br><font size="2px">Device Cost<br>65,000/= Outright Purchase</font><br></li>
                                 <hr>
 
-                                <li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
+                                <!--<li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
                                         <img src="images/devices/sunyard.png" class="ignore" width="100%"></a>
                                     <br>Sunyard i80 Smart POS<br><font size="2px">Monthly Device Cost<br> LKR 2700/=<br>36
                                         month
                                         contract period</font><br>
                                     OR<br><font size="2px">Device Cost<br>45,000/= Outright Purchase</font><br></li>
+                                <hr>-->
+                                <li><p>Device will be free with minimum commitment of 800,000 LKR.</p></li>
                                 <hr>
                             </ul>
                         </div>
@@ -450,10 +441,7 @@
 <section class="block-a1 pad-tb">
     <div class="container">
         <center>
-            <h6>Device Offer</h6>
-            <p><font color="#333" size="2px">Device will be free of charge with minimum commitment of 300,000 LKR.</font></p>
 
-<br/><br/>
             <h6>Cross-Border Foreign Currency Fees</h6>
             <p><font color="#333" size="2px">Accepting payments in foreign currencies will incur a 1.5% additional fee
                     above the

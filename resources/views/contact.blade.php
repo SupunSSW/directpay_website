@@ -48,7 +48,7 @@
                                         <div class="sub-menu-column">
                                             <ul>
                                                 <li><a href="user"><font color="#012480"
-                                                                             size="3.5px">Consumer</font></a></li>
+                                                                         size="3.5px">Consumer</font></a></li>
                                                 <li><a href="user-app">User App</a></li>
                                                 <li><a href="web">Web</a></li>
 
@@ -183,7 +183,7 @@
                 <!-- Modal body -->
                 <div class="modal-body">
                     <div class="form-block fdgn2 mt10 mb10">
-                        <form action="#" method="post" name="feedback-form" >
+                        <form action="#" method="post" name="feedback-form">
                             <div class="fieldsets row">
                                 <div class="col-md-12"><input type="text" placeholder="Full Name" name="name"></div>
                                 <div class="col-md-12"><input type="email" placeholder="Email Address" name="email">
@@ -279,17 +279,16 @@
                             </div>
                         </div>
                         <div class="fieldsets form-group"><textarea id="form_message" name="message"
-                                                                    placeholder="Message for me *" rows="4"
+                                                                    placeholder="Message " rows="4"
                                                                     required="required"
                                                                     data-error="Please, leave us a message."></textarea>
                             <div class="help-block with-errors"></div>
                         </div>
 
                         <div class="custom-control custom-checkbox">
-                            <input type="checkbox" class="custom-control-input" id="customCheck" name="example1"
-                                   checked="checked">
+                            <input type="checkbox" class="custom-control-input" id="customCheck" name="example1">
                             <label class="custom-control-label" for="customCheck">I agree to the <a
-                                    href="javascript:void(0)">Terms &amp; Conditions</a> of Business Name.</label>
+                                    href="terms">Terms &amp; Conditions</a> of Business Name.</label>
                         </div>
                         <div class="fieldsets mt20">
                             <button type="submit" class="lnk btn-main bg-btn">Submit <span class="circle"></span>
@@ -326,7 +325,7 @@
     </div>
 </section>
 
-<br><br><br>
+<br><br><br><br/>
 <!--Start Footer-->
 <footer class="dark-footer dg-bg--1 pt60 upset dark-footer-1">
     <div class="up-curvs">
@@ -373,7 +372,8 @@ Sri Lanka, 00700</span></p>
                 <h5 class="mb30 mt30">Be Connected</h5>
                 <div class="ff-social-icons mt30">
                     <a href="https://www.facebook.com/directpay.srilanka" target="blank"><i class="fab fa-facebook"></i></a>
-                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i
+                            class="fab fa-youtube"></i></a>
                     <a href="https://www.linkedin.com/company/54304577/" target="blank"><i class="fab fa-linkedin"></i></a>
                     <a href="https://www.instagram.com/directpay.lk/" target="blank"><i
                             class="fab fa-instagram"></i></a>
@@ -400,6 +400,32 @@ Sri Lanka, 00700</span></p>
 <!--End Footer-->
 <!--scroll to top-->
 <a id="scrollUp" href="#top"></a>
+
+<!-- Messenger Chat plugin Code -->
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            xfbml: true,
+            version: 'v10.0'
+        });
+    };
+
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!-- Your Chat plugin code -->
+<div class="fb-customerchat"
+     attribution="biz_inbox"
+     page_id="137549680135741">
+</div>
 <!-- js placed at the end of the document so the pages load faster -->
 <script src="js/vendor/modernizr-3.5.0.min.js"></script>
 <script src="js/jquery.min.js"></script>

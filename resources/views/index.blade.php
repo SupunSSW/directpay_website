@@ -401,7 +401,7 @@ Removes white gap between slides - chagnge to base color of slide images
                                 color="#012480">Consumer App</font></h6></div>
                 </a></div>
 
-            <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.3s"><a href="billers">
+            <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.3s"><a href="web">
                     <div class="industry-workfor hoshd"><img src="images/icons/travel-case.svg" alt="img"> <h6><font
                                 color="#012480">Web Portal</font></h6></div>
                 </a></div>
@@ -462,7 +462,7 @@ Removes white gap between slides - chagnge to base color of slide images
                             <img src="images/icons/worth.png" alt="team" class="img-fluid" />
                         </div>
                         <div class="statnumb">
-                            <span class="counter">3</span><span>&nbsp;B+</span>
+                            <span class="counter">3</span><span>&nbsp;Billion +</span>
                             <p>Worth Transactions</p>
                         </div>
                     </div>

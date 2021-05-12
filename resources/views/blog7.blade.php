@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8"/>
     <title>News - DirectPay</title>
-    <meta name="description" content="Creative Agency, Marketing Agency Template">
-    <meta name="keywords" content="Creative Agency, Marketing Agency">
-    <meta name="author" content="rajesh-doot">
+    <meta name="description" content="DirectPay wins national “Best Disruptor” award from SLASSCOM">
+    <meta name="keywords" content="Slasscom awards 2021">
+    <meta name="author" content="Directpay">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#fff">
@@ -74,9 +74,7 @@
                                                 <li><a href="https://www.directpay.lk/developer/">Sandbox</a></li>
                                             </ul>
                                         </div>
-                                        <div class="sub-menu-column">
-                                            <a href="#"><img src="images/banner/header-1.jpg" alt="" class="img-fluid"></a>
-                                        </div>
+
                                     </div>
                                 </div>
                             </div>

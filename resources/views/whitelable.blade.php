@@ -280,6 +280,11 @@
                         </div>
                     </div>
                 </div>
+                <br>
+                <center>
+                    <a href="contact" class="btn-outline lnk">Contact us <i
+                            class="fas fa-chevron-right fa-icon"></i> <span class="circle"></span></a>
+                </center>
             </div>
 
         </div>
