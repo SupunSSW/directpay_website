@@ -290,10 +290,10 @@
 
                         <div class="details">
                             <ul>
-                                <li><font size="2px">Merchant ID</font></li>
-                                <li>LKR 3000/month <font size="2px">- Service fee</font></li>
+
+                                <li><font size="2px">No Service fee</font></li>
                                 <hr>
-                                <li><font size="2px">Per Transaction Limit</font><br>LKR 50,000</li>
+                                <li><font size="2px">Per Transaction Limit</font><br>Unlimited</li>
                                 <hr>
                                 <li>All Solutions<br><font size="2px">Links<br>Plugins<br>APIs<br>SDKs</font></li>
                                 <hr>
@@ -306,8 +306,7 @@
                                 <li><font size="2px">Cross-Border Foreign Currency Fees</font><br>Accepted</li>
                                 <br><br>
                                 <hr>
-                                <li><font size="2px">Premium Card-Brand Fees</font><br>Accepted</li>
-                                <br><br>
+
 
                             </ul>
                         </div>
@@ -327,15 +326,15 @@
                                 network fees & processor fees)</font></p>
                         <div class="details">
                             <ul>
-                                <li><font size="2px">Merchant ID</font></li>
+
                                 <li>LKR 3000/month <font size="2px">- Service fee</font></li>
                                 <hr>
-                                <li><font size="2px">Per Transaction Limit</font><br>LKR 250,000</li>
+                                <li><font size="2px">Per Transaction Limit</font><br>Unlimited</li>
                                 <hr>
                                 <li>All Solutions<br><font size="2px">Links<br>Plugins<br>APIs<br>SDKs</font></li>
                                 <hr>
                                 <li><font size="2px">Payment Charging Methods</font><br>One-time Payments<br>Recurring
-                                    Payments<br><font size="2px">(Tokenization fee LKR 5 per card per month)</font></li>
+                                    Payments<br><font size="2px">(Tokenization fee LKR 8 per card per month)</font></li>
                                 <hr>
                                 <li><font size="2px">Customer Support</font><br>General Support<br>Technical Support
                                 </li>
@@ -344,8 +343,7 @@
                                 <li><font size="2px">Cross-Border Foreign Currency Fees</font><br>Accepted</li>
                                 <br><br>
                                 <hr>
-                                <li><font size="2px">Premium Card-Brand Fees</font><br>Accepted</li>
-                                <br><br>
+
                             </ul>
                         </div>
                     </div>
@@ -365,15 +363,15 @@
                                 network fees & processor fees)</font></p>
                         <div class="details">
                             <ul>
-                                <li><font size="2px">Merchant ID</font></li>
+
                                 <li>LKR 5,000/month <font size="2px">- Service fee</font></li>
                                 <hr>
-                                <li><font size="2px">Per Transaction Limit</font><br>LKR 1,000,000</li>
+                                <li><font size="2px">Per Transaction Limit</font><br>Unlimited</li>
                                 <hr>
                                 <li>All Solutions<br><font size="2px">Links<br>Plugins<br>APIs<br>SDKs</font></li>
                                 <hr>
                                 <li><font size="2px">Payment Charging Methods</font><br>One-time Payments<br>Recurring
-                                    Payments<br><font size="2px">(Tokenization fee LKR 5 per card per month)</font></li>
+                                    Payments<br><font size="2px">(Tokenization fee LKR 8 per card per month)</font></li>
                                 <hr>
                                 <li><font size="2px">Customer Support</font><br>General Support<br>Technical Support<br>Key
                                     Account Manager
@@ -382,8 +380,8 @@
                                 <li><font size="2px">Cross-Border Foreign Currency Fees</font><br>Accepted</li>
                                 <br><br>
                                 <hr>
-                                <li><font size="2px">Premium Card-Brand Fees</font><br>Accepted</li>
-                                <br><br>
+
+
                             </ul>
                         </div>
                     </div>
