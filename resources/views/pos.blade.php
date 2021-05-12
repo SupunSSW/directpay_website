@@ -233,8 +233,6 @@
 </section>
 
 
-
-
 <section class="about-dg-2 pb120 pt120 bg-flat1 m-t-c">
     <div class="container">
         <div class="row">
@@ -248,7 +246,8 @@
                 <div class="common-heading-2 text-l">
                     <div class="common-heading">
                         <h2 class="mb30">DirectPay Point of Sale Terminal</h2>
-                        <p><font color="#333" size="3px">A POS system that goes beyond a traditional electronic fund transfer
+                        <p><font color="#333" size="3px">A POS system that goes beyond a traditional electronic fund
+                                transfer
                                 POS by providing a digital basket of goods and services to merchants; making
                                 them a digitally enabled merchants.</font></p>
 
@@ -268,9 +267,10 @@
                 <br/>
                 <div class="hover-scale mt0 m-mb30">
                     <center>
-                    <img src="images/about/p2-lite.png" alt="about" class="img-fluid upset" width="30%"/>
-                    <img src="images/devices/sunyard.png" alt="about" class="img-fluid upset" width="30%"/>
-                    <img src="images/about/sunyard-lite.png" alt="about" class="img-fluid upset" width="30%"/></center>
+                        <img src="images/about/p2-lite.png" alt="about" class="img-fluid upset" width="30%"/>
+                        <img src="images/devices/sunyard.png" alt="about" class="img-fluid upset" width="30%"/>
+                        <img src="images/about/sunyard-lite.png" alt="about" class="img-fluid upset" width="30%"/>
+                    </center>
 
                 </div>
             </div>
@@ -303,13 +303,13 @@
 
                         <div class="details">
                             <ul>
-                               <li><font size="2px">Device Charges</font><br>
+                                <li><font size="2px">Device Charges</font><br>
                                     <a href="https://www.sunmi.com/en/P2pro/">
                                         <img src="images/devices/sunmib.png" class="ignore" width="100%"></a>
                                     <br>Sunmi P2 Pro/Lite Smart POS<br><font size="2px">36 month
                                         contract period</font><br>
                                     <br></li>
-                                <li>LKR 3500/month </li>
+                                <li>LKR 3500/month</li>
                                 <hr>
 
 
@@ -350,7 +350,7 @@
                                     <br>Sunmi P2 Pro/Lite Smart POS<br><font size="2px">36 month
                                         contract period</font><br>
                                     <br></li>
-                                <li>LKR 4000/month </li>
+                                <li>LKR 4000/month</li>
 
                                 <hr>
 
@@ -359,7 +359,6 @@
                                 </li>
                                 <br>
                                 <hr>
-
 
 
                                 <!--<li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
@@ -394,7 +393,7 @@
                                     <br>Sunmi P2 Pro/Lite Smart POS<br><font size="2px">36 month
                                         contract period</font><br>
                                     <br></li>
-                                <li>LKR 4750/month </li>
+                                <li>LKR 4750/month</li>
 
                                 <hr>
 
@@ -403,7 +402,6 @@
                                     Account Manager
                                 </li>
                                 <hr>
-
 
 
                                 <!--<li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
@@ -431,18 +429,18 @@
         <center>
 
             <h6>Cross-Border Foreign Currency Fees</h6>
-            <p><font color="#333" size="2px">Accepting payments in foreign currencies will incur a 1.5% additional fee
-                    above the
-                    standard Payment Processing Fee of your active plan. Amount will be converted to LKR at bank
-                    exchange rate and
-                    settled in LKR. If you have a Foreign currency account in Cargill’s Bank or Commercial Bank PLC you
-                    can receive
-                    the settlement in USD.</font></p><br><br>
+            <p><font color="#333" size="2px">Accepting payments in foreign currencies will incur a maximum of 1.5%
+                    additional fee above the standard Payment
+                    Processing Fee of your active plan. Amount will be converted to LKR at bank exchange rate & settled
+                    in LKR. If you have
+                    a Foreign currency account in Cargill’s Bank or Commercial Bank PLC you can receive the settlement
+                    in USD</font></p><br><br>
 
             <h6>Premium Card-Brand Fees</h6>
 
-            <p><font color="#333" size="2px">American Express, Discover & Diners Club, or any other premium
-                    cards there will be 1% additional fee above the standard Payment Processing Fee.</font>
+            <p><font color="#333" size="2px">American Express, Discover & Diners Club, or any other premium cards there
+                    will be 1% additional fee above the
+                    standard Payment Processing Fee</font>
             </p>
         </center>
 
@@ -497,7 +495,8 @@ Sri Lanka, 00700</span></p>
                 <h5 class="mb30 mt30">Be Connected</h5>
                 <div class="ff-social-icons mt30">
                     <a href="https://www.facebook.com/directpay.srilanka" target="blank"><i class="fab fa-facebook"></i></a>
-                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i
+                            class="fab fa-youtube"></i></a>
                     <a href="https://www.linkedin.com/company/54304577/" target="blank"><i class="fab fa-linkedin"></i></a>
                     <a href="https://www.instagram.com/directpay.lk/" target="blank"><i
                             class="fab fa-instagram"></i></a>
