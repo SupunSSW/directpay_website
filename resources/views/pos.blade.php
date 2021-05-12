@@ -303,21 +303,20 @@
 
                         <div class="details">
                             <ul>
-                                <li><font size="2px">Merchant ID</font></li>
-                                <li>LKR 3500/month <font size="2px">- Service fee</font></li>
+                               <li><font size="2px">Device Charges</font><br>
+                                    <a href="https://www.sunmi.com/en/P2pro/">
+                                        <img src="images/devices/sunmib.png" class="ignore" width="100%"></a>
+                                    <br>Sunmi P2 Pro/Lite Smart POS<br><font size="2px">36 month
+                                        contract period</font><br>
+                                    <br></li>
+                                <li>LKR 3500/month </li>
                                 <hr>
 
 
                                 <li><font size="2px">Customer Support</font><br>General Support</li>
                                 <br><br>
-                                <hr>
-                                <li><font size="2px">Device Charges</font><br>
-                                    <a href="https://www.sunmi.com/en/P2pro/">
-                                        <img src="images/devices/sunmib.png" class="ignore" width="100%"></a>
-                                    <br>Sunmi P2 Pro/Lite Smart POS<br><font size="2px">Monthly Device Cost<br> LKR
-                                        3700/=<br>36 month
-                                        contract period</font><br>
-                                    OR<br><font size="2px">Device Cost<br>65,000/= Outright Purchase</font><br></li>
+
+
                                 <hr>
 
                                 <!--<li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
@@ -345,8 +344,14 @@
                                 network fees & processor fees)</font></p>
                         <div class="details">
                             <ul>
-                                <li><font size="2px">Merchant ID</font></li>
-                                <li>LKR 4000/month <font size="2px">- Service fee</font></li>
+                                <li><font size="2px">Device Charges</font><br>
+                                    <a href="https://www.sunmi.com/en/P2pro/">
+                                        <img src="images/devices/sunmib.png" class="ignore" width="100%"></a>
+                                    <br>Sunmi P2 Pro/Lite Smart POS<br><font size="2px">36 month
+                                        contract period</font><br>
+                                    <br></li>
+                                <li>LKR 4000/month </li>
+
                                 <hr>
 
 
@@ -354,14 +359,8 @@
                                 </li>
                                 <br>
                                 <hr>
-                                <li><font size="2px">Device Charges</font><br>
-                                    <a href="https://www.sunmi.com/en/P2pro/">
-                                        <img src="images/devices/sunmib.png" class="ignore" width="100%"></a>
-                                    <br>Sunmi P2 Pro/Lite Smart POS<br><font size="2px">Monthly Device Cost<br> LKR
-                                        3700/=<br>36 month
-                                        contract period</font><br>
-                                    OR<br><font size="2px">Device Cost<br>65,000/= Outright Purchase</font><br></li>
-                                <hr>
+
+
 
                                 <!--<li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
                                         <img src="images/devices/sunyard.png" class="ignore" width="100%"></a>
@@ -389,8 +388,14 @@
                                 network fees & processor fees)</font></p>
                         <div class="details">
                             <ul>
-                                <li><font size="2px">Merchant ID</font></li>
-                                <li>LKR 4750 <font size="2px">/per month</font></li>
+                                <li><font size="2px">Device Charges</font><br>
+                                    <a href="https://www.sunmi.com/en/P2pro/">
+                                        <img src="images/devices/sunmib.png" class="ignore" width="100%"></a>
+                                    <br>Sunmi P2 Pro/Lite Smart POS<br><font size="2px">36 month
+                                        contract period</font><br>
+                                    <br></li>
+                                <li>LKR 4750/month </li>
+
                                 <hr>
 
 
@@ -398,14 +403,8 @@
                                     Account Manager
                                 </li>
                                 <hr>
-                                <li><font size="2px">Device Charges</font><br>
-                                    <a href="https://www.sunmi.com/en/P2pro/">
-                                        <img src="images/devices/sunmib.png" class="ignore" width="100%"></a>
-                                    <br>Sunmi P2 Pro/Lite Smart POS<br><font size="2px">Monthly Device Cost<br> LKR
-                                        3700/=<br>36 month
-                                        contract period</font><br>
-                                    OR<br><font size="2px">Device Cost<br>65,000/= Outright Purchase</font><br></li>
-                                <hr>
+
+
 
                                 <!--<li><a href="http://sydtech.com.cn/en/PaymentTerminal/info.aspx?itemid=315&parent">
                                         <img src="images/devices/sunyard.png" class="ignore" width="100%"></a>
