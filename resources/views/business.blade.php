@@ -198,10 +198,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item active">
                 <a href="web">
                     <picture>
-                        <source srcset="images/hero/1-20x5.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/1-14x5.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/1-8x5.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/1-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806031/1-20x5-min_ikzje1.jpg" media="(min-width: 1400px)">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806030/1-14x5-min_svohvr.jpg" media="(min-width: 769px)">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806030/1-8x5-min_xonfc0.jpg" media="(min-width: 577px)">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806030/1-6x5-min_vrigs2.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -217,10 +217,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="app">
                     <picture>
-                        <source srcset="images/hero/2-20x5.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/2-14x5.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/2-8x5.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/2-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806040/2-20x5-min_hu1pf2.jpg" media="(min-width: 1400px)">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806040/2-14x5-min_cjvatb.jpg" media="(min-width: 769px)">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806040/2-8x5-min_qfjpln.jpg" media="(min-width: 577px)">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806040/2-6x5-min_lcvizo.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -236,10 +236,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="app">
                     <picture>
-                        <source srcset="images/hero/3-20x5.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/3-14x5.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/3-8x5.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/3-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806049/3-20x5-min_mlduir.jpg" media="(min-width: 1400px)">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806049/3-14x5-min_hzhla5.jpg" media="(min-width: 769px)">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806049/3-8x5-min_xyahhf.jpg" media="(min-width: 577px)">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806049/3-6x5-min_u2xlva.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -255,10 +255,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="app">
                     <picture>
-                        <source srcset="images/hero/4-20x5.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/4-14x5.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/4-8x5.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/4-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806058/4-20x5-min_m4rmbf.jpg" media="(min-width: 1400px)">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806058/4-14x5-min_hsgugj.jpg" media="(min-width: 769px)">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806058/4-8x5-min_jnu4p1.jpg" media="(min-width: 577px)">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806058/4-6x5-min_uduys6.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -274,10 +274,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="app">
                     <picture>
-                        <source srcset="images/hero/5-20x5.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/5-14x5.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/5-8x5.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/5-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806068/5-20x5-min_ftrxw1.jpg" media="(min-width: 1400px)">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806068/5-14x5-min_qrez0y.jpg" media="(min-width: 769px)">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806068/5-8x5-min_cw8gt1.jpg" media="(min-width: 577px)">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806068/5-6x5-min_hykjc5.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -293,10 +293,10 @@ Removes white gap between slides - chagnge to base color of slide images
             <div class="carousel-item">
                 <a href="app">
                     <picture>
-                        <source srcset="images/hero/8-20x5.jpg" media="(min-width: 1400px)">
-                        <source srcset="images/hero/8-14x5.jpg" media="(min-width: 769px)">
-                        <source srcset="images/hero/8-8x5.jpg" media="(min-width: 577px)">
-                        <img srcset="images/hero/8-6x5.jpg" alt="responsive image" class="d-block img-fluid">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806097/8-20x5-min_f0zark.jpg" media="(min-width: 1400px)">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806096/8-14x5-min_dicpeb.jpg" media="(min-width: 769px)">
+                        <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806096/8-8x5-min_y0a9i0.jpg" media="(min-width: 577px)">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806096/8-6x5-min_bixnog.jpg" alt="responsive image" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
