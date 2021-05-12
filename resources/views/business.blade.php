@@ -196,7 +196,7 @@ Removes white gap between slides - chagnge to base color of slide images
         <div class="carousel-inner" role="listbox">
 
             <div class="carousel-item active">
-                <a href="web">
+                <a href="whitelable">
                     <picture>
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806031/1-20x5-min_ikzje1.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806030/1-14x5-min_svohvr.jpg" media="(min-width: 769px)">
@@ -215,7 +215,7 @@ Removes white gap between slides - chagnge to base color of slide images
             </div>
 
             <div class="carousel-item">
-                <a href="app">
+                <a href="vpos">
                     <picture>
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806040/2-20x5-min_hu1pf2.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806040/2-14x5-min_cjvatb.jpg" media="(min-width: 769px)">
@@ -234,7 +234,7 @@ Removes white gap between slides - chagnge to base color of slide images
             </div>
 
             <div class="carousel-item">
-                <a href="app">
+                <a href="pos">
                     <picture>
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806049/3-20x5-min_mlduir.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806049/3-14x5-min_hzhla5.jpg" media="(min-width: 769px)">
@@ -253,7 +253,7 @@ Removes white gap between slides - chagnge to base color of slide images
             </div>
 
             <div class="carousel-item">
-                <a href="app">
+                <a href="ipg">
                     <picture>
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806058/4-20x5-min_m4rmbf.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806058/4-14x5-min_hsgugj.jpg" media="(min-width: 769px)">
@@ -272,7 +272,7 @@ Removes white gap between slides - chagnge to base color of slide images
             </div>
 
             <div class="carousel-item">
-                <a href="app">
+                <a href="https://www.directpay.lk/developer/">
                     <picture>
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806068/5-20x5-min_ftrxw1.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806068/5-14x5-min_qrez0y.jpg" media="(min-width: 769px)">
@@ -291,7 +291,7 @@ Removes white gap between slides - chagnge to base color of slide images
             </div>
 
             <div class="carousel-item">
-                <a href="app">
+                <a href="merchant">
                     <picture>
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806097/8-20x5-min_f0zark.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806096/8-14x5-min_dicpeb.jpg" media="(min-width: 769px)">

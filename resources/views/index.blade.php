@@ -194,7 +194,7 @@ Removes white gap between slides - chagnge to base color of slide images
 
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-                <a href="whitelable">
+                <a href="pos">
                     <!--
                     If you need more browser support use https://scottjehl.github.io/picturefill/
                     If a picture looks blurry on a retina device you can add a high resolution like this
@@ -239,7 +239,7 @@ Removes white gap between slides - chagnge to base color of slide images
             </div>
             <!-- /.carousel-item 23-->
             <div class="carousel-item">
-                <a href="pos">
+                <a href="whitelable">
                     <picture>
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806031/1-20x5-min_ikzje1.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806030/1-14x5-min_svohvr.jpg" media="(min-width: 769px)">
