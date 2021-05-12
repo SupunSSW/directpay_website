@@ -173,7 +173,7 @@
 <!--End Header -->
 <!--Start Hero-->
 
-<section class="breadcrumb-area banner-1 " data-background="images/banner/9.jpg">
+<section class="breadcrumb-area2 banner-1 " >
     <div class="text-block">
         <div class="container">
             <div class="row">
@@ -213,51 +213,80 @@
                         </div>
                     </div>
                 </div>
-                <div class="image-set"><figure><img src="images/blog/blog-post-7.jpg" alt="blog images" class="img-fluid" <meta property="og:image">/>
-                        <br/><br/><figcaption><font size="2px"><i>Three prestigious awards won by DirectPay.</i></font></figcaption></figure>
+                <div class="image-set">
+                    <figure><img src="images/blog/blog-post-7.jpg" alt="blog images" class="img-fluid"/>
+
+                        <br/><br/>
+                        <figcaption><font size="2px"><i>Three prestigious awards won by DirectPay.</i></font>
+                        </figcaption>
+                    </figure>
                 </div>
                 <div class="blog-content mt30">
                     <p>
-                        DirectPay, a state-of-the-art fintech solution driving financial inclusion through cashless means,
-                        was recognized as the island-wide winner of the “Best Disruptor 2021” award and was also awarded the
-                        prestigious “Best Disruptor – Western Province” award along with “Best Innovation in Business Management”
+                        DirectPay, a state-of-the-art fintech solution driving financial inclusion through cashless
+                        means,
+                        was recognized as the island-wide winner of the “Best Disruptor 2021” award and was also awarded
+                        the
+                        prestigious “Best Disruptor – Western Province” award along with “Best Innovation in Business
+                        Management”
                         at the SLASSCOM National Ingenuity Awards 2021 held recently at Shangri-La Hotel, Colombo.</p>
 
 
-                    <br/><p>
-                        The Sri Lanka Association for Software Services Companies (SLASSCOM), the national chamber for the IT
-                        and BPM industry in Sri Lanka held the SLASSCOM Ingenuity Awards 2021 for the third consecutive year,
-                        in celebration of great innovators in Sri Lanka. The award ceremony recognizes and rewards innovations
-                        that fuel ingenuity by conducting an all-island competition representing all-age groups, all ethnic groups,
+                    <br/>
+                    <p>
+                        The Sri Lanka Association for Software Services Companies (SLASSCOM), the national chamber for
+                        the IT
+                        and BPM industry in Sri Lanka held the SLASSCOM Ingenuity Awards 2021 for the third consecutive
+                        year,
+                        in celebration of great innovators in Sri Lanka. The award ceremony recognizes and rewards
+                        innovations
+                        that fuel ingenuity by conducting an all-island competition representing all-age groups, all
+                        ethnic groups,
                         businesses of all sizes, universities and schools.
 
                     </p>
                     <br>
                     <p>
-                        The award winning fintech startup, DirectPay, works on supporting the economy by providing a complete
-                        digital payment ecosystem at reasonable costs. Businesses utilizing DirectPay find it to be one of the
-                        most cost-effective, real-time payment modes with the ability to monitor daily transactions and reconciliation
-                        through the dashboard or merchant app. Payments to suppliers can easily be facilitated with a click of a
-                        button through DirectPay’s fund transfers even if the suppliers hold an account in a different bank.
+                        The award winning fintech startup, DirectPay, works on supporting the economy by providing a
+                        complete
+                        digital payment ecosystem at reasonable costs. Businesses utilizing DirectPay find it to be one
+                        of the
+                        most cost-effective, real-time payment modes with the ability to monitor daily transactions and
+                        reconciliation
+                        through the dashboard or merchant app. Payments to suppliers can easily be facilitated with a
+                        click of a
+                        button through DirectPay’s fund transfers even if the suppliers hold an account in a different
+                        bank.
 
 
                     </p><br/>
                     <p>
 
-                    Similarly, using the DirectPay mobile application - which complies with the BSS (Baseline Security Standards)
-                        for mobile applications, customers can make payments with ease, transfer funds by scanning the recipient’s
-                        QR code, make seamless payments at checkout, leave tips, split bills and pay merchants in 4 simple steps –
-                        login, scan, enter the amount, confirm. DirectPay works with most banks in the country through CEFT and JustPay
+                        Similarly, using the DirectPay mobile application - which complies with the BSS (Baseline
+                        Security Standards)
+                        for mobile applications, customers can make payments with ease, transfer funds by scanning the
+                        recipient’s
+                        QR code, make seamless payments at checkout, leave tips, split bills and pay merchants in 4
+                        simple steps –
+                        login, scan, enter the amount, confirm. DirectPay works with most banks in the country through
+                        CEFT and JustPay
                         under the guidelines of the Central Bank.
                     </p><br/>
                     <p>
-                        This disruptive innovation journey of DirectPay poses tough challenges. That is when leadership plays a game-changing role.
-                        “We are immensely proud to receive these esteemed awards which are great examples of how we can reinvent and shape the
-                        future of banking and finance in Sri Lanka. The multitude of challenges exacerbated by the global pandemic has forced fintech’s
-                        to innovate at a speed never seen before. Winning these awards is recognition that DirectPay has risen to the occasion and dramatically
-                        transformed the industry. Huge congratulations to my team for being the disruptors, pioneers and risk-takers who believe in changing
-                        the landscape of payments by leveraging the power of technology.” shares the Chief Operating Officer of DirectPay, Mr. Sasindu Pathiranage,
-                        adding that this is yet another achievement carved into the journey of DirectPay and they look forward to what the future holds for their booming startup.
+                        This disruptive innovation journey of DirectPay poses tough challenges. That is when leadership
+                        plays a game-changing role.
+                        “We are immensely proud to receive these esteemed awards which are great examples of how we can
+                        reinvent and shape the
+                        future of banking and finance in Sri Lanka. The multitude of challenges exacerbated by the
+                        global pandemic has forced fintech’s
+                        to innovate at a speed never seen before. Winning these awards is recognition that DirectPay has
+                        risen to the occasion and dramatically
+                        transformed the industry. Huge congratulations to my team for being the disruptors, pioneers and
+                        risk-takers who believe in changing
+                        the landscape of payments by leveraging the power of technology.” shares the Chief Operating
+                        Officer of DirectPay, Mr. Sasindu Pathiranage,
+                        adding that this is yet another achievement carved into the journey of DirectPay and they look
+                        forward to what the future holds for their booming startup.
                     </p>
 
 
@@ -404,7 +433,8 @@ Sri Lanka, 00700</span></p>
                 <h5 class="mb30 mt30">Be Connected</h5>
                 <div class="ff-social-icons mt30">
                     <a href="https://www.facebook.com/directpay.srilanka" target="blank"><i class="fab fa-facebook"></i></a>
-                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i
+                            class="fab fa-youtube"></i></a>
                     <a href="https://www.linkedin.com/company/54304577/" target="blank"><i class="fab fa-linkedin"></i></a>
                     <a href="https://www.instagram.com/directpay.lk/" target="blank"><i
                             class="fab fa-instagram"></i></a>

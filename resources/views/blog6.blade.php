@@ -174,7 +174,7 @@
 <!--End Header -->
 <!--Start Hero-->
 
-<section class="breadcrumb-area banner-1 " data-background="images/banner/9.jpg">
+<section class="breadcrumb-area2 banner-1 " >
     <div class="text-block">
         <div class="container">
             <div class="row">
@@ -192,7 +192,7 @@
 </section>
 <!--End Breadcrumb Area-->
 <!--Start Blog Details-->
-<section class="blog-page pad-tb">
+<section class="blog-page pad-tb1">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">

@@ -1206,6 +1206,7 @@ background: currentColor;}
 .link-hover a:hover{    color: #ff8f00   !important;}
 /**breadcrumb**/
 .breadcrumb-area {padding:70px 0px 25px 0px;     position:relative; overflow:hidden; text-align:center;}
+.breadcrumb-area2 {padding:40px 0px 25px 0px;     position:relative; overflow:hidden; text-align:center;}
 .breadcrumb-areav2 {
 padding: 150px 0px 10px 0px;
 position: relative;

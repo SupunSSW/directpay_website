@@ -192,7 +192,7 @@
 </section>
 <!--End Breadcrumb Area-->
 <!--Start Blog Details-->
-<section class="blog-page pad-tb">
+<section class="blog-page pad-tb1">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
