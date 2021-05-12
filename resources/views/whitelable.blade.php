@@ -227,22 +227,8 @@
         </div>
     </div>
 </section>
-<section class="block-a1 pad-tb1">
-    <div class="container">
-        <div class="row justify-content-center">
 
-            <div class="common-heading">
-                <h2 class="mb30">DirectPay Platform as a Service</h2>
-                <center><span><h6>Your Brand. Our Technology.</h6></span></center>
-                <br>
-            </div>
 
-            <!--whyus end-->
-            <br><br><br>
-        </div>
-    </div>
-</section>
-<br><br><br><br>
 
 <section class="about-dg-2 pb120 pt120 bg-flat1 m-t-c">
     <div class="container">
@@ -257,6 +243,11 @@
 
             <div class="col-lg-6">
                 <div class="common-heading-2 text-l">
+                    <div class="common-heading">
+                        <h2 class="mb30">DirectPay Platform as a Service</h2>
+                        <center><span><h6>Your Brand. Our Technology.</h6></span></center>
+                        <br>
+                    </div>
                     <center><h5><br>A white label solution allowing businesses to be the first mover in their industry
                             with their esteemed brand in our futuristic tech solution. </h5></center>
                     <div class="weworkfor pt20 pb20">

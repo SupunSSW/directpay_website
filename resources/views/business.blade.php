@@ -376,7 +376,7 @@ online, in app, or in store, no matter wherever they are.</p>';
                                 color="#ff822e">Merchant App</font></h6></div>
                 </a></div>
 
-            <div class="col-lg-3my col-sm-6 col-6 wow fadeIn" data-wow-delay="1.3s" width="20%"><a href="whitelable">
+            <div class="col-lg-3my col-sm-6 col-6 wow fadeIn" data-wow-delay="1.3s" ><a href="whitelable">
                     <div class="industry-workfor hoshd"><img src="images/icons/joystick.svg" alt="img"> <h6><font
                                 color="#ff822e">Platform</font></h6></div>
                 </a></div>
@@ -384,6 +384,7 @@ online, in app, or in store, no matter wherever they are.</p>';
 
         </div>
     </div>
+    <br/><br/>
 </section>
 
 
@@ -391,7 +392,10 @@ online, in app, or in store, no matter wherever they are.</p>';
 
 
 <!--End Blogs-->
-<br/><br/><br/><br/>
+<br/><br/>
+<br/><br/>
+
+
 <!--Start Footer-->
 <footer class="dark-footer dg-bg--1 pt60 upset dark-footer-1">
     <div class="up-curvs">

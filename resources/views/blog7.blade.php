@@ -2,7 +2,7 @@
 <html lang="en" class="no-js">
 <head>
     <meta charset="utf-8"/>
-    <title>News - DirectPay</title>
+    <title>DirectPay wins national “Best Disruptor” award from SLASSCOM</title>
     <meta name="description" content="DirectPay wins national “Best Disruptor” award from SLASSCOM">
     <meta name="keywords" content="Slasscom awards 2021">
     <meta name="author" content="Directpay">
@@ -191,7 +191,7 @@
 </section>
 <!--End Breadcrumb Area-->
 <!--Start Blog Details-->
-<section class="blog-page pad-tb">
+<section class="blog-page pad-tb1">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
@@ -213,7 +213,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="image-set"><figure><img src="images/blog/blog-post-7.jpg" alt="blog images" class="img-fluid"/>
+                <div class="image-set"><figure><img src="images/blog/blog-post-7.jpg" alt="blog images" class="img-fluid" <meta property="og:image">/>
                         <br/><br/><figcaption><font size="2px"><i>Three prestigious awards won by DirectPay.</i></font></figcaption></figure>
                 </div>
                 <div class="blog-content mt30">

@@ -258,7 +258,51 @@ Removes white gap between slides - chagnge to base color of slide images
 </section>
 <br/><br/>
 
+<section class="work-category pad-tb1">
+    <div class="container">
+        <div class="common-heading ptag">
+            <?php
+            function isMobile()
+            {
+                return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
+            }
+            if (isMobile()) {
 
+                echo '<h4>A technology-first approach to payments and finance</h4>
+<p>Let your customers use their preferred payment types, via a personalized checkout experience,
+online, in app, or in store, no matter wherever they are.</p>';
+
+            } else {
+
+                echo '<h2>A technology-first approach to payments and finance</h2>
+<p>Let your customers use their preferred payment types, via a personalized checkout experience,
+online, in app, or in store, no matter wherever they are.</p>';
+            }
+
+            ?>
+        </div>
+
+        <div class="row">
+
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.1s"><a href="user-app">
+                    <div class="industry-workfor hoshd"><img src="images/icons/applications.png" alt="img"> <h6><font
+                                color="#012480">Consumer App</font></h6></div>
+                </a></div>
+
+            <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.3s"><a href="web">
+                    <div class="industry-workfor hoshd"><img src="images/icons/travel-case.svg" alt="img"> <h6><font
+                                color="#012480">Web Portal</font></h6></div>
+                </a></div>
+
+
+        </div>
+    </div>
+    <br/>
+</section>
 
 <section class="about-dg-2 pb120 pt120 bg-flat1 m-t-c">
     <div class="container">
@@ -277,10 +321,7 @@ Removes white gap between slides - chagnge to base color of slide images
                                 <br/>
 
                                 <?php
-                                function isMobile()
-                                {
-                                    return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
-                                }
+
                                 if (isMobile()) {
                                     echo ' <a href="https://play.google.com/store/apps/details?id=com.directpay.userapp"
                    data-wow-delay=".6s"><img src="images/icons/playstore.png" width=30%">

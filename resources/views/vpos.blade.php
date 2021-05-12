@@ -227,24 +227,7 @@
         </div>
     </div>
 </section>
-<section class="block-a1 pad-tb1">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-10">
-                <div class="common-heading">
-                    <h2 class="mb30">DirectPay Virtual Point of Sales (VPOS)</h2>
-                    <p><font color="#333" size="3px">A mobile-based android POS solution that accepts remote card
-                            payments from a
-                            mobile device by simply sending out Payment Link to the customer via an e-mail, SMS,
-                            WhatsApp, or any other similar methods.</font></p>
-                    <br><br><br>
-                </div>
-            </div>
-            <!--whyus end-->
-            <br><br><br>
-        </div>
-    </div>
-</section>
+
 
 
 <section class="about-dg-2 pb120 pt120 bg-flat1 m-t-c">
@@ -253,12 +236,19 @@
             <div class="col-lg-6 v-center">
                 <div class="img-block hover-scale mt0 m-mb30">
                     <img src="images/about/about-dg-agency.png" alt="about" class="img-fluid upset"/>
-                    <div class="shape-dg-1 dg-hero-shp1"><img src="images/shape/dots-dg.png" alt="shape"
-                                                              class="img-fluid"></div>
+
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="common-heading-2 text-l">
+                    <div class="common-heading">
+                        <h2 class="mb30">DirectPay Virtual Point of Sales (VPOS)</h2>
+                        <p><font color="#333" size="3px">A mobile-based android POS solution that accepts remote card
+                                payments from a
+                                mobile device by simply sending out Payment Link to the customer via an e-mail, SMS,
+                                WhatsApp, or any other similar methods.</font></p>
+                        <br><br><br>
+                    </div>
                     <center><h6><br>Transaction History | <font color="#ff822e">Mobile Based Payment Link</font> |
                             Notifications | <font color="#ff822e">Easy Registration</font> |
                             Cash, Card Reconciliation | <font color="#ff822e">Transaction Reversals</font> | Latest

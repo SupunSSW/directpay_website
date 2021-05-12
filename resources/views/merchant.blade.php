@@ -227,22 +227,7 @@
         </div>
     </div>
 </section>
-<section class="about-sec bg-gradient5 pad-tb1">
-    <div class="container">
-        <div class="row justify-content-center text-center">
-            <div class="col-lg-10">
-                <div class="common-heading">
-                    <h2 class="mb30">Merchant App</h2>
-                    <p><font color="#333" size="3px">A perfect multichannel payment solution for Merchants with the
-                            latest QR based technologies allowing customers to process payments at their
-                            convenience with low rates. </font></p>
-                </div>
-                <br><br><br>
 
-            </div>
-        </div>
-    </div>
-</section>
 
 <section class="about-dg-2 pb120 pt120 bg-flat1 m-t-c">
     <div class="container">
@@ -250,12 +235,17 @@
             <div class="col-lg-6 v-center">
                 <div class="img-block hover-scale mt0 m-mb30">
                     <img src="images/about/mapp.png" alt="about" class="img-fluid upset"/>
-                    <div class="shape-dg-1 dg-hero-shp1"><img src="images/shape/dots-dg.png" alt="shape"
-                                                              class="img-fluid"></div>
+
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="common-heading-2 text-l">
+                    <div class="common-heading-2">
+                        <h2 class="mb30">Merchant App</h2>
+                        <p><font color="#333" size="3px">A perfect multichannel payment solution for Merchants with the
+                                latest QR based technologies allowing customers to process payments at their
+                                convenience with low rates. </font></p>
+                    </div>
                     <center><h6><br>Static QR | <font color="#ff822e">Dynamic QR</font> | Billers | <font
                                 color="#ff822e">Scan QR</font> | Government Payments | <font color="#ff822e">Transaction
                                 Reversals</font>

@@ -232,24 +232,7 @@
     </div>
 </section>
 
-<section class="about-sec bg-gradient5 pad-tb1">
-    <div class="container">
-        <div class="row justify-content-center text-center">
-            <div class="col-lg-10">
-                <div class="common-heading">
-                    <h2 class="mb30">DirectPay Point of Sale Terminal</h2>
-                    <p><font color="#333" size="3px">A POS system that goes beyond a traditional electronic fund transfer
-                            POS by providing a digital basket of goods and services to merchants; making
-                            them a digitally enabled merchants.</font></p>
 
-
-                </div>
-                <br><br><br>
-
-            </div>
-        </div>
-    </div>
-</section>
 
 
 <section class="about-dg-2 pb120 pt120 bg-flat1 m-t-c">
@@ -258,12 +241,19 @@
             <div class="col-lg-6 v-center">
                 <div class="img-block hover-scale mt0 m-mb30">
                     <img src="images/about/poss.png" alt="about" class="img-fluid upset"/>
-                    <div class="shape-dg-1 dg-hero-shp1"><img src="images/shape/dots-dg.png" alt="shape"
-                                                              class="img-fluid"></div>
+
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="common-heading-2 text-l">
+                    <div class="common-heading">
+                        <h2 class="mb30">DirectPay Point of Sale Terminal</h2>
+                        <p><font color="#333" size="3px">A POS system that goes beyond a traditional electronic fund transfer
+                                POS by providing a digital basket of goods and services to merchants; making
+                                them a digitally enabled merchants.</font></p>
+
+
+                    </div>
                     <center><h6><br>NFC | <font color="#ff822e">Split Bill</font> | Transport Payments | <font
                                 color="#ff822e">Card Payments</font> | Government Payments |
                             <font color="#ff822e">Card Swiping</font>
@@ -281,8 +271,7 @@
                     <img src="images/about/p2-lite.png" alt="about" class="img-fluid upset" width="30%"/>
                     <img src="images/devices/sunyard.png" alt="about" class="img-fluid upset" width="30%"/>
                     <img src="images/about/sunyard-lite.png" alt="about" class="img-fluid upset" width="30%"/></center>
-                    <div class="shape-dg-1 dg-hero-shp1"><img src="images/shape/dots-dg.png" alt="shape"
-                                                              class="img-fluid"></div>
+
                 </div>
             </div>
         </div>
