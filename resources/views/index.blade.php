@@ -627,7 +627,7 @@ Removes white gap between slides - chagnge to base color of slide images
                 <div class="common-heading-2">
 
                     <h2>Award-winning service</h2>
-                    <h6 class="mb30">need subline for this</h6>
+                    <h6 class="mb30">Recognitions received for our commitment to excellence and innovation</h6>
                 </div>
             </div>
         </div>
@@ -637,9 +637,9 @@ Removes white gap between slides - chagnge to base color of slide images
                     <div class="s-card-icon-large"><img src="images/awards/23.png" alt="service" class="img-fluid"/>
                     </div>
                     <div class="s-block-content-large">
-                        <h4>Best innovation -2021</h4>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is
-                            simply dummy text of the printing and typesetting industry.</p>
+                        <h4>Best Innovation - Western Province</h4>
+                        <p>Best Innovation in Business Process Management
+                            SLASSCOM National Ingenuity Awards 2021</p>
                     </div>
                 </div>
             </div>
@@ -648,9 +648,8 @@ Removes white gap between slides - chagnge to base color of slide images
                     <div class="s-card-icon-large"><img src="images/awards/22.png" alt="service" class="img-fluid"/>
                     </div>
                     <div class="s-block-content-large">
-                        <h5>Best Disruptor -2021</h5>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is
-                            simply dummy text of the printing and typesetting industry.</p>
+                        <h5>Best Disruptor - National Winner</h5>
+                        <p>SLASSCOM National Ingenuity Awards 2021</p>
                     </div>
                 </div>
             </div>
@@ -659,9 +658,8 @@ Removes white gap between slides - chagnge to base color of slide images
                     <div class="s-card-icon-large"><img src="images/awards/21.png" alt="service" class="img-fluid"/>
                     </div>
                     <div class="s-block-content-large">
-                        <h5>Best Disruptor -2021 Western province.</h5>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is
-                            simply dummy text of the printing and typesetting industry.</p>
+                        <h5>Best Disruptor - Western Province</h5>
+                        <p>SLASSCOM National Ingenuity Awards 2021</p>
                     </div>
                 </div>
             </div>
@@ -670,9 +668,10 @@ Removes white gap between slides - chagnge to base color of slide images
                     <div class="s-card-icon-large"><img src="images/awards/20.png" alt="service" class="img-fluid"/>
                     </div>
                     <div class="s-block-content-large">
-                        <h5>NBQSA Silver Award -2020</h5>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is
-                            simply dummy text of the printing and typesetting industry.</p>
+                        <h5>Gold Award for Retail Payments</h5>
+                        <p>Asia Pacific Region
+                            The Asia Pacific ICT Alliance Awards 2018 in China
+                        </p>
                     </div>
                 </div>
             </div>

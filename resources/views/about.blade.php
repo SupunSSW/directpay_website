@@ -232,7 +232,7 @@
         <div class="row justify-content-center text-center">
             <div class="col-lg-10">
                 <div class="common-heading">
-                <h1 class="mb30">Towards a <font color="#012480">#Cashless</font> Society</h1>
+                <h1 class="mb30">Shape a brighter financial future with us!</h1>
 
                 <br>
                 </div>

@@ -175,85 +175,95 @@ Removes white gap between slides - chagnge to base color of slide images
 <section class="hero-bg">
 
 
-
-        <!--
-      ####################################################
-      C A R O U S E L
-      ####################################################
-      -->
-        <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="5000">
-            <ol class="carousel-indicators">
-                <li data-target="#carousel" data-slide-to="0" class="active"></li>
-                <li data-target="#carousel" data-slide-to="1"></li>
-                <li data-target="#carousel" data-slide-to="2"></li>
-                <li data-target="#carousel" data-slide-to="3"></li>
-                <li data-target="#carousel" data-slide-to="4"></li>
-                <li data-target="#carousel" data-slide-to="5"></li>
-                <li data-target="#carousel" data-slide-to="6"></li>
-                <li data-target="#carousel" data-slide-to="7"></li>
-            </ol>
-
-
-            <div class="carousel-inner" role="listbox">
-
-                <div class="carousel-item active">
-                    <a href="web">
-                        <picture>
-                            <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806077/6-20x5-min_liq06x.jpg" media="(min-width: 1400px)">
-                            <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806077/6-14x5-min_zvgxfm.jpg" media="(min-width: 769px)">
-                            <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806077/6-8x5-min_wwhlsr.jpg" media="(min-width: 577px)">
-                            <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806077/6-6x5-min_wtizeg.jpg" alt="responsive image" class="d-block img-fluid">
-                        </picture>
-
-                        <!--<div class="carousel-caption justify-content-center align-items-center">
-                            <div>
-                                <h2>Performance Optimization</h2>
-                                <p>We monitor and optimize your site's long-term performance</p>
-                                <span class="btn btn-sm btn-secondary">Learn How</span>
-                            </div>
-                        </div>-->
-                    </a>
-                </div>
-
-                <div class="carousel-item">
-                    <a href="user-app">
-                        <picture>
-                            <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806086/7-20x5-min_cbxuym.jpg" media="(min-width: 1400px)">
-                            <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806086/7-14x5-min_ltpvhx.jpg" media="(min-width: 769px)">
-                            <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806086/7-8x5-min_lzy8oe.jpg" media="(min-width: 577px)">
-                            <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806086/7-6x5-min_p7cwxb.jpg" alt="responsive image" class="d-block img-fluid">
-                        </picture>
-
-                        <!--<div class="carousel-caption justify-content-center align-items-center">
-                            <div>
-                                <h2>Performance Optimization</h2>
-                                <p>We monitor and optimize your site's long-term performance</p>
-                                <span class="btn btn-sm btn-secondary">Learn How</span>
-                            </div>
-                        </div>-->
-                    </a>
-                </div>
+    <!--
+  ####################################################
+  C A R O U S E L
+  ####################################################
+  -->
+    <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="5000">
+        <ol class="carousel-indicators">
+            <li data-target="#carousel" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel" data-slide-to="1"></li>
+            <li data-target="#carousel" data-slide-to="2"></li>
+            <li data-target="#carousel" data-slide-to="3"></li>
+            <li data-target="#carousel" data-slide-to="4"></li>
+            <li data-target="#carousel" data-slide-to="5"></li>
+            <li data-target="#carousel" data-slide-to="6"></li>
+            <li data-target="#carousel" data-slide-to="7"></li>
+        </ol>
 
 
+        <div class="carousel-inner" role="listbox">
 
+            <div class="carousel-item active">
+                <a href="web">
+                    <picture>
+                        <source
+                            srcset="https://res.cloudinary.com/directpay/image/upload/v1620806077/6-20x5-min_liq06x.jpg"
+                            media="(min-width: 1400px)">
+                        <source
+                            srcset="https://res.cloudinary.com/directpay/image/upload/v1620806077/6-14x5-min_zvgxfm.jpg"
+                            media="(min-width: 769px)">
+                        <source
+                            srcset="https://res.cloudinary.com/directpay/image/upload/v1620806077/6-8x5-min_wwhlsr.jpg"
+                            media="(min-width: 577px)">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806077/6-6x5-min_wtizeg.jpg"
+                             alt="responsive image" class="d-block img-fluid">
+                    </picture>
 
+                    <!--<div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Performance Optimization</h2>
+                            <p>We monitor and optimize your site's long-term performance</p>
+                            <span class="btn btn-sm btn-secondary">Learn How</span>
+                        </div>
+                    </div>-->
+                </a>
             </div>
-            <!-- /.carousel-inner -->
-            <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
+
+            <div class="carousel-item">
+                <a href="user-app">
+                    <picture>
+                        <source
+                            srcset="https://res.cloudinary.com/directpay/image/upload/v1620806086/7-20x5-min_cbxuym.jpg"
+                            media="(min-width: 1400px)">
+                        <source
+                            srcset="https://res.cloudinary.com/directpay/image/upload/v1620806086/7-14x5-min_ltpvhx.jpg"
+                            media="(min-width: 769px)">
+                        <source
+                            srcset="https://res.cloudinary.com/directpay/image/upload/v1620806086/7-8x5-min_lzy8oe.jpg"
+                            media="(min-width: 577px)">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806086/7-6x5-min_p7cwxb.jpg"
+                             alt="responsive image" class="d-block img-fluid">
+                    </picture>
+
+                    <!--<div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Performance Optimization</h2>
+                            <p>We monitor and optimize your site's long-term performance</p>
+                            <span class="btn btn-sm btn-secondary">Learn How</span>
+                        </div>
+                    </div>-->
+                </a>
+            </div>
+
+
         </div>
+        <!-- /.carousel-inner -->
+        <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
 
-        <!-- /.carousel -->
+    <!-- /.carousel -->
 
 
-
-<!-- -->
+    <!-- -->
 
 </section>
 <br/><br/>
@@ -268,15 +278,13 @@ Removes white gap between slides - chagnge to base color of slide images
             }
             if (isMobile()) {
 
-                echo '<h4>A technology-first approach to payments and finance</h4>
-<p>Let your customers use their preferred payment types, via a personalized checkout experience,
-online, in app, or in store, no matter wherever they are.</p>';
+                echo '<h4>Platforms built to simplify and accelerate payments</h4>
+<p>With privacy and security built into every payment, using DirectPay is safer than swiping your card or paying with cash.</p>';
 
             } else {
 
-                echo '<h2>A technology-first approach to payments and finance</h2>
-<p>Let your customers use their preferred payment types, via a personalized checkout experience,
-online, in app, or in store, no matter wherever they are.</p>';
+                echo '<h2>Platforms built to simplify and accelerate payments</h2>
+<p>With privacy and security built into every payment, using DirectPay is safer than swiping your card or paying with cash.</p>';
             }
 
             ?>
@@ -309,17 +317,23 @@ online, in app, or in store, no matter wherever they are.</p>';
         <div class="row">
             <div class="col-lg-6 v-center">
                 <div class="img-block hover-scale mt0 m-mb30">
-                    <img src="images/about/finance-cuate.png" class="img-fluid upset" />
+                    <img src="images/about/finance-cuate.png" class="img-fluid upset"/>
 
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="common-heading-2 text-l">
                     <div class="container">
-                        <center><div>
+                        <center>
+                            <div>
                                 <h2>Download the DirectPay App and pay your bills with ease!</h2>
                                 <br/>
-
+                                <h6>Download the DirectPay App to Send and Receive money with ease!
+                                    Using DirectPay on your smartphone is quick and secure. It’s a safer way to pay that
+                                    helps you avoid touching buttons or exchanging cash. You can send money straight
+                                    from any of your bank accounts linked in the app or scan the LankaQR at the merchant
+                                    to make a purchase.
+                                </h6><br/>
                                 <?php
 
                                 if (isMobile()) {
@@ -330,7 +344,7 @@ online, in app, or in store, no matter wherever they are.</p>';
                 <a href="https://apps.apple.com/us/app/directpay/id1437707340"
                    data-wow-delay=".6s"><img src="images/icons/appstore.png" width=30%"></a>';
 
-                                }else {
+                                } else {
                                     echo '<a href="https://play.google.com/store/apps/details?id=com.directpay.userapp"
                    data-wow-delay=".6s" class="hover-scale mt0 m-mb30"><img src="images/icons/playstore.png" width=30%">
                 </a>
@@ -342,7 +356,8 @@ online, in app, or in store, no matter wherever they are.</p>';
                                 ?>
 
                             </div>
-                        </center></div>
+                        </center>
+                    </div>
 
                 </div>
             </div>
@@ -376,7 +391,6 @@ online, in app, or in store, no matter wherever they are.</p>';
     </div>
 </section>
 <!-- /.container -->
-
 
 
 <!--End Blogs-->
@@ -427,7 +441,8 @@ Sri Lanka, 00700</span></p>
                 <h5 class="mb30 mt30">Be Connected</h5>
                 <div class="ff-social-icons mt30">
                     <a href="https://www.facebook.com/directpay.srilanka" target="blank"><i class="fab fa-facebook"></i></a>
-                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i
+                            class="fab fa-youtube"></i></a>
                     <a href="https://www.linkedin.com/company/54304577/" target="blank"><i class="fab fa-linkedin"></i></a>
                     <a href="https://www.instagram.com/directpay.lk/" target="blank"><i
                             class="fab fa-instagram"></i></a>
