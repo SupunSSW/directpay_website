@@ -387,7 +387,7 @@ Sri Lanka, 00700</span></p>
         <div class="row end-footer-">
             <div class="col-lg-6">
                 <div class="footer-copyrights-">
-                    <p>Copyright © 2020 <a href="http://www.DirectPay.lk">DirectPay </a>. All rights reserved.</p>
+                    <p>Copyright © 2020 <a href="http://www.DirectPay.lk">DirectPay </a> All rights reserved.</p>
                 </div>
             </div>
             <div class="col-lg-6">
