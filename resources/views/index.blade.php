@@ -665,7 +665,7 @@ Removes white gap between slides - chagnge to base color of slide images
             </div>
             <div class="col-lg-6 col-md-12 mt30 wow fadeInUp" data-wow-delay=".8s">
                 <div class="s-block wide-sblock">
-                    <div class="s-card-icon-large"><img src="images/awards/20.png" alt="service" class="img-fluid"/>
+                    <div class="s-card-icon-large"><img src="images/awards/9.png" alt="service" class="img-fluid"/>
                     </div>
                     <div class="s-block-content-large">
                         <h5>Gold Award for Retail Payments</h5>
