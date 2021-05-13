@@ -670,7 +670,7 @@ Removes white gap between slides - chagnge to base color of slide images
                     <div class="s-block-content-large">
                         <h5>Gold Award for Retail Payments</h5>
                         <p>Asia Pacific Region
-                            The Asia Pacific ICT Alliance Awards 2018 in China
+                            The Asia Pacific ICT Alliance Awards 2018 in China.
                         </p>
                     </div>
                 </div>
