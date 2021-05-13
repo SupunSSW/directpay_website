@@ -19,7 +19,7 @@
         href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
     <!-- template-style-->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style-b.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
 </head>
 <body>
@@ -28,12 +28,13 @@
 
 <!-- top bar end -->
 <header class="nav-bg-w main-header navfix fixed-top menu-white">
-    <div class="container-fluid m-pad">
+
+    <div class="container">
 
         <div class="menu-header">
-            <div class="dsk-logo"><a class="nav-brand" href="consumer">
+            <div class="dsk-logo"><a class="nav-brand" href="/">
                     <img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-                    <img src="images/logo.png" alt="Logo" class="mega-darks-logo" width="180px">
+                    <img src="images/logo-bckp.png" alt="Logo" class="mega-darks-logo" width="180px">
                 </a></div>
             <div class="custom-nav" role="navigation">
                 <ul class="nav-list">
@@ -97,6 +98,7 @@
                 </ul>
             </div>
         </div>
+
         <!--Mobile Menu-->
         <nav id="main-nav">
             <ul class="first-nav">
@@ -128,6 +130,8 @@
 
         </nav>
     </div>
+
+
 </header>
 
 <!--Mobile contact-->
@@ -209,7 +213,7 @@
 
 <!--End Header -->
 <!--Start Hero-->
-<section class="breadcrumb-area2 banner-1" data-background="images/banner/9.jpg">
+<section class="breadcrumb-area banner-1" data-background="images/banner/9.jpg">
     <div class="text-block">
         <div class="container">
             <div class="row">
@@ -240,7 +244,7 @@
 </section>
 
 <!--End Hero-->
-<section class="contact-page pad-tb">
+<section class="contact-page pad-tb1">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 v-center">
@@ -262,7 +266,7 @@
                         </div>
                         <div class="fieldsets row">
                             <div class="col-md-6 form-group"><input id="form_phone" type="text" name="phone"
-                                                                    placeholder="Enter your Phone No *"
+                                                                    placeholder="Enter your phone No *"
                                                                     required="required"
                                                                     data-error="Phone No is required.">
                                 <div class="help-block with-errors"></div>
@@ -288,7 +292,7 @@
                         <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="customCheck" name="example1">
                             <label class="custom-control-label" for="customCheck">I agree to the <a
-                                    href="terms">Terms &amp; Conditions</a> of Business Name.</label>
+                                    href="terms">Terms &amp; Conditions</a> of DirectPay.</label>
                         </div>
                         <div class="fieldsets mt20">
                             <button type="submit" class="lnk btn-main bg-btn">Submit <span class="circle"></span>
