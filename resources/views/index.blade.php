@@ -649,7 +649,7 @@ Removes white gap between slides - chagnge to base color of slide images
                     </div>
                     <div class="s-block-content-large">
                         <h5>Best Disruptor - National Winner</h5>
-                        <p>SLASSCOM National Ingenuity Awards 2021</p>
+                        <p>SLASSCOM National Ingenuity Awards 2021.</p>
                     </div>
                 </div>
             </div>
@@ -659,7 +659,7 @@ Removes white gap between slides - chagnge to base color of slide images
                     </div>
                     <div class="s-block-content-large">
                         <h5>Best Disruptor - Western Province</h5>
-                        <p>SLASSCOM National Ingenuity Awards 2021</p>
+                        <p>SLASSCOM National Ingenuity Awards 2021.</p>
                     </div>
                 </div>
             </div>
