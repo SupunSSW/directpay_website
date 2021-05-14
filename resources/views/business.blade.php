@@ -98,9 +98,9 @@ Removes white gap between slides - chagnge to base color of slide images
                                                 <li><a href="business"><font color="#ff822e"
                                                                              size="3.5px">Business</font></a></li>
                                                 <li><a href="ipg">IPG</a></li>
-                                                <li><a href="merchant">Merchant App</a></li>
                                                 <li><a href="pos">POS</a></li>
                                                 <li><a href="vpos">VPOS</a></li>
+                                                <li><a href="merchant">Merchant App</a></li>
                                                 <li><a href="whitelable">Platform</a></li>
                                             </ul>
                                         </div>
@@ -150,9 +150,9 @@ Removes white gap between slides - chagnge to base color of slide images
                         <li><a href="web">Web</a></li>
                         <li><a href="business"><font color="#012480" size="3.5px">Business</font></a></li>
                         <li><a href="ipg">IPG</a></li>
-                        <li><a href="merchant">Merchant App</a></li>
                         <li><a href="pos">POS</a></li>
                         <li><a href="vpos">VPOS</a></li>
+                        <li><a href="merchant">Merchant App</a></li>
                         <li><a href="whitelable">Platform</a></li>
                         <li><a href="https://www.directpay.lk/developer/"><font color="#012480"
                                                                                 size="3.5px">Developer</font></a></li>
@@ -367,12 +367,12 @@ online, in app, or in store, no matter wherever they are.</p>';
                 </a></div>
 
             <div class="col-lg-3my col-sm-6 col-6 wow fadeIn" data-wow-delay="0.9s"><a href="vpos">
-                    <div class="industry-workfor hoshd"><img src="images/icons/event.svg" alt="img"> <h6><font
+                    <div class="industry-workfor hoshd"><img src="images/icons/cashless.png" alt="img"> <h6><font
                                 color="#ff822e">VPOS</font></h6></div>
                 </a></div>
 
             <div class="col-lg-3my col-sm-6 col-6 wow fadeIn" data-wow-delay="1.1s"><a href="merchant">
-                    <div class="industry-workfor hoshd"><img src="images/icons/smartphone.svg" alt="img"> <h6><font
+                    <div class="industry-workfor hoshd"><img src="images/icons/merchants.png" alt="img"> <h6><font
                                 color="#ff822e">Merchant App</font></h6></div>
                 </a></div>
 

@@ -326,10 +326,9 @@ Removes white gap between slides - chagnge to base color of slide images
                     <div class="container">
                         <center>
                             <div>
-                                <h2>Download the DirectPay App and pay your bills with ease!</h2>
+                                <h2>Download the DirectPay App to Send and Receive money with ease! </h2>
                                 <br/>
-                                <h6>Download the DirectPay App to Send and Receive money with ease!
-                                    Using DirectPay on your smartphone is quick and secure. It’s a safer way to pay that
+                                <h6>Using DirectPay on your smartphone is quick and secure. It’s a safer way to pay that
                                     helps you avoid touching buttons or exchanging cash. You can send money straight
                                     from any of your bank accounts linked in the app or scan the LankaQR at the merchant
                                     to make a purchase.

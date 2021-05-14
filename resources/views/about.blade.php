@@ -227,35 +227,23 @@
         </div>
     </div>
 </section>
-<section class="about-sec bg-gradient5 pad-tb1 pb120m">
-    <div class="container">
-        <div class="row justify-content-center text-center">
-            <div class="col-lg-10">
-                <div class="common-heading">
-                <h1 class="mb30">Shape a brighter financial future with us!</h1>
 
-                <br>
-                </div>
-                <br>
-
-            </div>
-        </div>
-    </div>
-</section>
 
 
 <section class="about-dg-busign pb120 pt120 bg-light-ylo upset">
 
     <div class="container">
-        <div class="common-heading-2 text-l">
 
-        </div>
 
         <div class="row">
 
             <div class="col-lg-6 v-center">
                 <div class="bread-titlev2">
+                    <div class="common-heading">
+                        <h1 class="mb30">Shape a brighter financial future with us!</h1>
 
+
+                    </div>
                     <p class="mt20 wow fadeInUp" data-wow-delay=".4s" style="text-align:justify">DirectPay is a Sri Lankan startup that is solving the problem of getting paid.
                         We believe that payment is always a byproduct of some other transaction and we are addressing how to pursue that payment digitally.
                         It could be either through a mobile-based payment app, an Internet payment gateway, a payment link to receive remote payments, subscription
@@ -295,7 +283,8 @@
                     </div>
                     <div class="item-info">
                         <center><h4><a href="#">Kanishka Weeramunda</a></h4>
-                            <p>Founder/CEO</p></center>
+                            <p>Founder/CEO<br/><font size="2px">20 years of Experience in the IT Industry,<br/>8 years in the Fin-Tech Industry</font></p></center>
+
                     </div>
                 </div>
             </div>
@@ -306,7 +295,7 @@
                     </div>
                     <div class="item-info">
                         <center><h4><a href="#">Dinesh Karunathilaka</a></h4>
-                            <p>Co-Founder</p></center>
+                            <p>Co-Founder<br/><font size="2px">10 years of Experience in the IT Industry,<br/> 7 years in the Fin-Tech Industry</font></p></center>
                     </div>
                 </div>
             </div>
@@ -317,7 +306,7 @@
                     </div>
                     <div class="item-info">
                         <center><h4><a href="#">Sasindu Pathiranage</a></h4>
-                            <p>Co-Founder/COO</p></center>
+                            <p>Co-Founder/COO<br/><font size="2px">9 years of Experience in the IT Industry,<br/> 4 years in the Fin-Tech Industry</font></p></center>
                     </div>
                 </div>
             </div>
