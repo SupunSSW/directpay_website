@@ -15,6 +15,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/plugin.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" rel="stylesheet">
+
     <link
         href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
@@ -251,7 +252,8 @@
                 <div class="form-block">
 
 
-                    <form class="ps-form--contact" role="form" action="/email" method="post" >
+
+                    <form id="contact-form" role="form" action="/email" method="post">
 
                         {{csrf_field()}}
                         @foreach($errors->all() as $e)
@@ -259,66 +261,77 @@
                                 {{$e}}
                             </div>
                         @endforeach
-                        <div class="ps-form__header">
-                            <p>Contact</p>
-                            <h3>Get In touch with us</h3>
-                        </div>
-                        <div class="ps-form__content">
-                            <div class="row">
-                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 ">
-                                    <div class="form-group">
-                                        <input class="form-control" type="text" placeholder="Your Name" name="name" required>
-                                    </div>
-                                </div>
-                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 ">
-                                    <div class="form-group">
-                                        <input class="form-control" type="email" placeholder="Your Email" name="email" required>
-                                    </div>
-                                </div>
-                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 ">
-                                    <div class="form-group">
-                                        <input class="form-control" type="text" placeholder="Phone" name="phone" required>
-                                    </div>
-                                </div>
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
-                                    <div class="form-group">
-                                        <textarea class="form-control" placeholder="Your message here" rows="3" name="msg" required></textarea>
-                                    </div>
-                                </div>
+                        <div class="messages"></div>
+                        <div class="fieldsets row">
+                            <div class="col-md-6 form-group"><input id="form_name" type="text" placeholder="Your Name"
+                                                                    name="name" required>
+                                <div class="help-block with-errors"></div>
                             </div>
-                            <div class="ps-form__submit">
-                                <button class="ps-btn">Submit</button>
+                            <div class="col-md-6 form-group"><input id="form_email" type="email"
+                                                                    placeholder="Your Email" name="email" required>
+                                <div class="help-block with-errors"></div>
                             </div>
-
-
-
-
-
-
                         </div>
+                        <div class="fieldsets row">
+                            <div class="col-md-6 form-group"><input id="form_phone" type="text" placeholder="Phone"
+                                                                    name="phone" required>
+                                <div class="help-block with-errors"></div>
+                            </div>
+                            <div class="col-md-6 form-group"><select id="rqst" name="rqst" required="required"
+                                                                     data-error="Specify your need.">
+                                    <option value="">Select Catogery</option>
+                                    <option value="Graphic Design">Genaral Support</option>
+                                    <option value="Web Design">Technical Support</option>
+                                    <option value="App Design">Careers</option>
+                                    <option value="Other">Complains</option>
+                                </select>
+                                <div class="help-block with-errors"></div>
+                            </div>
+                        </div>
+                        <div class="fieldsets form-group"><textarea id="form_message" placeholder="Your message here"
+                                                                    rows="3" name="msg" required></textarea>
+                            <div class="help-block with-errors"></div>
+                        </div>
+
+                        <div class="custom-control custom-checkbox">
+                            <input type="checkbox" class="custom-control-input" id="customCheck" name="example1"
+                                   checked="checked">
+                            <label class="custom-control-label" for="customCheck">I agree to the <a
+                                    href="javascript:void(0)">Terms &amp; Conditions</a> of Business Name.</label>
+                        </div>
+                        <div class="fieldsets mt20">
+                            <button type="submit" class="lnk btn-main bg-btn">Submit <span class="circle"></span>
+                            </button>
+                        </div>
+                        <p class="trm"><i class="fas fa-lock"></i>We hate spam, and we respect your privacy.</p>
                     </form>
-            </div>
-            <div class="col-lg-5 v-center">
-                <div class="contact-details">
-                    <div class="contact-card wow fadeIn" data-wow-delay=".2s">
-                        <div class="info-card v-center">
-                            <span><i class="fas fa-phone-alt"></i> Phone:</span>
-                            <div class="info-body">
-                                <p>Assistance hours: Monday – Friday, 9 am to 5 pm</p>
-                                <a href="tel:+94 77 123 0931">(+94) 77 123 0931</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="email-card mt30 wow fadeIn" data-wow-delay=".5s">
-                        <div class="info-card v-center">
-                            <span><i class="fas fa-envelope"></i> Email:</span>
-                            <div class="info-body">
-                                <p>Our support team will get back to in 24-h during standard business hours.</p>
-                                <a href="mailto:hello@directpay.lk">hello@directpay.lk</a>
-                            </div>
-                        </div>
-                    </div>
 
+                </div>
+            </div>
+
+
+                <div class="col-lg-5 v-center">
+                    <div class="contact-details">
+                        <div class="contact-card wow fadeIn" data-wow-delay=".2s">
+                            <div class="info-card v-center">
+                                <span><i class="fas fa-phone-alt"></i> Phone:</span>
+                                <div class="info-body">
+                                    <p>Assistance hours: Monday – Friday, 9 am to 5 pm</p>
+                                    <a href="tel:+94 77 123 0931">(+94) 77 123 0931</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="email-card mt30 wow fadeIn" data-wow-delay=".5s">
+                            <div class="info-card v-center">
+                                <span><i class="fas fa-envelope"></i> Email:</span>
+                                <div class="info-body">
+                                    <p>Our support team will get back to in 24-h during standard business hours.</p>
+                                    <a href="mailto:hello@directpay.lk">hello@directpay.lk</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
                 </div>
             </div>
         </div>
