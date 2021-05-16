@@ -194,6 +194,11 @@ Route::get('/invoice', function () {
         return redirect('login');
     });
 
+    Route::get('/contact', function () {
+
+        return redirect('contact');
+    });
+
 
 
 
@@ -214,7 +219,7 @@ Route::get('/invoice', function () {
 
 });
 
-Route::post('email', [\App\Http\Controllers\ContactController::class, 'sendmail']);
+
 Route::post('create', [\App\Http\Controllers\uplink::class, 'rocket']);
 Route::post('create2', [\App\Http\Controllers\accVerification::class, 'verifyAcc'])->name('accountData.submit');
 

@@ -249,53 +249,54 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 v-center">
                 <div class="form-block">
-                    <form method="post" action="{{ route('contactus.store') }}">
-                        {{ csrf_field() }}
-                        <h3>Contact Us</h3>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="form-group {{ $errors->has('name') ? ' has-error' : '' }}">
-                                    <input type="text" name="name" class="form-control" placeholder="Your Name *"  required />
-                                    @if ($errors->has('name'))
-                                        <span class="help-block">
-											<strong>{{ $errors->first('name') }}</strong>
-										</span>
-                                    @endif
-                                </div>
-                                <div class="form-group {{ $errors->has('email') ? ' has-error' : '' }}">
-                                    <input type="email" name="email" class="form-control" placeholder="Your Email *"  required />
-                                    @if ($errors->has('email'))
-                                        <span class="help-block">
-											<strong>{{ $errors->first('email') }}</strong>
-										</span>
-                                    @endif
-                                </div>
-                                <div class="form-group {{ $errors->has('subject') ? ' has-error' : '' }}">
-                                    <input type="text" name="subject" class="form-control" placeholder="Subject *"  />
-                                    @if ($errors->has('subject'))
-                                        <span class="help-block">
-											<strong>{{ $errors->first('subject') }}</strong>
-										</span>
-                                    @endif
-                                </div>
-                                <div class="form-group">
-                                    <input type="submit" name="btnSubmit" class="btn btn-primary btn-round btn-sm" value="Send Message" />
 
+
+                    <form class="ps-form--contact" role="form" action="/email" method="post" >
+
+                        {{csrf_field()}}
+                        @foreach($errors->all() as $e)
+                            <div class="alert alert-danger" role="alert">
+                                {{$e}}
+                            </div>
+                        @endforeach
+                        <div class="ps-form__header">
+                            <p>Contact</p>
+                            <h3>Get In touch with us</h3>
+                        </div>
+                        <div class="ps-form__content">
+                            <div class="row">
+                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 ">
+                                    <div class="form-group">
+                                        <input class="form-control" type="text" placeholder="Your Name" name="name" required>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 ">
+                                    <div class="form-group">
+                                        <input class="form-control" type="email" placeholder="Your Email" name="email" required>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 ">
+                                    <div class="form-group">
+                                        <input class="form-control" type="text" placeholder="Phone" name="phone" required>
+                                    </div>
+                                </div>
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                                    <div class="form-group">
+                                        <textarea class="form-control" placeholder="Your message here" rows="3" name="msg" required></textarea>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="col-md-6">
-                                <div class="form-group {{ $errors->has('message') ? ' has-error' : '' }}">
-                                    <textarea name="message" class="form-control" placeholder="Your Message *" style="width: 100%; height: 150px;" required></textarea>
-                                    @if ($errors->has('message'))
-                                        <span class="help-block">
-				<strong>{{ $errors->first('message') }}</strong>
-				</span>
-                                    @endif
-                                </div>
+                            <div class="ps-form__submit">
+                                <button class="ps-btn">Submit</button>
                             </div>
+
+
+
+
+
+
                         </div>
                     </form>
-                </div>
             </div>
             <div class="col-lg-5 v-center">
                 <div class="contact-details">
