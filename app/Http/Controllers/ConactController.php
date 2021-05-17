@@ -16,7 +16,7 @@ class ConactController extends Controller
         $phone = $request->phone;
         $msg = $request->msg;
         $reason = $request->rqst;
-        $emailb = "hello@kasunanuranga.me";
+        $emailb = "kasun@directpay.lk";
         $mail = new PHPMailer(true);
         date_default_timezone_set('Asia/Colombo');
         $tdate= date("Y/m/d");
@@ -26,11 +26,11 @@ class ConactController extends Controller
         $mail->CharSet = "utf-8";
         $mail->SMTPAuth = true;
         $mail->SMTPSecure = "ssl";
-        $mail->Host = "kasunanuranga.me";
+        $mail->Host = "mail.directpay.lk";
         $mail->Port = 465;
-        $mail->Username = "hello@kasunanuranga.me";
-        $mail->Password = "Nightmayer1997";
-        $mail->setFrom('hello@kasunanuranga.me', 'DirectPay.lk');
+        $mail->Username = "kasun@directpay.lk";
+        $mail->Password = "getmein123";
+        $mail->setFrom('kasun@directpay.lk', 'DirectPay.lk');
         $mail->Subject =  $sub;
         $mail->MsgHTML("<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
             <html xmlns='http://www.w3.org/1999/xhtml'>
@@ -45,7 +45,7 @@ class ConactController extends Controller
                    <table align='center' border='0' cellpadding='0' cellspacing='0' width='600' style='border: 1px solid #cccccc; border-collapse: collapse;'>
                        <tr>
                            <td align='center'>
-                               <img src='https://res.cloudinary.com/directpay/image/upload/v1621169691/Untitled-1_zcduen.png' alt='Email' width='600' height='350' style='display: block;' />
+                               <img src='https://res.cloudinary.com/directpay/image/upload/v1621226435/Untitled-1-min_jxaywc.png' alt='Email' width='600' height='350' style='display: block;' />
                            </td>
                        </tr>
                        <tr>
@@ -53,7 +53,7 @@ class ConactController extends Controller
                                <table border='0' cellpadding='0' cellspacing='0' width='100%'>
                                    <tr>
                                        <td style='padding: 20px 0 30px 0; color: #2f2e2e; font-family: Arial, sans-serif; font-size: 16px; line-height: 20px;'>
-                                         Details of customer message,<br /><br />
+                                         <h3>New Response from Website.!</h3><br /><br />
 
                                          <strong>Customer Name :</strong>$name<br />
                                          <strong>Customer email :</strong>$email<br />
