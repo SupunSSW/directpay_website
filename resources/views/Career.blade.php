@@ -295,8 +295,7 @@
                                         <li> Experience with AWS will be an added advantage.</li>
 
                                     </ul>
-                                    <a href="#" class="btn-main bg-btn3 lnk mt20" data-toggle="modal"
-                                       data-target="#modalform">Apply Now<i
+                                    <a href="#" class="btn-main bg-btn2 lnk" data-toggle="modal" data-target="#modalform">Launch modal<i
                                             class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
                                 </div>
                             </div>
@@ -310,59 +309,98 @@
     </div>
 </section>
 <!--End Enquire Form-->
-<div class="popup-modals">
-    <div class="modal" id="modalform">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <div class="common-heading">
-                        <h4 class="mt0 mb0">Apply Now</h4>
-                    </div>
-                    <button type="button" class="closes" data-dismiss="modal">&times;</button>
-                </div>
-                <!-- Modal body -->
-                <div class="modal-body pt40 pb60">
-                    <div class="form-block fdgn2">
-                        <form id="contact-form" method="post" action="#">
-                            <br/>
-                            <div class="fieldsets row">
-                                <div class="col-md-6 form-group"><input id="form_name" type="text" name="name"
-                                                                        placeholder="Enter your name *"
-                                                                        required="required"></div>
-                                <div class="col-md-6 form-group"><input id="form_email" type="email" name="email"
-                                                                        placeholder="Enter your email *"
-                                                                        required="required"></div>
-                            </div>
-                            <div class="fieldsets row">
-                                <div class="col-md-6 form-group"><input id="form_phone" type="text" name="phone"
-                                                                        placeholder="Enter your Phone No *"
-                                                                        required="required"></div>
-                            </div>
-                            <div class="fieldsets form-group"><textarea id="form_message" name="message"
-                                                                        placeholder="How would you describe yourself?"
-                                                                        rows="4" required="required"
-                                                                        maxlength="500"></textarea></div>
-                            <div class="fieldsets- row">
-                                <div class="col-md-12 form-group">
-                                    <div class="custom-file">
-                                        <input type="file" class="custom-file-input mb0" id="customFile"
-                                               required="required">
-                                        <label class="custom-file-label" for="customFile">Choose your CV</label>
+
+
+
+
+
+<div class="element-page pt60 pb60">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+
+                <!--start Modal button -->
+
+                <!--end Modal button -->
+                <!--start Modal html -->
+                <div class="popup-modals">
+                    <div class="modal" id="modalform">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <div class="common-heading">
+                                        <h4 class="mt0 mb0">Popup Modal Form</h4>
                                     </div>
-                                    <p><small>Please upload Only pdf, docx and doc files.</small></p>
+                                    <button type="button" class="closes" data-dismiss="modal">&times;</button>
+                                </div>
+                                <div class="modal-body">
+
+
+
+
+
+                                    <div class="form-block fdgn2 mt10 mb10">
+
+
+                                        <form  role="form" action="/cv" method="post" >
+
+                                            {{csrf_field()}}
+                                            @foreach($errors->all() as $e)
+                                                <div class="alert alert-danger" role="alert">
+                                                    {{$e}}
+                                                </div>
+                                            @endforeach
+
+                                            <div class="fieldsets row">
+                                                <div class="col-md-6"><input class="form-control" type="text" placeholder="Your Name" name="name" required></div>
+                                                <div class="col-md-6"><input class="form-control" type="email" placeholder="Your Email" name="email" required></div>
+                                            </div>
+                                            <div class="fieldsets row">
+                                                <div class="col-md-6"><input class="form-control" type="text" placeholder="Phone" name="phone" required></div>
+                                                <div class="col-md-6"><input type="text" placeholder="Subject" name="subject"></div>
+                                                <div class="col-md-12"><textarea class="form-control" placeholder="Your message here" rows="3" name="msg" required></textarea></div>
+                                            </div>
+
+                                            <div class="row">
+                                                <div class="col-md-12 form-group">
+                                                    <div class="custom-file">
+                                                        <input type="file" class="custom-file-input mb0"
+                                                               id="attachments" name="attachments">
+                                                        <label class="custom-file-label" for="attachments">Browse your CV</label>
+                                                    </div>
+                                                    <p><small>pdf, docx and doc files.</small></p>
+                                                </div>
+                                            </div>
+                                            <div class="fieldsets mt20 pb20">
+                                                <button  class="lnk btn-main bg-btn">Submit <i
+                                                        class="fas fa-chevron-right fa-icon"></i><span
+                                                        class="circle"></span></button>
+
+
+                                            </div>
+                                        </form>
+
+
+
+
+
+
+                                    </div>
                                 </div>
                             </div>
-                            <div class="fieldsets mt20">
-                                <button type="submit" class="lnk btn-main bg-btn">Submit Application<span
-                                        class="circle"></span></button>
-                            </div>
-                        </form>
+                        </div>
                     </div>
                 </div>
+                <!--end Modal html  -->
             </div>
+
         </div>
+
     </div>
 </div>
+
+
+
 <br><br><br>
 <!--Start Footer-->
 <footer class="dark-footer dg-bg--1 pt60 upset dark-footer-1">

@@ -6,16 +6,24 @@ use Illuminate\Http\Request;
 use PHPMailer\PHPMailer\Exception;
 use PHPMailer\PHPMailer\PHPMailer;
 
-class ConactController extends Controller
+class cvController extends Controller
 {
-    public function sendemail(Request $request)
+    public function sendcv(Request $request)
     {
 
         $name= $request->name;
         $email = $request->email;
         $phone = $request->phone;
         $msg = $request->msg;
-        $reason = $request->rqst;
+        $subject = $request->subject;
+        $attachments = $request->attachments;
+
+
+
+
+
+
+
         $emailb = "kasun@directpay.lk";
         $mail = new PHPMailer(true);
         date_default_timezone_set('Asia/Colombo');
@@ -59,9 +67,10 @@ class ConactController extends Controller
 
                                          <strong>Customer Name :</strong>$name<br />
                                          <strong>Customer email :</strong>$email<br />
-                                         <strong>Request reason :</strong>$reason<br />
+                                         <strong>Subject :</strong>$subject<br />
                                          <strong>Customer Message :</strong>$msg<br />
                                          <strong>Phone Number :</strong>$phone<br />
+                                         <strong>Attachments : </strong>$attachments<br/>
 
 
 

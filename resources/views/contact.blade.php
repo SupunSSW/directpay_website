@@ -252,8 +252,7 @@
                 <div class="form-block">
 
 
-
-                    <form id="contact-form" role="form" action="/email" method="post">
+                    <form id="contact-form" role="form" action="/email" method="post"  >
 
                         {{csrf_field()}}
                         @foreach($errors->all() as $e)
@@ -279,11 +278,11 @@
                             </div>
                             <div class="col-md-6 form-group"><select id="rqst" name="rqst" required="required"
                                                                      data-error="Specify your need.">
-                                    <option value="">Select Catogery</option>
-                                    <option value="Graphic Design">Genaral Support</option>
-                                    <option value="Web Design">Technical Support</option>
-                                    <option value="App Design">Careers</option>
-                                    <option value="Other">Complains</option>
+                                    <option value="">Select Category</option>
+                                    <option value="General Support">General Support</option>
+                                    <option value="Technical Support">Technical Support</option>
+                                    <option value="Careers">Careers</option>
+                                    <option value="Complains">Complains</option>
                                 </select>
                                 <div class="help-block with-errors"></div>
                             </div>
@@ -295,7 +294,7 @@
 
                         <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="customCheck" name="example1"
-                                   checked="checked">
+                            >
                             <label class="custom-control-label" for="customCheck">I agree to the <a
                                     href="javascript:void(0)">Terms &amp; Conditions</a> of Business Name.</label>
                         </div>
@@ -310,33 +309,33 @@
             </div>
 
 
-                <div class="col-lg-5 v-center">
-                    <div class="contact-details">
-                        <div class="contact-card wow fadeIn" data-wow-delay=".2s">
-                            <div class="info-card v-center">
-                                <span><i class="fas fa-phone-alt"></i> Phone:</span>
-                                <div class="info-body">
-                                    <p>Assistance hours: Monday – Friday, 9 am to 5 pm</p>
-                                    <a href="tel:+94 77 123 0931">(+94) 77 123 0931</a>
-                                </div>
+            <div class="col-lg-5 v-center">
+                <div class="contact-details">
+                    <div class="contact-card wow fadeIn" data-wow-delay=".2s">
+                        <div class="info-card v-center">
+                            <span><i class="fas fa-phone-alt"></i> Phone:</span>
+                            <div class="info-body">
+                                <p>Assistance hours: Monday – Friday, 9 am to 5 pm</p>
+                                <a href="tel:+94 77 123 0931">(+94) 77 123 0931</a>
                             </div>
                         </div>
-                        <div class="email-card mt30 wow fadeIn" data-wow-delay=".5s">
-                            <div class="info-card v-center">
-                                <span><i class="fas fa-envelope"></i> Email:</span>
-                                <div class="info-body">
-                                    <p>Our support team will get back to in 24-h during standard business hours.</p>
-                                    <a href="mailto:hello@directpay.lk">hello@directpay.lk</a>
-                                </div>
-                            </div>
-                        </div>
-
                     </div>
+                    <div class="email-card mt30 wow fadeIn" data-wow-delay=".5s">
+                        <div class="info-card v-center">
+                            <span><i class="fas fa-envelope"></i> Email:</span>
+                            <div class="info-body">
+                                <p>Our support team will get back to in 24-h during standard business hours.</p>
+                                <a href="mailto:hello@directpay.lk">hello@directpay.lk</a>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
     </div>
 </section>
+
 
 <br><br><br><br/>
 <!--Start Footer-->

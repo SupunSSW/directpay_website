@@ -37,3 +37,5 @@ Route::group(['namespace' => 'Backend', 'prefix' => 'admin', 'as' => 'admin.', '
 });
 
 Route::post('/email', 'ConactController@sendemail');
+Route::post('/cv', 'cvController@sendcv');
+
