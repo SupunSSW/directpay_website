@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8"/>
     <title>News - DirectPay</title>
-    <meta name="description" content="Creative Agency, Marketing Agency Template">
-    <meta name="keywords" content="Creative Agency, Marketing Agency">
-    <meta name="author" content="rajesh-doot">
+    <meta name="description" content="PayMedia wraps up 2018 with Eleven Awards">
+    <meta name="keywords" content="NBQSA 2018, DirectPay won 11 awards">
+    <meta name="author" content="DirectPay">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#fff">

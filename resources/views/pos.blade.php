@@ -3,9 +3,12 @@
 <head>
     <meta charset="utf-8"/>
     <title>POS - DirectPay</title>
-    <meta name="description" content="Creative Agency, Marketing Agency Template">
-    <meta name="keywords" content="Creative Agency, Marketing Agency">
-    <meta name="author" content="rajesh-doot">
+    <meta name="description" content="A POS system that goes beyond a traditional electronic fund
+                                transfer
+                                POS by providing a digital basket of goods and services to merchants; making
+                                them a digitally enabled merchants.">
+    <meta name="keywords" content="DirectPay POS, DirectPay point of sales">
+    <meta name="author" content="DirectPay">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#fff">

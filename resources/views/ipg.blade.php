@@ -3,9 +3,14 @@
 <head>
     <meta charset="utf-8"/>
     <title>Compare plans - IPG</title>
-    <meta name="description" content="Creative Agency, Marketing Agency Template">
-    <meta name="keywords" content="Creative Agency, Marketing Agency">
-    <meta name="author" content="rajesh-doot">
+    <meta name="description" content="DirectPay now offers a safe and convenient internet payment
+                                gateway
+                                in Sri Lanka.
+                                We give you a fool-proof internet payment gateway and invoicing system that will help
+                                your
+                                business run smoothly.For a safer and affordable payment solution">
+    <meta name="keywords" content="DirectPay Internet Payment Gateway, DirectPay IPG">
+    <meta name="author" content="DirectPay">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#fff">
@@ -230,8 +235,6 @@
 </section>
 
 
-
-
 <section class="about-dg-2 pb120 pt120 bg-flat1 m-t-c">
     <div class="container">
         <div class="row">
@@ -245,9 +248,11 @@
                 <div class="common-heading-2 text-l">
                     <div class="common-heading">
                         <h2 class="mb30">Internet Payment Gateway</h2>
-                        <p ><font color="#333" size="3px">DirectPay now offers a safe and convenient internet payment gateway
+                        <p><font color="#333" size="3px">DirectPay now offers a safe and convenient internet payment
+                                gateway
                                 in Sri Lanka.
-                                We give you a fool-proof internet payment gateway and invoicing system that will help your
+                                We give you a fool-proof internet payment gateway and invoicing system that will help
+                                your
                                 business run smoothly.For a safer and affordable payment solution</font></p>
 
 
@@ -464,7 +469,8 @@ Sri Lanka, 00700</span></p>
                 <h5 class="mb30 mt30">Be Connected</h5>
                 <div class="ff-social-icons mt30">
                     <a href="https://www.facebook.com/directpay.srilanka" target="blank"><i class="fab fa-facebook"></i></a>
-                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.youtube.com/channel/UC0N97bEzXShtZTO5i8gIHQA" target="blank"><i
+                            class="fab fa-youtube"></i></a>
                     <a href="https://www.linkedin.com/company/54304577/" target="blank"><i class="fab fa-linkedin"></i></a>
                     <a href="https://www.instagram.com/directpay.lk/" target="blank"><i
                             class="fab fa-instagram"></i></a>

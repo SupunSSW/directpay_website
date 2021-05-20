@@ -5,8 +5,8 @@
     <title>DirectPay - Business</title>
     <meta name="description"
           content="DirectPay is your digital partner that simplifies the checkout process across your purchases online in Sri Lanka.">
-    <meta name="keywords" content="Directpay">
-    <meta name="author" content="directpay.lk">
+    <meta name="keywords" content="DirectPay">
+    <meta name="author" content="directPay">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#fff">

@@ -5,7 +5,7 @@
     <title>DirectPay wins national “Best Disruptor” award from SLASSCOM</title>
     <meta name="description" content="DirectPay wins national “Best Disruptor” award from SLASSCOM">
     <meta name="keywords" content="Slasscom awards 2021">
-    <meta name="author" content="Directpay">
+    <meta name="author" content="DirectPay">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#fff">

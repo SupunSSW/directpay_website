@@ -3,9 +3,10 @@
 <head>
     <meta charset="utf-8"/>
     <title>News - DirectPay</title>
-    <meta name="description" content="Creative Agency, Marketing Agency Template">
-    <meta name="keywords" content="Creative Agency, Marketing Agency">
-    <meta name="author" content="rajesh-doot">
+    <meta name="description" content="We are still overjoyed by winning 3 awards at the National ICT Awards (NBQSA) 2020 and being
+                        selected to represent Sri Lanka at APICTA in Malaysia.">
+    <meta name="keywords" content="NBQSA 2020, DirectPay">
+    <meta name="author" content="DirectPay">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#fff">

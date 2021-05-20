@@ -8,9 +8,11 @@ $num = "";
 <head>
     <meta charset="utf-8"/>
     <title>News - DirectPay</title>
-    <meta name="description" content="Creative Agency, Marketing Agency Template">
-    <meta name="keywords" content="Creative Agency, Marketing Agency">
-    <meta name="author" content="rajesh-doot">
+    <meta name="description" content="DirectPay wins national “Best Disruptor” award from SLASSCOM
+                        DirectPay was recognized as the island-wide winner of the “Best Disruptor 2021” award at the
+                            SLASSCOM National Ingenuity Awards 2021.">
+    <meta name="keywords" content="DirectPay News">
+    <meta name="author" content="DirectPay">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#fff">

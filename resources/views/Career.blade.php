@@ -3,9 +3,12 @@
 <head>
     <meta charset="utf-8"/>
     <title>Careers- DirectPay</title>
-    <meta name="description" content="Creative Agency, Marketing Agency Template">
-    <meta name="keywords" content="Creative Agency, Marketing Agency">
-    <meta name="author" content="rajesh-doot">
+    <meta name="description" content="DirectPay connects everyone digitally bringing us one step closer towards a
+                                        cashless society by introducing modern payment methods in the financial and
+                                        telecom industries. We are revolutionizing the Sri Lankan fintech industry with
+                                        a passionate team who strive to deliver the best and we are growing rapidly.">
+    <meta name="keywords" content="Join DirectPay">
+    <meta name="author" content="DirectPay">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!--website-favicon-->

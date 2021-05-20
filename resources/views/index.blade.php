@@ -5,8 +5,8 @@
     <title>DirectPay - Homepage</title>
     <meta name="description"
           content="DirectPay is your digital partner that simplifies the checkout process across your purchases online in Sri Lanka.">
-    <meta name="keywords" content="Directpay">
-    <meta name="author" content="directpay.lk">
+    <meta name="keywords" content="DirectPay">
+    <meta name="author" content="directPay">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#fff">
@@ -60,7 +60,7 @@ Removes white gap between slides - chagnge to base color of slide images
 
 <div class="onloadpage" id="page_loader">
     <div class="pre-content">
-        <div class="logo-pre"><img src="images/logo-bckp.png" alt="Logo" class="img-fluid"/></div>
+        <div class="logo-pre"><img src="https://res.cloudinary.com/directpay/image/upload/v1621411813/logo-bckp-min_tvuf38.png" alt="Logo" class="img-fluid"/></div>
         <div class="pre-text-"><span></span></div>
     </div>
 </div>
@@ -72,7 +72,7 @@ Removes white gap between slides - chagnge to base color of slide images
         <div class="menu-header">
             <div class="dsk-logo"><a class="nav-brand" href="/">
                     <img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-                    <img src="images/logo-bckp.png" alt="Logo" class="mega-darks-logo" width="180px">
+                    <img src="https://res.cloudinary.com/directpay/image/upload/v1621411813/logo-bckp-min_tvuf38.png" alt="Logo" class="mega-darks-logo" width="180px">
                 </a></div>
             <div class="custom-nav" role="navigation">
                 <ul class="nav-list">
@@ -206,7 +206,7 @@ Removes white gap between slides - chagnge to base color of slide images
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806049/3-20x5-min_mlduir.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806049/3-14x5-min_hzhla5.jpg" media="(min-width: 769px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806049/3-8x5-min_xyahhf.jpg" media="(min-width: 577px)">
-                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806049/3-6x5-min_u2xlva.jpg" alt="responsive image" class="d-block img-fluid">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806049/3-6x5-min_u2xlva.jpg" alt="Headers" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption">
@@ -225,7 +225,7 @@ Removes white gap between slides - chagnge to base color of slide images
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806040/2-20x5-min_hu1pf2.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806040/2-14x5-min_cjvatb.jpg" media="(min-width: 769px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806040/2-8x5-min_qfjpln.jpg" media="(min-width: 577px)">
-                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806040/2-6x5-min_lcvizo.jpg" alt="responsive image" class="d-block img-fluid">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806040/2-6x5-min_lcvizo.jpg" alt="Headers" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -244,7 +244,7 @@ Removes white gap between slides - chagnge to base color of slide images
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806031/1-20x5-min_ikzje1.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806030/1-14x5-min_svohvr.jpg" media="(min-width: 769px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806030/1-8x5-min_xonfc0.jpg" media="(min-width: 577px)">
-                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806030/1-6x5-min_vrigs2.jpg" alt="responsive image" class="d-block img-fluid">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806030/1-6x5-min_vrigs2.jpg" alt="Headers" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -262,7 +262,7 @@ Removes white gap between slides - chagnge to base color of slide images
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806058/4-20x5-min_m4rmbf.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806058/4-14x5-min_hsgugj.jpg" media="(min-width: 769px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806058/4-8x5-min_jnu4p1.jpg" media="(min-width: 577px)">
-                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806058/4-6x5-min_uduys6.jpg" alt="responsive image" class="d-block img-fluid">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806058/4-6x5-min_uduys6.jpg" alt="Headers" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -280,7 +280,7 @@ Removes white gap between slides - chagnge to base color of slide images
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806068/5-20x5-min_ftrxw1.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806068/5-14x5-min_qrez0y.jpg" media="(min-width: 769px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806068/5-8x5-min_cw8gt1.jpg" media="(min-width: 577px)">
-                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806068/5-6x5-min_hykjc5.jpg" alt="responsive image" class="d-block img-fluid">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806068/5-6x5-min_hykjc5.jpg" alt="Headers" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -298,7 +298,7 @@ Removes white gap between slides - chagnge to base color of slide images
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806077/6-20x5-min_liq06x.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806077/6-14x5-min_zvgxfm.jpg" media="(min-width: 769px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806077/6-8x5-min_wwhlsr.jpg" media="(min-width: 577px)">
-                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806077/6-6x5-min_wtizeg.jpg" alt="responsive image" class="d-block img-fluid">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806077/6-6x5-min_wtizeg.jpg" alt="Headers" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -317,7 +317,7 @@ Removes white gap between slides - chagnge to base color of slide images
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806086/7-20x5-min_cbxuym.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806086/7-14x5-min_ltpvhx.jpg" media="(min-width: 769px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806086/7-8x5-min_lzy8oe.jpg" media="(min-width: 577px)">
-                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806086/7-6x5-min_p7cwxb.jpg" alt="responsive image" class="d-block img-fluid">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806086/7-6x5-min_p7cwxb.jpg" alt="Headers" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">
@@ -336,7 +336,7 @@ Removes white gap between slides - chagnge to base color of slide images
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806097/8-20x5-min_f0zark.jpg" media="(min-width: 1400px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806096/8-14x5-min_dicpeb.jpg" media="(min-width: 769px)">
                         <source srcset="https://res.cloudinary.com/directpay/image/upload/v1620806096/8-8x5-min_y0a9i0.jpg" media="(min-width: 577px)">
-                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806096/8-6x5-min_bixnog.jpg" alt="responsive image" class="d-block img-fluid">
+                        <img srcset="https://res.cloudinary.com/directpay/image/upload/v1620806096/8-6x5-min_bixnog.jpg" alt="Headers" class="d-block img-fluid">
                     </picture>
 
                     <!--<div class="carousel-caption justify-content-center align-items-center">

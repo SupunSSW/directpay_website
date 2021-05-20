@@ -3,9 +3,11 @@
 <head>
     <meta charset="utf-8"/>
     <title>Directpay - Business</title>
-    <meta name="description" content="Creative Agency, Marketing Agency Template">
-    <meta name="keywords" content="Creative Agency, Marketing Agency">
-    <meta name="author" content="rajesh-doot">
+    <meta name="description" content="A perfect multichannel payment solution for Merchants with the
+                                latest QR based technologies allowing customers to process payments at their
+                                convenience with low rates.">
+    <meta name="keywords" content="DirectPay Merchant Application">
+    <meta name="author" content="DirectPay">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#fff">

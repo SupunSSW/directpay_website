@@ -17,9 +17,9 @@ $logo = "";
 <head>
     <meta charset="utf-8"/>
     <title>Billing Portal- DirectPay</title>
-    <meta name="description" content="Creative Agency, Marketing Agency Template">
-    <meta name="keywords" content="Creative Agency, Marketing Agency">
-    <meta name="author" content="rajesh-doot">
+    <meta name="description" content="Pay your bills online with ease! No registrations required.">
+    <meta name="keywords" content="Billpayment platform">
+    <meta name="author" content="DirectPay">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!--website-favicon-->

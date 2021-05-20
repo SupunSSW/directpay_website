@@ -3,9 +3,10 @@
 <head>
     <meta charset="utf-8"/>
     <title>About - DirectPay</title>
-    <meta name="description" content="Creative Agency, Marketing Agency Template">
-    <meta name="keywords" content="Creative Agency, Marketing Agency">
-    <meta name="author" content="rajesh-doot">
+    <meta name="description" content="DirectPay is a Sri Lankan startup that is solving the problem of getting paid.
+                        We believe that payment is always a byproduct of some other transaction and we are addressing how to pursue that payment digitally.">
+    <meta name="keywords" content="About DirectPay">
+    <meta name="author" content="DirectPay">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#fff">
@@ -34,7 +35,7 @@
         <div class="menu-header">
             <div class="dsk-logo"><a class="nav-brand" href="/">
                     <img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-                    <img src="images/logo-bckp.png" alt="Logo" class="mega-darks-logo" width="180px">
+                    <img src="https://res.cloudinary.com/directpay/image/upload/v1621411813/logo-bckp-min_tvuf38.png" alt="Logo" class="mega-darks-logo" width="180px">
                 </a></div>
             <div class="custom-nav" role="navigation">
                 <ul class="nav-list">
