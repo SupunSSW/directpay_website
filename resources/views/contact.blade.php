@@ -296,7 +296,7 @@
                             <input type="checkbox" class="custom-control-input" id="customCheck" name="example1"
                             >
                             <label class="custom-control-label" for="customCheck">I agree to the <a
-                                    href="javascript:void(0)">Terms &amp; Conditions</a> of Business Name.</label>
+                                    href="javascript:void(0)">Terms &amp; Conditions</a> of DirectPay.</label>
                         </div>
                         <div class="fieldsets mt20">
                             <button type="submit" class="lnk btn-main bg-btn">Submit <span class="circle"></span>
