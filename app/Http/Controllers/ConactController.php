@@ -16,7 +16,7 @@ class ConactController extends Controller
         $phone = $request->phone;
         $msg = $request->msg;
         $reason = $request->rqst;
-        $emailb = "kasun@directpay.lk";
+        $emailb = "hello@directpay.lk";
         $mail = new PHPMailer(true);
         date_default_timezone_set('Asia/Colombo');
         $tdate= date("Y/m/d");
@@ -30,7 +30,7 @@ class ConactController extends Controller
         $mail->Port = 465;
         $mail->Username = "kasun@directpay.lk";
         $mail->Password = "getmein123";
-        $mail->setFrom('kasun@directpay.lk', 'DirectPay.lk');
+        $mail->setFrom('kasun@directpay.lk', 'DirectPay');
         $mail->Subject =  $sub;
         //$mail->AddCC('hello@directpay.lk', 'DirectPay');
         $mail->AddCC('simulatorkasun@gmail.com', 'check');

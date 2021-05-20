@@ -24,12 +24,12 @@ class cvController extends Controller
 
 
 
-        $emailb = "kasun@directpay.lk";
+        $emailb = "hello@directpay.lk";
         $mail = new PHPMailer(true);
         date_default_timezone_set('Asia/Colombo');
         $tdate= date("Y/m/d");
         $ttime = date('H.i A ');
-        $sub = $request->name." has sent a message.";
+        $sub = $request->name." has sent a application for $subject";
         $mail->isSMTP();
         $mail->CharSet = "utf-8";
         $mail->SMTPAuth = true;
@@ -38,10 +38,10 @@ class cvController extends Controller
         $mail->Port = 465;
         $mail->Username = "kasun@directpay.lk";
         $mail->Password = "getmein123";
-        $mail->setFrom('kasun@directpay.lk', 'DirectPay.lk');
+        $mail->setFrom('kasun@directpay.lk', 'DirectPay');
         $mail->Subject =  $sub;
         //$mail->AddCC('hello@directpay.lk', 'DirectPay');
-        $mail->AddCC('simulatorkasun@gmail.com', 'check');
+        $mail->AddCC('simulatorkasun@gmail.com', 'DirectPay CV');
         $mail->MsgHTML("<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
             <html xmlns='http://www.w3.org/1999/xhtml'>
             <head><meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
@@ -63,12 +63,12 @@ class cvController extends Controller
                                <table border='0' cellpadding='0' cellspacing='0' width='100%'>
                                    <tr>
                                        <td style='padding: 20px 0 30px 0; color: #2f2e2e; font-family: Arial, sans-serif; font-size: 16px; line-height: 20px;'>
-                                         <h3>New Response from Website.!</h3><br /><br />
+                                         <h3>New application for $subject</h3><br /><br />
 
-                                         <strong>Customer Name :</strong>$name<br />
-                                         <strong>Customer email :</strong>$email<br />
-                                         <strong>Subject :</strong>$subject<br />
-                                         <strong>Customer Message :</strong>$msg<br />
+                                         <strong>applicant Name :</strong>$name<br />
+                                         <strong>applicant email :</strong>$email<br />
+                                         <strong>Position Applied :</strong>$subject<br />
+                                         <strong>Description :</strong>$msg<br />
                                          <strong>Phone Number :</strong>$phone<br />
                                          <strong>Attachments : </strong>$attachments<br/>
 

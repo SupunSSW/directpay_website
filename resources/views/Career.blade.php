@@ -298,7 +298,7 @@
                                         <li> Experience with AWS will be an added advantage.</li>
 
                                     </ul>
-                                    <a href="#" class="btn-main bg-btn2 lnk" data-toggle="modal" data-target="#modalform">Launch modal<i
+                                    <a href="#" class="btn-main bg-btn2 lnk" data-toggle="modal" data-target="#modalform">Apply Now<i
                                             class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
                                 </div>
                             </div>
@@ -332,7 +332,7 @@
                             <div class="modal-content">
                                 <div class="modal-header">
                                     <div class="common-heading">
-                                        <h4 class="mt0 mb0">Popup Modal Form</h4>
+                                        <h4 class="mt0 mb0">Apply now!</h4>
                                     </div>
                                     <button type="button" class="closes" data-dismiss="modal">&times;</button>
                                 </div>
@@ -355,13 +355,13 @@
                                             @endforeach
 
                                             <div class="fieldsets row">
-                                                <div class="col-md-6"><input class="form-control" type="text" placeholder="Your Name" name="name" required></div>
-                                                <div class="col-md-6"><input class="form-control" type="email" placeholder="Your Email" name="email" required></div>
+                                                <div class="col-md-6"><input class="form-control" type="text" placeholder="Name" name="name" required></div>
+                                                <div class="col-md-6"><input class="form-control" type="email" placeholder="Email" name="email" required></div>
                                             </div>
                                             <div class="fieldsets row">
                                                 <div class="col-md-6"><input class="form-control" type="text" placeholder="Phone" name="phone" required></div>
-                                                <div class="col-md-6"><input type="text" placeholder="Subject" name="subject"></div>
-                                                <div class="col-md-12"><textarea class="form-control" placeholder="Your message here" rows="3" name="msg" required></textarea></div>
+                                                <div class="col-md-6"><input type="text" placeholder="Position" name="subject"></div>
+                                                <div class="col-md-12"><textarea class="form-control" placeholder="Describe yourself" rows="3" name="msg" required></textarea></div>
                                             </div>
 
                                             <div class="row">
