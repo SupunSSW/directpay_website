@@ -62,7 +62,7 @@
                                                 <li><a href="merchant">Merchant App</a></li>
                                                 <li><a href="pos">POS</a></li>
                                                 <li><a href="vpos">VPOS</a></li>
-                                                <li><a href="whitelable">White Lable</a></li>
+                                                <li><a href="whitelable">Platform</a></li>
                                             </ul>
                                         </div>
                                         <div class="sub-menu-column">
@@ -81,7 +81,7 @@
                             </div>
                         </div>
                     </li>
-                    <li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+                    <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
                     <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
                     <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
                     <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -113,14 +113,14 @@
                         <li><a href="merchant">Merchant App</a></li>
                         <li><a href="pos">POS</a></li>
                         <li><a href="vpos">VPOS</a></li>
-                        <li><a href="whitelable">White Lable</a></li>
+                        <li><a href="whitelable">Platform</a></li>
                         <li><a href="https://www.directpay.lk/developer/"><font color="#012480"
                                                                                 size="3.5px">Developer</font></a></li>
                         <li><a href="https://www.directpay.lk/developer/">Sandbox</a></li>
 
                     </ul>
                 </li>
-                <li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+                <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
                 <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
                 <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
                 <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>

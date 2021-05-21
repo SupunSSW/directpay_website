@@ -21,22 +21,22 @@
 		<link href="css/responsive.css" rel="stylesheet">
 	</head>
 	<body>
-		
+
 			<!--Start Header -->
-	
+
 		<!-- top bar end -->
 <header class="nav-bg-w main-header navfix fixed-top menu-white">
 			<div class="container-fluid m-pad">
-				
+
 				<div class="menu-header">
 					<div class="dsk-logo"><a class="nav-brand" href="consumer">
 						<img src="images/white-logo.png" alt="Logo" class="mega-white-logo"/>
-						<img src="images/logo.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+						<img src="images/logo.png" alt="Logo" class="mega-darks-logo" width="180px">
 					</a></div>
 					<div class="custom-nav" role="navigation">
 						<ul class="nav-list">
 							<li class="sbmenu"><a href="consumer" class="menu-links">Home</a>
-						
+
 						</li>
 						<li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
 						<div class="nx-dropdown">
@@ -48,12 +48,12 @@
 												<li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-												
+
 											</ul>
 										</div>
 										<div class="sub-menu-column">
 											<ul>
-												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></font></a></li>
+												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -75,7 +75,7 @@
 							</div>
 						</div>
 					</li>
-					<li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+					<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
 					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
 					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
 					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -103,7 +103,7 @@
 <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></font></a></li>
+<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
@@ -114,7 +114,7 @@
 
 </ul>
 </li>
-<li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
 					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
 					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
 					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -131,7 +131,7 @@
 <div class="modal-content">
 <div class="modal-header">
 	<div class="common-heading">
-		<h4 class="mt0 mb0">Write a Message</h4>		
+		<h4 class="mt0 mb0">Write a Message</h4>
 	</div>
 <button type="button" class="closes" data-dismiss="modal">&times;</button></div>
 <!-- Modal body -->
@@ -167,9 +167,9 @@
             <div class="col-lg-12 v-center">
               <div class="bread-inner">
                 <div class="bread-menu">
-              
+
                 </div>
-               
+
               </div>
             </div>
           </div>
@@ -202,30 +202,30 @@
             <div class="image-set"><img src="images/blog/blog-post-4.jpg" alt="blog images" class="img-fluid" /></div>
             <div class="blog-content mt30">
               <p>
-               PayMedia CEO and Founder, Kanishka Weeramunda, has been named the Best CEO of the Year and the Best Future Leader of the Year in the small and medium service sector category at the CMI Excellence Awards 2017, which was held recently at Shangri-La Colombo. 
+               PayMedia CEO and Founder, Kanishka Weeramunda, has been named the Best CEO of the Year and the Best Future Leader of the Year in the small and medium service sector category at the CMI Excellence Awards 2017, which was held recently at Shangri-La Colombo.
 
-            
+
               <p>
                One of his pioneering businesses, PayMedia, is a rapidly evolving Financial Technology (Fin-Tech) company in Sri Lanka, started with the aimof providing the best calibre of total software solutions for banks and other institutes.While keeping his focus on Fin-Tech, Weeramunda wants people to trust and enjoy the conveniences of digital technology and disrupt the payment processesin the country and around the world.
               </p>
               <br>
               <p>
-               The company has grown tenfold with a team of ambitious and committed young individuals led by Kanishka. PayMedia has successfully developed digital products for clients such as Sampath Bank PLC, Nations Trust Bank, Amana Bank PLC, Hatton National Bank PLC, LOLC Finance Company, Central Finance PLC and the Ceylon Electricity Board. These products are currently simplifying the user experience of millions around the country and enables the clients to gain a competitive edge by enhancing digital services based on process automation and real time payments.  
+               The company has grown tenfold with a team of ambitious and committed young individuals led by Kanishka. PayMedia has successfully developed digital products for clients such as Sampath Bank PLC, Nations Trust Bank, Amana Bank PLC, Hatton National Bank PLC, LOLC Finance Company, Central Finance PLC and the Ceylon Electricity Board. These products are currently simplifying the user experience of millions around the country and enables the clients to gain a competitive edge by enhancing digital services based on process automation and real time payments.
 
 
               </p>
-              
-           
+
+
 
 			  <div class="row">
 									<div class="col-lg-8 col-md-8 mt30 mb30">
 										<div class="blog-post-tag">
 											<span>Read Dailymirror</span>
 											<a href="http://www.dailymirror.lk/article/Kanishka-Weeramunda-Bags-Two-Awards-At-The-Cmi-Excellence-Awards--148977">Visit Dailymirror Article</a>
-										
+
 										</div>
 									</div>
-								
+
 			</div>
 			<div class="row">
 									<div class="col-lg-6 col-md-6 mt30 mb30">
@@ -243,7 +243,7 @@
 								</div>
 
             </div>
-      
+
 
           </div>
           <!--End Blog Details-->
@@ -315,7 +315,7 @@
 
               <!--End Tags-->
               <!--Start block for offer/ads-->
-            
+
               <!--End block for offer/ads-->
             </div>
           </div>

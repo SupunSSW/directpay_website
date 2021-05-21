@@ -63,7 +63,7 @@
                                                 <li><a href="merchant">Merchant App</a></li>
                                                 <li><a href="pos">POS</a></li>
                                                 <li><a href="vpos">VPOS</a></li>
-                                                <li><a href="whitelable">White Lable</a></li>
+                                                <li><a href="whitelable">Platform</a></li>
                                             </ul>
                                         </div>
                                         <div class="sub-menu-column">
@@ -82,7 +82,7 @@
                             </div>
                         </div>
                     </li>
-                    <li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+                    <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
                     <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
                     <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
                     <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -106,22 +106,22 @@
                 </li>
                 <li><a href="">Services and Solutions</a>
                     <ul>
-                        <li><a href="index"><font color="#012480" size="3.5px">Consumer</font></a></li>
-                        <li><a href="index">User App</a></li>
+                        <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
+                        <li><a href="consumer">User App</a></li>
                         <li><a href="web">Web</a></li>
                         <li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
                         <li><a href="ipg">IPG</a></li>
                         <li><a href="merchant">Merchant App</a></li>
                         <li><a href="pos">POS</a></li>
                         <li><a href="vpos">VPOS</a></li>
-                        <li><a href="whitelable">White Lable</a></li>
+                        <li><a href="whitelable">Platform</a></li>
                         <li><a href="https://www.directpay.lk/developer/"><font color="#012480"
                                                                                 size="3.5px">Developer</font></a></li>
                         <li><a href="https://www.directpay.lk/developer/">Sandbox</a></li>
 
                     </ul>
                 </li>
-                <li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+                <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
                 <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
                 <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
                 <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -210,10 +210,37 @@
 
 <!--End Header -->
 <!--Start Hero-->
-
-<section class="breadcrumb-areav2" data-background="images/banner/8.jpg">
-
+<section class="breadcrumb-area banner-1" data-background="images/banner/10.png">
+    <div class="text-block">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 v-center">
+                    <div class="bread-inner">
+                        <div class="bread-menu wow fadeInUp" data-wow-delay=".2s">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
+<section class="about-sec bg-gradient5 pad-tb">
+    <div class="container">
+        <div class="row justify-content-center text-center">
+            <div class="col-lg-10">
+                <div class="common-heading">
+                <h2 class="mb30">Towards a <font color="#012480">#Cashless</font> Society</h2>
+
+                <br>
+                </div>
+                <br>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <section class="about-dg-busign pb120 pt120 bg-light-ylo upset">
 
     <div class="container">
@@ -225,7 +252,7 @@
 
             <div class="col-lg-6 v-center">
                 <div class="bread-titlev2">
-                    <h1 class="wow fadeInUp" data-wow-delay=".2s">Towards a Cashless Society</h1>
+
                     <p class="mt20 wow fadeInUp" data-wow-delay=".4s">DirectPay is a Sri Lankan startup that is solving the problem of getting paid.
                         We believe that payment is always a byproduct of some other transaction and we are addressing how to pursue that payment digitally.
                         It could be either through a mobile-based payment app, an Internet payment gateway, a payment link to receive remote payments, subscription
@@ -265,7 +292,7 @@
                     </div>
                     <div class="item-info">
                         <center><h4><a href="#">Kanishka Weeramunda</a></h4>
-                            <p>Director / Founder</p></center>
+                            <p>Founder/CEO</p></center>
                     </div>
                 </div>
             </div>
@@ -276,7 +303,7 @@
                     </div>
                     <div class="item-info">
                         <center><h4><a href="#">Dinesh Karunathilaka</a></h4>
-                            <p>Director / Founder</p></center>
+                            <p>Co-Founder</p></center>
                     </div>
                 </div>
             </div>
@@ -287,13 +314,13 @@
                     </div>
                     <div class="item-info">
                         <center><h4><a href="#">Sasindu Pathiranage</a></h4>
-                            <p>Director / Co-Founder</p></center>
+                            <p>Co-Founder/COO</p></center>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    </div>
+
 </section>
 <br><br><br>
 

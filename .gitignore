@@ -1,0 +1,6 @@
+.env
+composer.lock
+vendor
+.idea
+.phpstorm.meta.php
+_ide_helper.php

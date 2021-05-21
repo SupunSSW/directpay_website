@@ -49,8 +49,6 @@
 //});
 
 
-
-
 Route::get('/', function () {
     return view('index');
 });
@@ -107,8 +105,8 @@ Route::get('/blog9', function () {
     return view('blog9');
 });
 
-Route::get('/blogs-grid', function () {
-    return view('blogs-grid');
+Route::get('/news', function () {
+    return view('news');
 });
 
 Route::get('/Career', function () {
@@ -120,7 +118,7 @@ Route::get('/checkout', function () {
 });
 
 Route::get('/contact', function () {
-    return view('Contact');
+    return view('contact');
 });
 
 Route::get('/faq', function () {
@@ -136,11 +134,11 @@ Route::get('/payment', function () {
 });
 
 Route::get('/pos', function () {
-    return view('POS');
+    return view('pos');
 });
 
 Route::get('/privacy', function () {
-    return view('Privacy');
+    return view('privacy');
 });
 
 Route::get('/terms', function () {
@@ -152,15 +150,15 @@ Route::get('/test', function () {
 });
 
 Route::get('/vpos', function () {
-    return view('VPOS');
+    return view('vpos');
 });
 
 Route::get('/web', function () {
-    return view('Web');
+    return view('web');
 });
 
 Route::get('/whitelable', function () {
-    return view('Whitelable');
+    return view('whitelable');
 });
 
 Route::get('/mtest', function () {
@@ -171,28 +169,39 @@ Route::get('/business', function () {
     return view('business');
 });
 
+Route::get('/invoice', function () {
 
-Route::get('admin', function () {
-
-    return redirect('/login');
-});
+    return view('invoice');
 
 
-Route::group(['prefix' => '', 'middleware' => 'auth'], function () {
-    Route::get('/dashboard', function () {
-        return view('dashboard');
-    });
+    Route::get('/admin', function () {
 
-    Route::get('/create-article', function () {
-
-        return view('create-article');
-
+        return redirect('login');
     });
 
 
+
+
+    Route::group(['prefix' => '', 'middleware' => 'auth'], function () {
+        Route::get('/dashboard', function () {
+            return view('dashboard');
+        });
+
+        Route::get('/create-article', function () {
+
+            return view('create-article');
+
+        });
+
+
+    });
+
+
 });
 
+Route::post('email', [\App\Http\Controllers\ContactController::class, 'sendmail']);
 Route::post('create', [\App\Http\Controllers\uplink::class, 'rocket']);
+Route::post('create2', [\App\Http\Controllers\accVerification::class, 'verifyAcc'])->name('accountData.submit');
 
 Auth::routes();
 
@@ -214,3 +223,5 @@ Route::group(['prefix' => 'agent'], function () {
 Route::get('logout', '\App\Http\Controllers\Auth\LoginController@logout');
 
 Route::get('blog6', [\App\Http\Controllers\getData::class, 'index']);
+
+

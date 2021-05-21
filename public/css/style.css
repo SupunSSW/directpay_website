@@ -3,9 +3,9 @@
 ::-webkit-scrollbar-track { background: #e8e8e8;}
 ::-webkit-scrollbar-thumb:hover {background: #fb5496;}
 ::-webkit-scrollbar-thumb {
-background-image: -webkit-linear-gradient(45deg, #fff, #012480);
-background-image: -o-linear-gradient(45deg, #fff, #012480);
-background-image: linear-gradient(45deg, #fff, #012480);}
+background-image: -webkit-linear-gradient(45deg, #fff, #a1a1a1);
+background-image: -o-linear-gradient(45deg, #fff, #a1a1a1);
+background-image: linear-gradient(45deg, #fff, #a1a1a1);}
 /*Default css*/
 ::-moz-selection {background: rgba(166, 175, 189, 0.3);}
 ::selection {background: rgba(166, 175, 189, 0.3);}
@@ -294,7 +294,7 @@ position: relative;
 line-height: 25px;
 font-weight: 600;}
 .sub-menu-section {
-box-shadow: 0px 10px 20px 0px rgb(0 0 0 / 0.04);
+box-shadow: 0px 10px 20px 0px rgba(0 0 0 0.04);
 border-top: 2px solid #f3f3f3;
 width: 100%;
 padding:40px 0;
@@ -707,7 +707,7 @@ width: 100px;
 height: 100px;
 float: left;
 padding: 15px;
-background: #fff;
+background: #f2f2f2;
 border-radius: 8px 40px 8px 40px;
 -webkit-box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071), 0 25px 40px -30px rgba(0, 0, 0, 0.2);
 box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071), 0 25px 40px -30px rgba(0, 0, 0, 0.2);}
@@ -1841,6 +1841,13 @@ background: url(../images/hero/freelancer.png), url(../images/shape/hero-shape.s
 background-position: center center, center center;
 background-size: cover, cover;
 background-repeat: no-repeat, no-repeat;}
+
+
+.fl-career{
+    background: url(../images/hero/career.png), url(../images/shape/hero-shape.svg),#fff;
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: no-repeat, no-repeat;}
 .showin-mobile{display:none;}
 .follow-label{display: flex;}
 .follow-label h6{ margin: 0 40px 0 0px;   position: relative;}
@@ -2615,9 +2622,9 @@ background: linear-gradient(to right,  #0040ea  0%,#012480  100%);
 box-shadow: 0 10px 15px 0px rgba(0, 0, 0, .2);}
 .bg-btn2{
 background: #f92c8b;
-background: -moz-linear-gradient(left, #f92c8b 0%, #b02cd6 100%);
-background: -webkit-linear-gradient(left, #f92c8b 0%,#b02cd6 100%);
-background: linear-gradient(to right, #f92c8b 0%,#b02cd6 100%);
+background: -moz-linear-gradient(left, #000cc8 0%, #3400c4 100%);
+background: -webkit-linear-gradient(left, #000cc8 0%,#3400c4 100%);
+background: linear-gradient(to right, #000cc8 0%,#3400c4 100%);
 -webkit-box-shadow: 0 10px 15px 0px rgba(175, 0, 202, .2);
 box-shadow: 0 10px 15px 0px rgba(175, 0, 202, .2);}
 .bg-btn3 {

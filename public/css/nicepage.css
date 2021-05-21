@@ -32022,8 +32022,8 @@ a.u-link.u-text-hover-grey-90:hover {
             color: #012480 !important;
         }
 
-        
-        
+
+
         .u-custom-color-2,
         .u-body.u-custom-color-2,
         .u-container-style.u-custom-color-2:before,
@@ -32080,9 +32080,9 @@ a.u-link.u-text-hover-grey-90:hover {
             color: #ff8300 !important;
         }
 
-        
 
-        
+
+
         .u-border-custom-color-1,
         .u-separator-custom-color-1:after
         {
@@ -32127,8 +32127,8 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             border-color: #012073 !important;
         }
-        
-        
+
+
         .u-border-custom-color-2,
         .u-separator-custom-color-2:after
         {
@@ -32173,9 +32173,9 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             border-color: #e67600 !important;
         }
-        
 
-        
+
+
         .u-text-custom-color-1,
         a.u-button-style.u-text-custom-color-1,
         a.u-button-style.u-text-custom-color-1[class*="u-border-"]
@@ -32227,8 +32227,8 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             color: #012480 !important;
         }
-        
-        
+
+
         .u-text-custom-color-2,
         a.u-button-style.u-text-custom-color-2,
         a.u-button-style.u-text-custom-color-2[class*="u-border-"]
@@ -32281,7 +32281,7 @@ a.u-link.u-text-hover-grey-90:hover {
             color: #ff8300 !important;
         }
 
-        
+
 
         /** common-rules **/
         h1.u-title
@@ -32400,7 +32400,7 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         .u-body
         {
-        background-image: linear-gradient(white, #f2f2f2);
+        background-image: linear-gradient(white, white);
         background-attachment: fixed;
         }
         /** common-rules **/
@@ -32446,7 +32446,7 @@ a.u-link.u-text-hover-grey-90:hover {
         /*end-media rules*/
         /** publish-rules **/
 
-        
+
 
         /** cms-rules **/
         /*begin-responsive rules*/
@@ -32558,7 +32558,7 @@ a.u-link.u-text-hover-grey-90:hover {
         color: #ffffff;
         }
         /** alt-color-rules **/
-    
+
 
 
 /*end-variables sitestylecss*/
@@ -32850,6 +32850,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
- /*begin-variables base-font-size*/ 
+ /*begin-variables base-font-size*/
  html { font-size: 16px; }
  /*end-variables base-font-size*/

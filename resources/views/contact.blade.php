@@ -62,7 +62,7 @@
                                                 <li><a href="merchant">Merchant App</a></li>
                                                 <li><a href="pos">POS</a></li>
                                                 <li><a href="vpos">VPOS</a></li>
-                                                <li><a href="whitelable">White Lable</a></li>
+                                                <li><a href="whitelable">Platform</a></li>
                                             </ul>
                                         </div>
                                         <div class="sub-menu-column">
@@ -81,7 +81,7 @@
                             </div>
                         </div>
                     </li>
-                    <li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+                    <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
                     <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
                     <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
                     <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -113,14 +113,14 @@
                         <li><a href="merchant">Merchant App</a></li>
                         <li><a href="pos">POS</a></li>
                         <li><a href="vpos">VPOS</a></li>
-                        <li><a href="whitelable">White Lable</a></li>
+                        <li><a href="whitelable">Platform</a></li>
                         <li><a href="https://www.directpay.lk/developer/"><font color="#012480"
                                                                                 size="3.5px">Developer</font></a></li>
                         <li><a href="https://www.directpay.lk/developer/">Sandbox</a></li>
 
                     </ul>
                 </li>
-                <li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+                <li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
                 <li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
                 <li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
                 <li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -183,7 +183,7 @@
                 <!-- Modal body -->
                 <div class="modal-body">
                     <div class="form-block fdgn2 mt10 mb10">
-                        <form action="#" method="post" name="feedback-form">
+                        <form action="#" method="post" name="feedback-form" >
                             <div class="fieldsets row">
                                 <div class="col-md-12"><input type="text" placeholder="Full Name" name="name"></div>
                                 <div class="col-md-12"><input type="email" placeholder="Email Address" name="email">
@@ -245,7 +245,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 v-center">
                 <div class="form-block">
-                    <form id="contact-form" method="post" action="php/contact" data-toggle="validator">
+                    <form id="contact-form" method="post" action="/email" data-toggle="validator">
+                        @csrf
                         <div class="messages"></div>
                         <div class="fieldsets row">
                             <div class="col-md-6 form-group"><input id="form_name" type="text" name="name"
@@ -269,7 +270,7 @@
                             <div class="col-md-6 form-group"><select id="form_need" name="need" required="required"
                                                                      data-error="Specify your need.">
                                     <option value="">Select Catogery</option>
-                                    <option value="Graphic Design">Genaral Support</option>
+                                    <option value="Graphic Design">General Support</option>
                                     <option value="Web Design">Technical Support</option>
                                     <option value="App Design">Careers</option>
                                     <option value="Other">Complains</option>

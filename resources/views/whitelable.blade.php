@@ -21,22 +21,22 @@
 		<link href="css/responsive.css" rel="stylesheet">
 	</head>
 	<body>
-		
+
 			<!--Start Header -->
 
 		<!-- top bar end -->
 <header class="nav-bg-w main-header navfix fixed-top menu-white">
 			<div class="container-fluid m-pad">
-				
+
 				<div class="menu-header">
 					<div class="dsk-logo"><a class="nav-brand" href="business">
 						<img src="images/white-logo-b.png" alt="Logo" class="mega-white-logo"/>
-						<img src="images/logo-b.png" alt="Logo" class="mega-darks-logo"/ width="180px">
+						<img src="images/logo-b.png" alt="Logo" class="mega-darks-logo" width="180px">
 					</a></div>
 					<div class="custom-nav" role="navigation">
 						<ul class="nav-list">
 							<li class="sbmenu"><a href="consumer" class="menu-links">Home</a>
-						
+
 						</li>
 						<li class="sbmenu"><a href="#" class="menu-links">Services and Solutions</a>
 						<div class="nx-dropdown">
@@ -48,17 +48,17 @@
 												<li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-												
+
 											</ul>
 										</div>
 										<div class="sub-menu-column">
 											<ul>
-												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></font></a></li>
+												<li><a href="merchant"><font color="#ff822e" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
 												<li><a href="vpos">VPOS</a> </li>
-												<li><a href="whitelable">White Lable</a> </li>
+												<li><a href="whitelable">Platform</a> </li>
 											</ul>
 										</div>
 										<div class="sub-menu-column">
@@ -75,7 +75,7 @@
 							</div>
 						</div>
 					</li>
-					<li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+					<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
 					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
 					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
 					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -103,18 +103,18 @@
 <li><a href="consumer"><font color="#012480" size="3.5px">Consumer</font></a></li>
 												<li><a href="consumer">User App</a></li>
 												<li><a href="web">Web</a></li>
-<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></font></a></li>
+<li><a href="merchant"><font color="#012480" size="3.5px">Business</font></a></li>
 												<li><a href="ipg">IPG</a></li>
 												<li><a href="merchant">Merchant App</a> </li>
 												<li><a href="pos">POS</a> </li>
 												<li><a href="vpos">VPOS</a> </li>
-												<li><a href="whitelable">White Lable</a> </li>
+												<li><a href="whitelable">Platform</a> </li>
 <li><a href="https://www.directpay.lk/developer/"><font color="#012480" size="3.5px">Developer</font></a> </li>
 												<li><a href="https://www.directpay.lk/developer/">Sandbox</a> </li>
 
 </ul>
 </li>
-<li class="sbmenu rpdropdown"><a href="blogs-grid" class="menu-links">NEWS</a></li>
+<li class="sbmenu rpdropdown"><a href="news" class="menu-links">NEWS</a></li>
 					<li class="sbmenu rpdropdown"><a href="about" class="menu-links">About us</a></li>
 					<li class="sbmenu rpdropdown"><a href="Career" class="menu-links">Careers</a></li>
 					<li class="sbmenu rpdropdown"><a href="contact" class="menu-links">Contacts</a></li>
@@ -131,7 +131,7 @@
 <div class="modal-content">
 <div class="modal-header">
 	<div class="common-heading">
-		<h4 class="mt0 mb0">Write a Message</h4>		
+		<h4 class="mt0 mb0">Write a Message</h4>
 	</div>
 <button type="button" class="closes" data-dismiss="modal">&times;</button></div>
 <!-- Modal body -->
@@ -165,7 +165,7 @@
 <div class="modal-content">
 <div class="modal-header">
 	<div class="common-heading">
-		<h4 class="mt0 mb0">Write a Message</h4>		
+		<h4 class="mt0 mb0">Write a Message</h4>
 	</div>
 <button type="button" class="closes" data-dismiss="modal">&times;</button></div>
 <!-- Modal body -->
@@ -213,7 +213,7 @@
 
 <div class="common-heading">
 <h2 class="mb30">DirectPay Platform as a Service</h2>
-<center><h6>Your Brand. Our Technology.</span></h6></center>
+<center><span><h6>Your Brand. Our Technology.</h6></span></center>
 <br>
 </div>
 
@@ -260,7 +260,7 @@
 
 </div>
 </div>
-</div>
+
 </section>
 <br><br><br><br>
 <section>
